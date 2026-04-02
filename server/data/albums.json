@@ -1,0 +1,2739 @@
+[
+  {
+    "id": "GRVLP001",
+    "title": "Pocket Park",
+    "artistId": "miki-matsubara",
+    "artistName": "Miki Matsubara",
+    "description": "The city pop masterpiece that launched a thousand TikToks. Miki Matsubara's 1980 debut is a shimmering blend of disco, jazz-funk, and pop sophistication, anchored by the immortal 'Mayonaka no Door / Stay With Me.' Remastered and pressed on aqua blue vinyl.",
+    "price": 39.00,
+    "releaseDate": "2026-06-15",
+    "originalReleaseYear": 1980,
+    "vinylColor": "blue",
+    "genre": "city-pop",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP001",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Mayonaka no Door / Stay With Me", "duration": "4:32" },
+          { "number": 2, "title": "It's So Creamy", "duration": "4:15" },
+          { "number": 3, "title": "Cryin'", "duration": "4:48" },
+          { "number": 4, "title": "That's All", "duration": "3:56" },
+          { "number": 5, "title": "His Woman", "duration": "3:42" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Manhattan Wind", "duration": "4:10" },
+          { "number": 2, "title": "Ai wa Energy", "duration": "3:58" },
+          { "number": 3, "title": "Soushite Watashi ga", "duration": "4:22" },
+          { "number": 4, "title": "Trouble Maker", "duration": "3:34" },
+          { "number": 5, "title": "Mind Game", "duration": "4:05" },
+          { "number": 6, "title": "Itsuwari no Nai Hibi", "duration": "3:48" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "2KdA0eZh5kenzjSKfPAriM",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": true,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": ["out-this-week"]
+  },
+  {
+    "id": "GRVLP002",
+    "title": "Não Deixe o Samba Morrer",
+    "artistId": "alcione",
+    "artistName": "Alcione",
+    "description": "Alcione's groundbreaking 1975 debut that established her as the reigning queen of samba. Her powerful voice tears through each track with a passion that captures the soul of Brazil's favelas and ballrooms alike.",
+    "price": 33.00,
+    "releaseDate": "2026-05-20",
+    "originalReleaseYear": 1975,
+    "vinylColor": "gold",
+    "genre": "soul",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP002",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Não Deixe o Samba Morrer", "duration": "3:20" },
+          { "number": 2, "title": "O Surdo", "duration": "2:55" },
+          { "number": 3, "title": "Eu Sou a Maresia", "duration": "3:10" },
+          { "number": 4, "title": "Canto de Rainha", "duration": "3:45" },
+          { "number": 5, "title": "Meu Vício É Você", "duration": "3:02" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Gostoso Veneno", "duration": "3:30" },
+          { "number": 2, "title": "A Loba", "duration": "2:48" },
+          { "number": 3, "title": "Figa de Guiné", "duration": "3:15" },
+          { "number": 4, "title": "Vá Cuidar de Sua Vida", "duration": "3:38" },
+          { "number": 5, "title": "Samba da Bênção", "duration": "4:10" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": true,
+    "isPreOrder": false,
+    "tags": [],
+    "originalPrice": 42.00
+  },
+  {
+    "id": "GRVLP003",
+    "title": "Tidal",
+    "artistId": "fiona-apple",
+    "artistName": "Fiona Apple",
+    "description": "The album that announced a generational talent. Recorded when she was just 18, Tidal is a devastating blend of jazz-inflected piano pop and raw confessional songwriting. 'Criminal' and 'Shadowboxer' remain career-defining moments.",
+    "price": 35.00,
+    "releaseDate": "2026-05-10",
+    "originalReleaseYear": 1996,
+    "vinylColor": "black",
+    "genre": "indie",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP003",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Sleep to Dream", "duration": "3:28" },
+          { "number": 2, "title": "Sullen Girl", "duration": "3:43" },
+          { "number": 3, "title": "Shadowboxer", "duration": "5:03" },
+          { "number": 4, "title": "Criminal", "duration": "4:25" },
+          { "number": 5, "title": "Slow Like Honey", "duration": "4:20" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "The First Taste", "duration": "4:07" },
+          { "number": 2, "title": "Never Is a Promise", "duration": "4:29" },
+          { "number": 3, "title": "The Child Is Gone", "duration": "3:58" },
+          { "number": 4, "title": "Pale September", "duration": "3:44" },
+          { "number": 5, "title": "Carrion", "duration": "5:22" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "4GBFmLEn6bCRRnOgbKFMkS",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP004",
+    "title": "Hopes and Fears",
+    "artistId": "keane",
+    "artistName": "Keane",
+    "description": "The piano-rock album that conquered the world without a single guitar. Keane's debut is a masterclass in emotional melody, featuring the anthemic 'Somewhere Only We Know' and 'Everybody's Changing.' Pure, unfiltered British songcraft.",
+    "price": 29.00,
+    "releaseDate": "2026-04-15",
+    "originalReleaseYear": 2004,
+    "vinylColor": "white",
+    "genre": "rock",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP004",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Somewhere Only We Know", "duration": "3:57" },
+          { "number": 2, "title": "This Is the Last Time", "duration": "3:20" },
+          { "number": 3, "title": "Bend and Break", "duration": "3:39" },
+          { "number": 4, "title": "We Might as Well Be Strangers", "duration": "3:07" },
+          { "number": 5, "title": "Everybody's Changing", "duration": "3:36" },
+          { "number": 6, "title": "Your Eyes Open", "duration": "3:47" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "She Has No Time", "duration": "4:16" },
+          { "number": 2, "title": "Can't Stop Now", "duration": "3:36" },
+          { "number": 3, "title": "Sunshine", "duration": "3:12" },
+          { "number": 4, "title": "Untitled 1", "duration": "3:33" },
+          { "number": 5, "title": "Bedshaped", "duration": "4:41" },
+          { "number": 6, "title": "On a Day Like Today", "duration": "3:05" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "1UVOGx4VSKPJiSdVOOPHP7",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP005",
+    "title": "The Marshall Mathers LP",
+    "artistId": "eminem",
+    "artistName": "Eminem",
+    "description": "The album that made America lose its collective mind. Eminem's magnum opus is a relentless assault of technical brilliance, dark comedy, and raw autobiography that redefined the boundaries of what hip-hop could say and do. Pressed on white marble vinyl.",
+    "price": 45.00,
+    "releaseDate": "2026-07-01",
+    "originalReleaseYear": 2000,
+    "vinylColor": "marble-black-white",
+    "genre": "hip-hop",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP005",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Public Service Announcement 2000", "duration": "0:26" },
+          { "number": 2, "title": "Kill You", "duration": "4:24" },
+          { "number": 3, "title": "Stan", "duration": "6:44" },
+          { "number": 4, "title": "Paul (Skit)", "duration": "0:12" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Who Knew", "duration": "3:47" },
+          { "number": 2, "title": "Steve Berman (Skit)", "duration": "0:53" },
+          { "number": 3, "title": "The Way I Am", "duration": "4:50" },
+          { "number": 4, "title": "The Real Slim Shady", "duration": "4:44" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "Remember Me?", "duration": "3:30" },
+          { "number": 2, "title": "I'm Back", "duration": "5:10" },
+          { "number": 3, "title": "Marshall Mathers", "duration": "5:20" },
+          { "number": 4, "title": "Drug Ballad", "duration": "5:01" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Amityville", "duration": "4:14" },
+          { "number": 2, "title": "Bitch Please II", "duration": "4:48" },
+          { "number": 3, "title": "Criminal", "duration": "5:19" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "6t7956yu5zYf5A829XRiHC",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": true,
+    "tags": ["new-arrivals"]
+  },
+  {
+    "id": "GRVLP006",
+    "title": "good kid, m.A.A.d city",
+    "artistId": "kendrick-lamar",
+    "artistName": "Kendrick Lamar",
+    "description": "A cinematic coming-of-age masterpiece set in the streets of Compton. Kendrick's major-label debut plays like a short film, weaving storytelling, social commentary, and virtuosic rapping into the most important hip-hop album of the 2010s.",
+    "price": 39.00,
+    "releaseDate": "2026-05-26",
+    "originalReleaseYear": 2012,
+    "vinylColor": "black",
+    "genre": "hip-hop",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP006",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Sherane a.k.a Master Splinter's Daughter", "duration": "4:33" },
+          { "number": 2, "title": "Bitch, Don't Kill My Vibe", "duration": "5:10" },
+          { "number": 3, "title": "Backseat Freestyle", "duration": "3:32" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "The Art of Peer Pressure", "duration": "5:24" },
+          { "number": 2, "title": "Money Trees", "duration": "6:26" },
+          { "number": 3, "title": "Poetic Justice", "duration": "5:00" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "good kid", "duration": "3:33" },
+          { "number": 2, "title": "m.A.A.d city", "duration": "5:50" },
+          { "number": 3, "title": "Swimming Pools (Drank)", "duration": "5:13" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Sing About Me, I'm Dying of Thirst", "duration": "12:03" },
+          { "number": 2, "title": "Real", "duration": "7:23" },
+          { "number": 3, "title": "Compton", "duration": "5:27" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "748dZDqSZy6aPXKcI9H80u",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP007",
+    "title": "Legend",
+    "artistId": "bob-marley",
+    "artistName": "Bob Marley",
+    "description": "The essential Bob Marley collection. Legend is the best-selling reggae album of all time for a reason — every track is a timeless anthem of love, resistance, and spiritual awakening. Pressed on green vinyl, as Jah intended.",
+    "price": 35.00,
+    "releaseDate": "2026-04-20",
+    "originalReleaseYear": 1984,
+    "vinylColor": "green",
+    "genre": "reggae",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP007",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Is This Love", "duration": "3:50" },
+          { "number": 2, "title": "No Woman, No Cry", "duration": "7:08" },
+          { "number": 3, "title": "Could You Be Loved", "duration": "3:57" },
+          { "number": 4, "title": "Three Little Birds", "duration": "3:00" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Buffalo Soldier", "duration": "4:18" },
+          { "number": 2, "title": "Get Up, Stand Up", "duration": "3:17" },
+          { "number": 3, "title": "Stir It Up", "duration": "5:32" },
+          { "number": 4, "title": "One Love / People Get Ready", "duration": "2:52" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "I Shot the Sheriff", "duration": "4:41" },
+          { "number": 2, "title": "Waiting in Vain", "duration": "4:16" },
+          { "number": 3, "title": "Redemption Song", "duration": "3:48" },
+          { "number": 4, "title": "Satisfy My Soul", "duration": "4:31" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Exodus", "duration": "7:40" },
+          { "number": 2, "title": "Jamming", "duration": "3:31" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "4yBEXMsFeQodYyBWMBBZko",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": true,
+    "isPreOrder": false,
+    "tags": [],
+    "originalPrice": 45.00
+  },
+  {
+    "id": "GRVLP008",
+    "title": "Currents",
+    "artistId": "tame-impala",
+    "artistName": "Tame Impala",
+    "description": "Kevin Parker shed his guitar-rock skin and emerged as a synth-pop auteur. Currents is a kaleidoscopic journey through heartbreak and transformation, where every sound seems to shimmer and dissolve like a memory you can't quite hold onto.",
+    "price": 42.00,
+    "releaseDate": "2026-06-01",
+    "originalReleaseYear": 2015,
+    "vinylColor": "marble-red",
+    "genre": "indie",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP008",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Let It Happen", "duration": "7:46" },
+          { "number": 2, "title": "Nangs", "duration": "1:47" },
+          { "number": 3, "title": "The Moment", "duration": "4:15" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Yes I'm Changing", "duration": "4:30" },
+          { "number": 2, "title": "Eventually", "duration": "5:18" },
+          { "number": 3, "title": "Gossip", "duration": "0:44" },
+          { "number": 4, "title": "Past Life", "duration": "3:47" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "Disciples", "duration": "1:48" },
+          { "number": 2, "title": "Cause I'm a Man", "duration": "3:56" },
+          { "number": 3, "title": "Reality in Motion", "duration": "4:12" },
+          { "number": 4, "title": "Love/Paranoia", "duration": "3:21" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "The Less I Know the Better", "duration": "3:36" },
+          { "number": 2, "title": "New Person, Same Old Mistakes", "duration": "6:03" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "79dL7FLiJFOO0EoehUHQBv",
+    "coverImage": "",
+    "isFeatured": true,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": ["album-of-the-month"]
+  },
+  {
+    "id": "GRVLP009",
+    "title": "Clair de Lune & Other Piano Works",
+    "artistId": "claude-debussy",
+    "artistName": "Claude Debussy",
+    "description": "The most beautiful piano music ever written, captured in audiophile quality. Debussy's impressionistic masterworks — including the iconic 'Clair de Lune' — shimmer with a luminous beauty that transcends time and genre.",
+    "price": 29.00,
+    "releaseDate": "2026-04-01",
+    "originalReleaseYear": 1905,
+    "vinylColor": "transparent",
+    "genre": "classic",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP009",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Suite Bergamasque: Clair de Lune", "duration": "5:00" },
+          { "number": 2, "title": "Rêverie", "duration": "4:20" },
+          { "number": 3, "title": "Deux Arabesques: No. 1", "duration": "4:15" },
+          { "number": 4, "title": "Deux Arabesques: No. 2", "duration": "3:40" },
+          { "number": 5, "title": "La fille aux cheveux de lin", "duration": "2:30" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Suite Bergamasque: Prélude", "duration": "4:30" },
+          { "number": 2, "title": "Suite Bergamasque: Menuet", "duration": "4:00" },
+          { "number": 3, "title": "Suite Bergamasque: Passepied", "duration": "3:50" },
+          { "number": 4, "title": "Children's Corner: Golliwog's Cakewalk", "duration": "3:10" },
+          { "number": 5, "title": "La cathédrale engloutie", "duration": "6:00" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP010",
+    "title": "The Good, the Bad and the Ugly",
+    "artistId": "ennio-morricone",
+    "artistName": "Ennio Morricone",
+    "description": "The soundtrack that redefined film music forever. Morricone's iconic score — with its unforgettable whistle, howling coyotes, and operatic grandeur — turned a Sergio Leone western into a timeless work of art. Essential vinyl for any collection.",
+    "price": 35.00,
+    "releaseDate": "2026-04-10",
+    "originalReleaseYear": 1966,
+    "vinylColor": "gold",
+    "genre": "soundtrack",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP010",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "The Good, the Bad and the Ugly (Main Title)", "duration": "2:39" },
+          { "number": 2, "title": "The Sundown", "duration": "2:10" },
+          { "number": 3, "title": "The Strong", "duration": "4:50" },
+          { "number": 4, "title": "The Desert", "duration": "5:16" },
+          { "number": 5, "title": "The Carriage of the Spirits", "duration": "3:28" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Marcia", "duration": "2:33" },
+          { "number": 2, "title": "The Story of a Soldier", "duration": "4:40" },
+          { "number": 3, "title": "Marcia Without Hope", "duration": "2:22" },
+          { "number": 4, "title": "The Death of a Soldier", "duration": "2:10" },
+          { "number": 5, "title": "The Ecstasy of Gold", "duration": "3:23" },
+          { "number": 6, "title": "The Trio (Main Title)", "duration": "5:04" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "7LXrRz7dMwNJIuGPsh0VNi",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": true,
+    "isPreOrder": false,
+    "tags": [],
+    "originalPrice": 45.00
+  },
+  {
+    "id": "GRVLP011",
+    "title": "IGOR",
+    "artistId": "tyler-the-creator",
+    "artistName": "Tyler, The Creator",
+    "description": "Tyler's genre-defying concept album about unrequited love. IGOR is a soul-drenched, synth-heavy fever dream that earned Tyler his first Grammy. Not a rap album, not a pop album — something entirely its own. Pink vinyl for the pink-wigged protagonist.",
+    "price": 39.00,
+    "releaseDate": "2026-06-20",
+    "originalReleaseYear": 2019,
+    "vinylColor": "pink",
+    "genre": "hip-hop",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP011",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "IGOR'S THEME", "duration": "3:00" },
+          { "number": 2, "title": "EARFQUAKE", "duration": "3:10" },
+          { "number": 3, "title": "I THINK", "duration": "3:30" },
+          { "number": 4, "title": "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING", "duration": "0:14" },
+          { "number": 5, "title": "RUNNING OUT OF TIME", "duration": "2:57" },
+          { "number": 6, "title": "NEW MAGIC WAND", "duration": "3:15" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "A BOY IS A GUN*", "duration": "3:22" },
+          { "number": 2, "title": "PUPPET", "duration": "3:01" },
+          { "number": 3, "title": "WHAT'S GOOD", "duration": "2:27" },
+          { "number": 4, "title": "GONE, GONE / THANK YOU", "duration": "6:00" },
+          { "number": 5, "title": "I DON'T LOVE YOU ANYMORE", "duration": "3:21" },
+          { "number": 6, "title": "ARE WE STILL FRIENDS?", "duration": "3:56" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "5zi7WsKlIiUXv09tbGLKsE",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": true,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": ["out-this-week"]
+  },
+  {
+    "id": "GRVLP012",
+    "title": "Sound & Color",
+    "artistId": "alabama-shakes",
+    "artistName": "Alabama Shakes",
+    "description": "Alabama Shakes shed their blues-rock roots and emerged with something far more ambitious. Sound & Color is a bold, psychedelic soul record with Brittany Howard's voice reaching new heights of power and vulnerability. Winner of four Grammys.",
+    "price": 33.00,
+    "releaseDate": "2026-05-15",
+    "originalReleaseYear": 2015,
+    "vinylColor": "transparent",
+    "genre": "rock",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP012",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Sound & Color", "duration": "4:04" },
+          { "number": 2, "title": "Don't Wanna Fight", "duration": "5:04" },
+          { "number": 3, "title": "Dunes", "duration": "3:23" },
+          { "number": 4, "title": "Future People", "duration": "3:43" },
+          { "number": 5, "title": "Gimme All Your Love", "duration": "5:17" },
+          { "number": 6, "title": "This Feeling", "duration": "2:50" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Guess Who", "duration": "3:14" },
+          { "number": 2, "title": "The Greatest", "duration": "3:51" },
+          { "number": 3, "title": "Shoegaze", "duration": "4:01" },
+          { "number": 4, "title": "Miss You", "duration": "4:35" },
+          { "number": 5, "title": "Gemini", "duration": "6:36" },
+          { "number": 6, "title": "Over My Head", "duration": "4:45" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "1FABbGmKMPWBDhKNxtiEni",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP013",
+    "title": "Man on the Moon: The End of Day",
+    "artistId": "kid-cudi",
+    "artistName": "Kid Cudi",
+    "description": "The album that gave a generation permission to feel. Kid Cudi's debut is a spacey, melancholic journey through loneliness, anxiety, and the search for meaning — featuring 'Day 'N' Nite' and 'Pursuit of Happiness.' A landmark in emo-rap.",
+    "price": 35.00,
+    "releaseDate": "2026-05-30",
+    "originalReleaseYear": 2009,
+    "vinylColor": "purple",
+    "genre": "hip-hop",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP013",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "In My Dreams", "duration": "1:25" },
+          { "number": 2, "title": "Soundtrack 2 My Life", "duration": "4:06" },
+          { "number": 3, "title": "Simple As...", "duration": "3:55" },
+          { "number": 4, "title": "Solo Dolo (Nightmare)", "duration": "4:28" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Heart of a Lion", "duration": "3:40" },
+          { "number": 2, "title": "My World", "duration": "3:14" },
+          { "number": 3, "title": "Day 'N' Nite (Nightmare)", "duration": "3:43" },
+          { "number": 4, "title": "Sky Might Fall", "duration": "3:37" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "Enter Galactic (Love Connection Part I)", "duration": "3:50" },
+          { "number": 2, "title": "Alive (Nightmare)", "duration": "3:24" },
+          { "number": 3, "title": "Cudi Zone", "duration": "4:11" },
+          { "number": 4, "title": "Make Her Say", "duration": "3:44" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Pursuit of Happiness (Nightmare)", "duration": "4:29" },
+          { "number": 2, "title": "Hyyerr", "duration": "4:17" },
+          { "number": 3, "title": "Up Up & Away", "duration": "4:11" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "1XnFat8Pko1GjGz9hhATJj",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP014",
+    "title": "Disintegration",
+    "artistId": "the-cure",
+    "artistName": "The Cure",
+    "description": "The Cure's dark masterwork. Disintegration is 72 minutes of lush, cathedral-sized post-punk that drowns you in reverb, synths, and Robert Smith's achingly beautiful vocals. Contains 'Lovesong,' 'Pictures of You,' and 'Lullaby.' Essential gothic romance.",
+    "price": 42.00,
+    "releaseDate": "2026-06-10",
+    "originalReleaseYear": 1989,
+    "vinylColor": "black",
+    "genre": "post-punk",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP014",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Plainsong", "duration": "5:12" },
+          { "number": 2, "title": "Pictures of You", "duration": "7:24" },
+          { "number": 3, "title": "Closedown", "duration": "4:17" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Lovesong", "duration": "3:29" },
+          { "number": 2, "title": "Last Dance", "duration": "4:42" },
+          { "number": 3, "title": "Lullaby", "duration": "4:09" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "Fascination Street", "duration": "5:16" },
+          { "number": 2, "title": "Prayers for Rain", "duration": "6:05" },
+          { "number": 3, "title": "The Same Deep Water as You", "duration": "9:18" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Disintegration", "duration": "8:18" },
+          { "number": 2, "title": "Homesick", "duration": "7:05" },
+          { "number": 3, "title": "Untitled", "duration": "6:30" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "1dm7Fn1yzVIGdug3MjpGXR",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP015",
+    "title": "Hurry Up, We're Dreaming",
+    "artistId": "m83",
+    "artistName": "M83",
+    "description": "A double album that sounds like an entire childhood compressed into two hours of shimmering synths. M83's magnum opus builds from whispered atmospherics to the explosive euphoria of 'Midnight City.' Nostalgia has never sounded this epic.",
+    "price": 45.00,
+    "releaseDate": "2026-07-10",
+    "originalReleaseYear": 2011,
+    "vinylColor": "orange",
+    "genre": "electronic",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP015",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Intro", "duration": "1:44" },
+          { "number": 2, "title": "Midnight City", "duration": "4:03" },
+          { "number": 3, "title": "Reunion", "duration": "6:08" },
+          { "number": 4, "title": "Where the Boats Go", "duration": "2:51" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Wait", "duration": "5:19" },
+          { "number": 2, "title": "Raconte-Moi Une Histoire", "duration": "4:07" },
+          { "number": 3, "title": "Train to Pluton", "duration": "3:37" },
+          { "number": 4, "title": "Claudia Lewis", "duration": "4:39" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "This Bright Flash", "duration": "1:25" },
+          { "number": 2, "title": "When Will You Come Home?", "duration": "3:53" },
+          { "number": 3, "title": "Soon, My Friend", "duration": "4:08" },
+          { "number": 4, "title": "Mirror", "duration": "2:08" },
+          { "number": 5, "title": "My Tears Are Becoming a Sea", "duration": "4:28" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "New Map", "duration": "3:52" },
+          { "number": 2, "title": "OK Pal", "duration": "1:02" },
+          { "number": 3, "title": "Another Wave from You", "duration": "4:21" },
+          { "number": 4, "title": "Splendor", "duration": "2:38" },
+          { "number": 5, "title": "Year One, One UFO", "duration": "1:03" },
+          { "number": 6, "title": "Outro", "duration": "5:09" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "6R0ynY7RF20ofs9GJR5TXR",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP016",
+    "title": "Racional Vol. 1",
+    "artistId": "tim-maia",
+    "artistName": "Tim Maia",
+    "description": "The holy grail of Brazilian funk. Tim Maia's Racional albums, recorded during his brief involvement with the Universo em Desencanto cult, are psychedelic soul masterpieces that fetch thousands on the collectors' market. Now accessible on reissue vinyl.",
+    "price": 49.00,
+    "releaseDate": "2026-07-20",
+    "originalReleaseYear": 1975,
+    "vinylColor": "yellow",
+    "genre": "funk",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP016",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Imunização Racional (Universo em Desencanto)", "duration": "8:10" },
+          { "number": 2, "title": "Que Beleza", "duration": "4:30" },
+          { "number": 3, "title": "O Caminho do Bem", "duration": "3:45" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Bom Senso", "duration": "5:00" },
+          { "number": 2, "title": "Rational Culture", "duration": "6:20" },
+          { "number": 3, "title": "Lamento de um Velho", "duration": "4:15" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": true,
+    "tags": ["new-arrivals"]
+  },
+  {
+    "id": "GRVLP017",
+    "title": "Demon Days",
+    "artistId": "gorillaz",
+    "artistName": "Gorillaz",
+    "description": "Damon Albarn's virtual band delivered the impossible: a genre-smashing masterpiece featuring De La Soul, Shaun Ryder, Bootie Brown, and more. 'Feel Good Inc.' and 'DARE' became anthems. The album is a dark, cinematic trip through a collapsing world.",
+    "price": 39.00,
+    "releaseDate": "2026-06-05",
+    "originalReleaseYear": 2005,
+    "vinylColor": "red",
+    "genre": "electronic",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP017",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Intro", "duration": "1:03" },
+          { "number": 2, "title": "Last Living Souls", "duration": "3:09" },
+          { "number": 3, "title": "Kids with Guns", "duration": "3:46" },
+          { "number": 4, "title": "O Green World", "duration": "4:34" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Dirty Harry", "duration": "3:45" },
+          { "number": 2, "title": "Feel Good Inc.", "duration": "3:41" },
+          { "number": 3, "title": "El Mañana", "duration": "3:50" },
+          { "number": 4, "title": "Every Planet We Reach Is Dead", "duration": "4:53" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "November Has Come", "duration": "2:42" },
+          { "number": 2, "title": "All Alone", "duration": "3:32" },
+          { "number": 3, "title": "White Light", "duration": "2:02" },
+          { "number": 4, "title": "DARE", "duration": "4:06" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Fire Coming Out of the Monkey's Head", "duration": "3:13" },
+          { "number": 2, "title": "Don't Get Lost in Heaven", "duration": "1:55" },
+          { "number": 3, "title": "Demon Days", "duration": "4:28" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "0bUTHlWbkSQysoM3VsWldT",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": true,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": ["out-this-week"]
+  },
+  {
+    "id": "GRVLP018",
+    "title": "Rumours",
+    "artistId": "fleetwood-mac",
+    "artistName": "Fleetwood Mac",
+    "description": "The sound of a band falling apart and making the best album of their lives. Every track on Rumours is a classic — from 'Dreams' to 'The Chain' to 'Go Your Own Way.' 40 million copies sold and still the gold standard for pop-rock perfection.",
+    "price": 35.00,
+    "releaseDate": "2026-04-25",
+    "originalReleaseYear": 1977,
+    "vinylColor": "black",
+    "genre": "rock",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP018",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Second Hand News", "duration": "2:56" },
+          { "number": 2, "title": "Dreams", "duration": "4:14" },
+          { "number": 3, "title": "Never Going Back Again", "duration": "2:14" },
+          { "number": 4, "title": "Don't Stop", "duration": "3:11" },
+          { "number": 5, "title": "Go Your Own Way", "duration": "3:38" },
+          { "number": 6, "title": "Songbird", "duration": "3:20" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "The Chain", "duration": "4:28" },
+          { "number": 2, "title": "You Make Loving Fun", "duration": "3:31" },
+          { "number": 3, "title": "I Don't Want to Know", "duration": "3:15" },
+          { "number": 4, "title": "Oh Daddy", "duration": "3:56" },
+          { "number": 5, "title": "Gold Dust Woman", "duration": "4:51" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "1bt6q2SruMsBtcerNVtpZB",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP019",
+    "title": "Cold Fact",
+    "artistId": "sixto-rodriguez",
+    "artistName": "Sixto Rodriguez",
+    "description": "The album that was a flop in Detroit and a revolution in South Africa. Rodriguez's debut is a stunning collection of folk-rock protest songs with a poetic edge. Rediscovered decades later, it stands as one of the greatest overlooked albums ever made.",
+    "price": 29.00,
+    "releaseDate": "2026-05-05",
+    "originalReleaseYear": 1970,
+    "vinylColor": "black",
+    "genre": "rock",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP019",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Sugar Man", "duration": "5:35" },
+          { "number": 2, "title": "Only Good for Conversation", "duration": "2:40" },
+          { "number": 3, "title": "Crucify Your Mind", "duration": "2:25" },
+          { "number": 4, "title": "This Is Not a Song, It's an Outburst", "duration": "0:43" },
+          { "number": 5, "title": "Hate Street Dialogue", "duration": "3:30" },
+          { "number": 6, "title": "Forget It", "duration": "2:18" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Inner City Blues", "duration": "3:22" },
+          { "number": 2, "title": "I Wonder", "duration": "3:48" },
+          { "number": 3, "title": "Like Janis", "duration": "3:08" },
+          { "number": 4, "title": "Gommorah (A Nursery Rhyme)", "duration": "1:09" },
+          { "number": 5, "title": "Rich Folks Hoax", "duration": "3:07" },
+          { "number": 6, "title": "Jane S. Piddy", "duration": "2:22" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "7aEamGER7NeMXFsNOjprA0",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": true,
+    "isPreOrder": false,
+    "tags": [],
+    "originalPrice": 39.00
+  },
+  {
+    "id": "GRVLP020",
+    "title": "The Stranger",
+    "artistId": "billy-joel",
+    "artistName": "Billy Joel",
+    "description": "The album where Billy Joel became Billy Joel. 'Scenes from an Italian Restaurant,' 'Vienna,' 'Just the Way You Are' — every track is a perfectly crafted pop-rock gem. The Piano Man at his absolute peak.",
+    "price": 33.00,
+    "releaseDate": "2026-05-01",
+    "originalReleaseYear": 1977,
+    "vinylColor": "black",
+    "genre": "rock",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP020",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Movin' Out (Anthony's Song)", "duration": "3:30" },
+          { "number": 2, "title": "The Stranger", "duration": "5:10" },
+          { "number": 3, "title": "Just the Way You Are", "duration": "4:49" },
+          { "number": 4, "title": "Scenes from an Italian Restaurant", "duration": "7:37" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Vienna", "duration": "3:34" },
+          { "number": 2, "title": "Only the Good Die Young", "duration": "3:55" },
+          { "number": 3, "title": "She's Always a Woman", "duration": "3:21" },
+          { "number": 4, "title": "Get It Right the First Time", "duration": "3:57" },
+          { "number": 5, "title": "Everybody Has a Dream", "duration": "6:39" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "1Cz7cflG0bZVwqGO0PJGNT",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP021",
+    "title": "Dancehall Queen",
+    "artistId": "the-blaze",
+    "artistName": "The Blaze",
+    "description": "French electronic duo The Blaze create music that hits like a gut punch of raw emotion. Their debut album pairs minimal, pulsing house beats with deeply human themes of family, migration, and belonging. Music for feeling, not just dancing.",
+    "price": 35.00,
+    "releaseDate": "2026-06-25",
+    "originalReleaseYear": 2018,
+    "vinylColor": "white",
+    "genre": "electronic",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP021",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Places", "duration": "2:16" },
+          { "number": 2, "title": "She", "duration": "3:46" },
+          { "number": 3, "title": "Virile", "duration": "4:46" },
+          { "number": 4, "title": "Mount", "duration": "3:40" },
+          { "number": 5, "title": "Heaven", "duration": "6:10" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Queens", "duration": "4:23" },
+          { "number": 2, "title": "Eyes", "duration": "2:48" },
+          { "number": 3, "title": "Faces", "duration": "5:30" },
+          { "number": 4, "title": "Home", "duration": "3:08" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "5R5AORJMFCoI1TfjxDyiao",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP022",
+    "title": "Spirited Away (Original Soundtrack)",
+    "artistId": "joe-hisaishi",
+    "artistName": "Joe Hisaishi",
+    "description": "The enchanting score to Hayao Miyazaki's Oscar-winning masterpiece. Hisaishi's compositions capture the wonder, terror, and beauty of Chihiro's journey with a delicacy that makes you believe in magic. Essential for any Studio Ghibli fan.",
+    "price": 42.00,
+    "releaseDate": "2026-07-15",
+    "originalReleaseYear": 2001,
+    "vinylColor": "blue",
+    "genre": "soundtrack",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP022",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "One Summer's Day", "duration": "3:30" },
+          { "number": 2, "title": "A Road to Somewhere", "duration": "2:50" },
+          { "number": 3, "title": "The Empty Restaurant", "duration": "2:15" },
+          { "number": 4, "title": "Nighttime Coming", "duration": "2:45" },
+          { "number": 5, "title": "The Dragon Boy", "duration": "2:59" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Sootballs", "duration": "1:55" },
+          { "number": 2, "title": "The Bottomless Pit", "duration": "3:10" },
+          { "number": 3, "title": "Gods of the Sea", "duration": "2:20" },
+          { "number": 4, "title": "Procession of the Spirits", "duration": "3:05" },
+          { "number": 5, "title": "Reprise", "duration": "4:40" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "The Sixth Station", "duration": "3:34" },
+          { "number": 2, "title": "No Face", "duration": "2:48" },
+          { "number": 3, "title": "Yubaba", "duration": "3:15" },
+          { "number": 4, "title": "A Heartrending Life", "duration": "2:40" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Day of the River", "duration": "3:55" },
+          { "number": 2, "title": "The Return", "duration": "4:20" },
+          { "number": 3, "title": "Always with Me", "duration": "3:38" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "3iF9COJAH3GmRSjdant7iC",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": true,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": ["out-this-week"]
+  },
+  {
+    "id": "GRVLP023",
+    "title": "Yol",
+    "artistId": "altin-gun",
+    "artistName": "Altın Gün",
+    "description": "Turkish psychedelic folk meets Amsterdam disco. Altın Gün take classic Anatolian melodies and send them through a kaleidoscope of synths, funk bass, and krautrock grooves. The result is impossibly danceable and utterly unique.",
+    "price": 33.00,
+    "releaseDate": "2026-05-12",
+    "originalReleaseYear": 2021,
+    "vinylColor": "orange",
+    "genre": "rock",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP023",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Yüce Dağ Başında", "duration": "4:02" },
+          { "number": 2, "title": "Ordunun Dereleri", "duration": "3:15" },
+          { "number": 3, "title": "Kara Toprak", "duration": "3:50" },
+          { "number": 4, "title": "Yol", "duration": "4:10" },
+          { "number": 5, "title": "Maçka Yolları", "duration": "3:35" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Doktor Civanım", "duration": "3:28" },
+          { "number": 2, "title": "Sevda Olmasaydı", "duration": "3:55" },
+          { "number": 3, "title": "Badi Sabah Olmadan", "duration": "4:20" },
+          { "number": 4, "title": "Erler Gülü Soldu Mu", "duration": "3:42" },
+          { "number": 5, "title": "Şahane Bir Şey Yaşamak", "duration": "4:05" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "7JEvvEtOKBHFMGbKgNwZ4o",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP024",
+    "title": "Oracular Spectacular",
+    "artistId": "mgmt",
+    "artistName": "MGMT",
+    "description": "The album that soundtracked every house party of 2008. 'Kids,' 'Time to Pretend,' and 'Electric Feel' are generation-defining indie anthems, but the album's deeper cuts reveal MGMT as far more than a singles band. Psychedelic pop perfection.",
+    "price": 33.00,
+    "releaseDate": "2026-05-18",
+    "originalReleaseYear": 2007,
+    "vinylColor": "purple",
+    "genre": "indie",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP024",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Time to Pretend", "duration": "4:21" },
+          { "number": 2, "title": "Weekend Wars", "duration": "4:09" },
+          { "number": 3, "title": "The Youth", "duration": "3:42" },
+          { "number": 4, "title": "Electric Feel", "duration": "3:49" },
+          { "number": 5, "title": "Kids", "duration": "5:02" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "4th Dimensional Transition", "duration": "3:58" },
+          { "number": 2, "title": "Pieces of What", "duration": "2:42" },
+          { "number": 3, "title": "Of Moons, Birds & Monsters", "duration": "4:21" },
+          { "number": 4, "title": "The Handshake", "duration": "5:10" },
+          { "number": 5, "title": "Future Reflections", "duration": "6:47" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "6VkGOp35h7zVNXGQdqMJ5c",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP025",
+    "title": "\"Awaken, My Love!\"",
+    "artistId": "childish-gambino",
+    "artistName": "Childish Gambino",
+    "description": "Donald Glover ditched rap for pure psychedelic funk and soul, channeling Funkadelic and Sly Stone through a modern lens. 'Redbone' became a cultural phenomenon, but the whole album is a masterful tribute to Black musical traditions.",
+    "price": 39.00,
+    "releaseDate": "2026-06-12",
+    "originalReleaseYear": 2016,
+    "vinylColor": "gold",
+    "genre": "funk",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP025",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Me and Your Mama", "duration": "6:19" },
+          { "number": 2, "title": "Have Some Love", "duration": "3:41" },
+          { "number": 3, "title": "Boogieman", "duration": "3:17" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Zombies", "duration": "4:07" },
+          { "number": 2, "title": "Riot", "duration": "1:46" },
+          { "number": 3, "title": "Redbone", "duration": "5:26" },
+          { "number": 4, "title": "California", "duration": "2:24" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "Terrified", "duration": "4:35" },
+          { "number": 2, "title": "Baby Boy", "duration": "5:40" },
+          { "number": 3, "title": "The Night Me and Your Mama Met", "duration": "4:22" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Stand Tall", "duration": "6:53" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "4Carzsnpd6yvuHZ49I0oz8",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP026",
+    "title": "In Our Heads",
+    "artistId": "jose-gonzalez",
+    "artistName": "José González",
+    "description": "Swedish-Argentine folk master at his most expansive. In Our Heads layers González's signature hushed fingerpicking with subtle electronics and strings, creating intimate songs that feel vast. A quiet album with enormous emotional range.",
+    "price": 29.00,
+    "releaseDate": "2026-04-28",
+    "originalReleaseYear": 2012,
+    "vinylColor": "black",
+    "genre": "indie",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP026",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Step Out", "duration": "4:01" },
+          { "number": 2, "title": "Leaf Off / The Cave", "duration": "3:42" },
+          { "number": 3, "title": "Stories We Build, Stories We Tell", "duration": "2:55" },
+          { "number": 4, "title": "The Nest", "duration": "4:28" },
+          { "number": 5, "title": "Every Age", "duration": "2:48" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "With the Ink of a Ghost", "duration": "4:05" },
+          { "number": 2, "title": "Vissel", "duration": "2:22" },
+          { "number": 3, "title": "Open Book", "duration": "3:30" },
+          { "number": 4, "title": "Abram", "duration": "2:55" },
+          { "number": 5, "title": "Head On", "duration": "4:15" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "0pJfLPglNHOlOgfBH82AQy",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": true,
+    "isPreOrder": false,
+    "tags": [],
+    "originalPrice": 39.00
+  },
+  {
+    "id": "GRVLP027",
+    "title": "One Two",
+    "artistId": "sister-nancy",
+    "artistName": "Sister Nancy",
+    "description": "The dancehall classic that contains 'Bam Bam' — one of the most sampled songs in music history. Sister Nancy's debut is a raw, joyful celebration of dancehall culture with her distinctive toasting style leading the charge. A foundational reggae record.",
+    "price": 29.00,
+    "releaseDate": "2026-04-22",
+    "originalReleaseYear": 1982,
+    "vinylColor": "yellow",
+    "genre": "reggae",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP027",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Bam Bam", "duration": "4:00" },
+          { "number": 2, "title": "Transport Connection", "duration": "3:45" },
+          { "number": 3, "title": "Gwan a School", "duration": "3:30" },
+          { "number": 4, "title": "A No Any Man Can Test", "duration": "3:55" },
+          { "number": 5, "title": "One Two", "duration": "3:40" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Ain't No Stopping", "duration": "4:10" },
+          { "number": 2, "title": "Come Let We Have Fun", "duration": "3:35" },
+          { "number": 3, "title": "Nah Give Up", "duration": "3:50" },
+          { "number": 4, "title": "Only Woman DJ with Degree", "duration": "3:25" },
+          { "number": 5, "title": "Proud & Free", "duration": "4:05" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP028",
+    "title": "No Need to Argue",
+    "artistId": "the-cranberries",
+    "artistName": "The Cranberries",
+    "description": "The iconic Irish alt-rock pioneers return to their roots with this emotionally charged masterpiece, remastered for a new generation. Featuring the timeless anthem 'Zombie' and the hauntingly beautiful 'Ode to My Family.' Pressed on milky white & black marble vinyl.",
+    "price": 59.00,
+    "releaseDate": "2026-05-22",
+    "originalReleaseYear": 1994,
+    "vinylColor": "marble-black-white",
+    "genre": "rock",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP028",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Ode to My Family", "duration": "4:30" },
+          { "number": 2, "title": "I Can't Be with You", "duration": "3:07" },
+          { "number": 3, "title": "Twenty One", "duration": "3:08" },
+          { "number": 4, "title": "Zombie", "duration": "5:06" },
+          { "number": 5, "title": "Empty", "duration": "3:25" },
+          { "number": 6, "title": "Everything I Said", "duration": "3:43" },
+          { "number": 7, "title": "The Icicle Melts", "duration": "2:55" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Disappointment", "duration": "4:14" },
+          { "number": 2, "title": "Ridiculous Thoughts", "duration": "4:31" },
+          { "number": 3, "title": "Dreaming My Dreams", "duration": "2:52" },
+          { "number": 4, "title": "Yeat's Grave", "duration": "2:53" },
+          { "number": 5, "title": "Daffodil Lament", "duration": "6:09" },
+          { "number": 6, "title": "No Need to Argue", "duration": "2:56" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "0YVTzidTXjGXOIJNKykFiH",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": true,
+    "isOnSale": false,
+    "isPreOrder": true,
+    "tags": ["new-arrivals"]
+  },
+  {
+    "id": "GRVLP029",
+    "title": "Melodia",
+    "artistId": "the-vines",
+    "artistName": "The Vines",
+    "description": "Australian garage rock revivalists return with Melodia, a gritty yet melodic ride through fuzzy riffs and Craig Nicholls's unmistakable snarling delivery. Raw, energetic, and unapologetically loud.",
+    "price": 29.00,
+    "releaseDate": "2026-03-15",
+    "originalReleaseYear": 2008,
+    "vinylColor": "green",
+    "genre": "rock",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP029",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "He's a Rocker", "duration": "1:44" },
+          { "number": 2, "title": "True as the Night", "duration": "2:35" },
+          { "number": 3, "title": "Braindead", "duration": "2:45" },
+          { "number": 4, "title": "Candy Daze", "duration": "3:10" },
+          { "number": 5, "title": "A Girl I Knew", "duration": "3:20" },
+          { "number": 6, "title": "Spaceship", "duration": "2:55" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Kara Jayne", "duration": "3:30" },
+          { "number": 2, "title": "She Is Gone", "duration": "2:40" },
+          { "number": 3, "title": "Scream", "duration": "2:15" },
+          { "number": 4, "title": "Gonna See My Friend", "duration": "2:50" },
+          { "number": 5, "title": "Melodia", "duration": "3:35" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "",
+    "coverImage": "",
+    "isFeatured": true,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": ["album-of-the-month"]
+  },
+  {
+    "id": "GRVLP030",
+    "title": "xx",
+    "artistId": "the-xx",
+    "artistName": "The xx",
+    "description": "Minimalism as maximalism. The xx's debut strips music to its barest essentials — whispered vocals, a single guitar note, a gentle beat — and creates something that feels infinite. An intimate masterpiece that changed indie music forever.",
+    "price": 33.00,
+    "releaseDate": "2026-05-08",
+    "originalReleaseYear": 2009,
+    "vinylColor": "white",
+    "genre": "indie",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP030",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Intro", "duration": "2:07" },
+          { "number": 2, "title": "VCR", "duration": "2:55" },
+          { "number": 3, "title": "Crystalised", "duration": "3:22" },
+          { "number": 4, "title": "Islands", "duration": "2:56" },
+          { "number": 5, "title": "Heart Skipped a Beat", "duration": "3:14" },
+          { "number": 6, "title": "Fantasy", "duration": "2:33" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Shelter", "duration": "3:14" },
+          { "number": 2, "title": "Basic Space", "duration": "2:40" },
+          { "number": 3, "title": "Infinity", "duration": "4:17" },
+          { "number": 4, "title": "Night Time", "duration": "3:33" },
+          { "number": 5, "title": "Stars", "duration": "3:43" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "2nXJkqkS1tIKIyhBcFMmwz",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP031",
+    "title": "Walking on a Dream",
+    "artistId": "empire-of-the-sun",
+    "artistName": "Empire of the Sun",
+    "description": "A glittering synth-pop odyssey that sounds like a sunrise on another planet. The title track is pure joy in musical form, and the rest of the album maintains that same feeling of wide-eyed wonder and glamorous escapism.",
+    "price": 35.00,
+    "releaseDate": "2026-05-25",
+    "originalReleaseYear": 2008,
+    "vinylColor": "gold",
+    "genre": "electronic",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP031",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Standing on the Shore", "duration": "4:40" },
+          { "number": 2, "title": "Walking on a Dream", "duration": "3:18" },
+          { "number": 3, "title": "Half Mast (Slight Return)", "duration": "4:10" },
+          { "number": 4, "title": "Tiger by My Side", "duration": "3:29" },
+          { "number": 5, "title": "We Are the People", "duration": "5:09" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Without You", "duration": "3:55" },
+          { "number": 2, "title": "Swordfish Hotkiss Night", "duration": "3:42" },
+          { "number": 3, "title": "Country", "duration": "3:18" },
+          { "number": 4, "title": "The World", "duration": "3:10" },
+          { "number": 5, "title": "Breakdown", "duration": "4:01" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "1HJPhMuhRSjkLbORBJEOwK",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP032",
+    "title": "Ready to Die",
+    "artistId": "the-notorious-big",
+    "artistName": "The Notorious B.I.G.",
+    "description": "The album that put Brooklyn on the map. Biggie's debut is a cinematic journey from the streets to the top, delivered with a flow so smooth it changed rap forever. 'Juicy,' 'Big Poppa,' and 'One More Chance' are eternal. Pressed on splatter vinyl.",
+    "price": 45.00,
+    "releaseDate": "2026-06-30",
+    "originalReleaseYear": 1994,
+    "vinylColor": "splatter-rainbow",
+    "genre": "hip-hop",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP032",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Intro", "duration": "1:30" },
+          { "number": 2, "title": "Things Done Changed", "duration": "3:53" },
+          { "number": 3, "title": "Gimme the Loot", "duration": "5:12" },
+          { "number": 4, "title": "Machine Gun Funk", "duration": "4:15" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Warning", "duration": "3:40" },
+          { "number": 2, "title": "Ready to Die", "duration": "4:24" },
+          { "number": 3, "title": "One More Chance", "duration": "5:08" },
+          { "number": 4, "title": "The What", "duration": "5:02" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "Juicy", "duration": "5:02" },
+          { "number": 2, "title": "Everyday Struggle", "duration": "4:38" },
+          { "number": 3, "title": "Me & My Bitch", "duration": "4:57" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Big Poppa", "duration": "4:12" },
+          { "number": 2, "title": "Respect", "duration": "3:46" },
+          { "number": 3, "title": "Friend of Mine", "duration": "5:05" },
+          { "number": 4, "title": "Unbelievable", "duration": "3:42" },
+          { "number": 5, "title": "Suicidal Thoughts", "duration": "3:04" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "2HTbQ0RHwQkSfMx42MoFnM",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP033",
+    "title": "Crystal Castles (II)",
+    "artistId": "crystal-castles",
+    "artistName": "Crystal Castles",
+    "description": "Darker, louder, more intense. Crystal Castles' second album pushed their glitchy electronic punk into even more abrasive territory. 'Celestica' and 'Baptism' show flashes of beauty amidst the chaos. Not for the faint of heart.",
+    "price": 29.00,
+    "releaseDate": "2026-05-02",
+    "originalReleaseYear": 2010,
+    "vinylColor": "transparent",
+    "genre": "electronic",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP033",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Fainting Spells", "duration": "3:02" },
+          { "number": 2, "title": "Celestica", "duration": "3:46" },
+          { "number": 3, "title": "Suffocation", "duration": "3:16" },
+          { "number": 4, "title": "Year of Silence", "duration": "3:33" },
+          { "number": 5, "title": "Empathy", "duration": "3:23" },
+          { "number": 6, "title": "Intimate", "duration": "3:17" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Doe Deer", "duration": "2:44" },
+          { "number": 2, "title": "Baptism", "duration": "3:49" },
+          { "number": 3, "title": "Pap Smear", "duration": "3:43" },
+          { "number": 4, "title": "Not in Love", "duration": "3:28" },
+          { "number": 5, "title": "Birds", "duration": "2:39" },
+          { "number": 6, "title": "I Am Made of Chalk", "duration": "3:51" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "4Mxlkf46JbSXGTft50BUUL",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP034",
+    "title": "Some Girls",
+    "artistId": "the-rolling-stones",
+    "artistName": "The Rolling Stones",
+    "description": "The Stones' response to punk and disco — and they nailed both. Some Girls is raw, funky, and packed with attitude. 'Miss You' brought them to the dancefloor, 'Beast of Burden' is their most tender ballad, and 'Shattered' is pure NYC energy.",
+    "price": 33.00,
+    "releaseDate": "2026-04-18",
+    "originalReleaseYear": 1978,
+    "vinylColor": "black",
+    "genre": "rock",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP034",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Miss You", "duration": "4:48" },
+          { "number": 2, "title": "When the Whip Comes Down", "duration": "4:20" },
+          { "number": 3, "title": "Just My Imagination (Running Away with Me)", "duration": "4:36" },
+          { "number": 4, "title": "Some Girls", "duration": "4:36" },
+          { "number": 5, "title": "Lies", "duration": "3:12" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Far Away Eyes", "duration": "4:24" },
+          { "number": 2, "title": "Respectable", "duration": "3:07" },
+          { "number": 3, "title": "Before They Make Me Run", "duration": "3:26" },
+          { "number": 4, "title": "Beast of Burden", "duration": "4:24" },
+          { "number": 5, "title": "Shattered", "duration": "3:46" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "1XORY4RhFCFPMk77APWJqu",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP035",
+    "title": "Let's Get It On",
+    "artistId": "marvin-gaye",
+    "artistName": "Marvin Gaye",
+    "description": "The most sensual album ever made. Marvin Gaye's voice drips with desire over lush, orchestral soul arrangements. The title track alone is enough to justify its place in the pantheon, but every song here is a masterclass in romantic soul music.",
+    "price": 59.00,
+    "releaseDate": "2026-06-08",
+    "originalReleaseYear": 1973,
+    "vinylColor": "red",
+    "genre": "soul",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP035",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Let's Get It On", "duration": "4:53" },
+          { "number": 2, "title": "Please Don't Stay (Once You Go Away)", "duration": "3:36" },
+          { "number": 3, "title": "If I Should Die Tonight", "duration": "3:57" },
+          { "number": 4, "title": "Keep Gettin' It On", "duration": "3:12" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Come Get to This", "duration": "2:40" },
+          { "number": 2, "title": "Distant Lover", "duration": "4:15" },
+          { "number": 3, "title": "You Sure Love to Ball", "duration": "4:45" },
+          { "number": 4, "title": "Just to Keep You Satisfied", "duration": "4:35" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "2v6ANzBIH3urFpWVAOqh9E",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": true,
+    "isPreOrder": false,
+    "tags": [],
+    "originalPrice": 74.00
+  },
+  {
+    "id": "GRVLP036",
+    "title": "Play",
+    "artistId": "moby",
+    "artistName": "Moby",
+    "description": "The album that brought electronic music to every living room, every commercial, every film soundtrack. Moby sampled obscure field recordings of blues and gospel singers and built a cathedral of beats around them. 18 tracks, zero filler.",
+    "price": 33.00,
+    "releaseDate": "2026-05-15",
+    "originalReleaseYear": 1999,
+    "vinylColor": "black",
+    "genre": "electronic",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP036",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Honey", "duration": "3:28" },
+          { "number": 2, "title": "Find My Baby", "duration": "3:58" },
+          { "number": 3, "title": "Porcelain", "duration": "4:01" },
+          { "number": 4, "title": "Why Does My Heart Feel So Bad?", "duration": "4:24" },
+          { "number": 5, "title": "(South Side)", "duration": "3:48" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Rushing", "duration": "2:59" },
+          { "number": 2, "title": "Bodyrock", "duration": "3:35" },
+          { "number": 3, "title": "Natural Blues", "duration": "4:13" },
+          { "number": 4, "title": "Machete", "duration": "3:37" },
+          { "number": 5, "title": "7", "duration": "1:02" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "Run On", "duration": "3:44" },
+          { "number": 2, "title": "Down Slow", "duration": "1:32" },
+          { "number": 3, "title": "If Things Were Perfect", "duration": "4:17" },
+          { "number": 4, "title": "Everloving", "duration": "3:25" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Inside", "duration": "4:48" },
+          { "number": 2, "title": "Guitar Flute & String", "duration": "2:09" },
+          { "number": 3, "title": "The Sky Is Broken", "duration": "4:15" },
+          { "number": 4, "title": "My Weakness", "duration": "3:37" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "6MBuemVMnFMGLAiNqSBwyF",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": true,
+    "isPreOrder": false,
+    "tags": [],
+    "originalPrice": 45.00
+  },
+  {
+    "id": "GRVLP037",
+    "title": "Time Capsules",
+    "artistId": "oberhofer",
+    "artistName": "Oberhofer",
+    "description": "Brooklyn indie-pop at its most charming. Brad Oberhofer's jangly guitars, youthful vocals, and sun-drenched melodies make Time Capsules feel like a summer that never ends. Lo-fi warmth meets surf-rock energy.",
+    "price": 29.00,
+    "releaseDate": "2026-04-30",
+    "originalReleaseYear": 2012,
+    "vinylColor": "green",
+    "genre": "indie",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP037",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "o0O0o0O0o", "duration": "4:14" },
+          { "number": 2, "title": "Away Frm U", "duration": "3:45" },
+          { "number": 3, "title": "Heart", "duration": "3:19" },
+          { "number": 4, "title": "Landmine", "duration": "2:55" },
+          { "number": 5, "title": "Sun Halo", "duration": "3:40" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Cruisin FDR", "duration": "3:10" },
+          { "number": 2, "title": "Gotta Go", "duration": "2:48" },
+          { "number": 3, "title": "Sea of Dreams", "duration": "3:56" },
+          { "number": 4, "title": "CHRONOVISION", "duration": "3:22" },
+          { "number": 5, "title": "Gold", "duration": "4:30" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": true,
+    "isPreOrder": false,
+    "tags": [],
+    "originalPrice": 35.00
+  },
+  {
+    "id": "GRVLP038",
+    "title": "Graduation",
+    "artistId": "kanye-west",
+    "artistName": "Kanye West",
+    "description": "Kanye went stadium-sized. Graduation swapped soul samples for synths and arena rock influences, creating anthems like 'Stronger' and 'Good Morning' that could fill any venue on Earth. The album that proved hip-hop had no ceiling.",
+    "price": 33.00,
+    "releaseDate": "2026-05-20",
+    "originalReleaseYear": 2007,
+    "vinylColor": "purple",
+    "genre": "hip-hop",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP038",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Good Morning", "duration": "3:15" },
+          { "number": 2, "title": "Champion", "duration": "2:48" },
+          { "number": 3, "title": "Stronger", "duration": "5:12" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "I Wonder", "duration": "4:03" },
+          { "number": 2, "title": "Good Life", "duration": "3:27" },
+          { "number": 3, "title": "Can't Tell Me Nothing", "duration": "4:32" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "Barry Bonds", "duration": "3:24" },
+          { "number": 2, "title": "Drunk and Hot Girls", "duration": "5:13" },
+          { "number": 3, "title": "Flashing Lights", "duration": "3:57" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Everything I Am", "duration": "3:47" },
+          { "number": 2, "title": "The Glory", "duration": "3:33" },
+          { "number": 3, "title": "Homecoming", "duration": "3:23" },
+          { "number": 4, "title": "Big Brother", "duration": "4:47" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "4SZko61aMnmgvNhfhgTuD3",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP039",
+    "title": "My Beautiful Dark Twisted Fantasy",
+    "artistId": "kanye-west",
+    "artistName": "Kanye West",
+    "description": "Kanye's maximalist magnum opus. Every track is a symphony of samples, features, and ambition — from the euphoric 'All of the Lights' to the devastating 'Runaway.' Widely regarded as one of the greatest albums of the 21st century.",
+    "price": 59.00,
+    "releaseDate": "2026-07-05",
+    "originalReleaseYear": 2010,
+    "vinylColor": "red",
+    "genre": "hip-hop",
+    "numberOfDiscs": "3 LP",
+    "catalogueNumber": "GRVLP039",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Dark Fantasy", "duration": "4:40" },
+          { "number": 2, "title": "Gorgeous", "duration": "5:57" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "POWER", "duration": "4:52" },
+          { "number": 2, "title": "All of the Lights (Interlude)", "duration": "1:02" },
+          { "number": 3, "title": "All of the Lights", "duration": "4:59" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "Monster", "duration": "6:18" },
+          { "number": 2, "title": "So Appalled", "duration": "6:38" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Devil in a New Dress", "duration": "5:52" },
+          { "number": 2, "title": "Runaway", "duration": "9:08" }
+        ]
+      },
+      {
+        "side": "E",
+        "tracks": [
+          { "number": 1, "title": "Hell of a Life", "duration": "5:27" },
+          { "number": 2, "title": "Blame Game", "duration": "7:49" }
+        ]
+      },
+      {
+        "side": "F",
+        "tracks": [
+          { "number": 1, "title": "Lost in the World", "duration": "4:16" },
+          { "number": 2, "title": "Who Will Survive in America", "duration": "1:38" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "20r762YmB5HeofjMCiPMLv",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP040",
+    "title": "Ye",
+    "artistId": "kanye-west",
+    "artistName": "Kanye West",
+    "description": "Seven tracks of raw, unfiltered Kanye. Recorded at a Wyoming ranch in just a few weeks, Ye is confessional, contradictory, and deeply personal. 'Ghost Town' is one of his most beautiful songs ever.",
+    "price": 33.00,
+    "releaseDate": "2026-05-28",
+    "originalReleaseYear": 2018,
+    "vinylColor": "green",
+    "genre": "hip-hop",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP040",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "I Thought About Killing You", "duration": "4:36" },
+          { "number": 2, "title": "Yikes", "duration": "3:09" },
+          { "number": 3, "title": "All Mine", "duration": "2:17" },
+          { "number": 4, "title": "Wouldn't Leave", "duration": "3:35" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "No Mistakes", "duration": "2:06" },
+          { "number": 2, "title": "Ghost Town", "duration": "4:53" },
+          { "number": 3, "title": "Violent Crimes", "duration": "3:32" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "2Ek1q2haOnxVqhvVKqMvJe",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP041",
+    "title": "The College Dropout",
+    "artistId": "kanye-west",
+    "artistName": "Kanye West",
+    "description": "Where it all began. Kanye West's debut introduced his signature sped-up soul samples, witty wordplay, and middle-class perspective that was revolutionary in the bling era. 'Through the Wire,' 'Jesus Walks,' 'All Falls Down' — instant classics.",
+    "price": 29.00,
+    "releaseDate": "2026-04-12",
+    "originalReleaseYear": 2004,
+    "vinylColor": "black",
+    "genre": "hip-hop",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP041",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "We Don't Care", "duration": "3:59" },
+          { "number": 2, "title": "All Falls Down", "duration": "3:43" },
+          { "number": 3, "title": "Spaceship", "duration": "5:24" },
+          { "number": 4, "title": "Jesus Walks", "duration": "3:13" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Never Let Me Down", "duration": "4:51" },
+          { "number": 2, "title": "Get Em High", "duration": "4:47" },
+          { "number": 3, "title": "The New Workout Plan", "duration": "5:22" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "Slow Jamz", "duration": "5:16" },
+          { "number": 2, "title": "Breathe In Breathe Out", "duration": "4:05" },
+          { "number": 3, "title": "Through the Wire", "duration": "3:41" },
+          { "number": 4, "title": "Two Words", "duration": "4:05" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Family Business", "duration": "4:37" },
+          { "number": 2, "title": "Last Call", "duration": "12:40" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "4Uv86qWpGTxf7fU7lG5X6F",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP042",
+    "title": "Donda",
+    "artistId": "kanye-west",
+    "artistName": "Kanye West",
+    "description": "Named after his late mother, Kanye's 27-track opus is a sprawling, gospel-infused exploration of faith, family, and loss. Maximalist, messy, and undeniably powerful — featuring contributions from nearly every corner of hip-hop.",
+    "price": 33.00,
+    "releaseDate": "2026-06-15",
+    "originalReleaseYear": 2021,
+    "vinylColor": "black",
+    "genre": "hip-hop",
+    "numberOfDiscs": "4 LP",
+    "catalogueNumber": "GRVLP042",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Donda Chant", "duration": "0:52" },
+          { "number": 2, "title": "Jail", "duration": "4:58" },
+          { "number": 3, "title": "God Breathed", "duration": "3:37" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Off the Grid", "duration": "5:39" },
+          { "number": 2, "title": "Hurricane", "duration": "4:04" },
+          { "number": 3, "title": "Praise God", "duration": "3:22" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "Jonah", "duration": "2:56" },
+          { "number": 2, "title": "Ok Ok", "duration": "2:44" },
+          { "number": 3, "title": "Junya", "duration": "2:18" },
+          { "number": 4, "title": "Believe What I Say", "duration": "4:26" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "24", "duration": "3:27" },
+          { "number": 2, "title": "Moon", "duration": "2:36" },
+          { "number": 3, "title": "Heaven and Hell", "duration": "2:52" },
+          { "number": 4, "title": "Keep My Spirit Alive", "duration": "3:42" }
+        ]
+      },
+      {
+        "side": "E",
+        "tracks": [
+          { "number": 1, "title": "Jesus Lord", "duration": "8:58" },
+          { "number": 2, "title": "New Again", "duration": "2:33" }
+        ]
+      },
+      {
+        "side": "F",
+        "tracks": [
+          { "number": 1, "title": "Lord I Need You", "duration": "2:41" },
+          { "number": 2, "title": "Pure Souls", "duration": "4:45" },
+          { "number": 3, "title": "Come to Life", "duration": "5:10" },
+          { "number": 4, "title": "No Child Left Behind", "duration": "3:30" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "5CnpZV3q5BcESefcB3WJmz",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP043",
+    "title": "Abbey Road",
+    "artistId": "the-beatles",
+    "artistName": "The Beatles",
+    "description": "The Beatles' glorious swan song. Abbey Road is the sound of four musicians at the peak of their powers, knowing this is the end. 'Come Together,' 'Something,' and the legendary medley on Side B — perfection from first note to last.",
+    "price": 35.00,
+    "releaseDate": "2026-04-08",
+    "originalReleaseYear": 1969,
+    "vinylColor": "black",
+    "genre": "rock",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP043",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Come Together", "duration": "4:20" },
+          { "number": 2, "title": "Something", "duration": "3:03" },
+          { "number": 3, "title": "Maxwell's Silver Hammer", "duration": "3:27" },
+          { "number": 4, "title": "Oh! Darling", "duration": "3:27" },
+          { "number": 5, "title": "Octopus's Garden", "duration": "2:51" },
+          { "number": 6, "title": "I Want You (She's So Heavy)", "duration": "7:47" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Here Comes the Sun", "duration": "3:06" },
+          { "number": 2, "title": "Because", "duration": "2:45" },
+          { "number": 3, "title": "You Never Give Me Your Money", "duration": "4:02" },
+          { "number": 4, "title": "Sun King", "duration": "2:26" },
+          { "number": 5, "title": "Mean Mr. Mustard", "duration": "1:06" },
+          { "number": 6, "title": "Polythene Pam", "duration": "1:12" },
+          { "number": 7, "title": "She Came In Through the Bathroom Window", "duration": "1:58" },
+          { "number": 8, "title": "Golden Slumbers", "duration": "1:31" },
+          { "number": 9, "title": "Carry That Weight", "duration": "1:36" },
+          { "number": 10, "title": "The End", "duration": "2:19" },
+          { "number": 11, "title": "Her Majesty", "duration": "0:23" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "0ETFjACtuP2ADo6LFhL6HN",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP044",
+    "title": "No More Heroes",
+    "artistId": "the-stranglers",
+    "artistName": "The Stranglers",
+    "description": "Menacing keyboards, thunderous bass, and an attitude that could clear a room. The Stranglers' second album is punk with a brain — aggressive, sophisticated, and dripping with dark humor. The title track remains an all-time punk anthem.",
+    "price": 29.00,
+    "releaseDate": "2026-04-05",
+    "originalReleaseYear": 1977,
+    "vinylColor": "black",
+    "genre": "post-punk",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP044",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "I Feel Like a Wog", "duration": "3:27" },
+          { "number": 2, "title": "Bitching", "duration": "3:03" },
+          { "number": 3, "title": "Dead Ringer", "duration": "2:49" },
+          { "number": 4, "title": "Dagenham Dave", "duration": "3:38" },
+          { "number": 5, "title": "Bring On the Nubiles", "duration": "4:35" },
+          { "number": 6, "title": "Something Better Change", "duration": "3:56" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "No More Heroes", "duration": "3:37" },
+          { "number": 2, "title": "Peasant in the Big Shitty", "duration": "4:18" },
+          { "number": 3, "title": "Burning Up Time", "duration": "3:12" },
+          { "number": 4, "title": "English Towns", "duration": "3:24" },
+          { "number": 5, "title": "School Mam", "duration": "4:42" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP045",
+    "title": "I Put a Spell on You",
+    "artistId": "nina-simone",
+    "artistName": "Nina Simone",
+    "description": "Nina Simone channels raw emotion through jazz, blues, and classical virtuosity. The title track is a towering vocal performance, but every song reveals another facet of this extraordinary artist's genius. An essential jazz-soul record.",
+    "price": 35.00,
+    "releaseDate": "2026-05-10",
+    "originalReleaseYear": 1965,
+    "vinylColor": "black",
+    "genre": "jazz",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP045",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "I Put a Spell on You", "duration": "2:34" },
+          { "number": 2, "title": "Tomorrow Is My Turn", "duration": "2:56" },
+          { "number": 3, "title": "Ne Me Quitte Pas", "duration": "3:30" },
+          { "number": 4, "title": "Marriage Is for Old Folks", "duration": "1:30" },
+          { "number": 5, "title": "July Tree", "duration": "3:25" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Gimme Some", "duration": "2:03" },
+          { "number": 2, "title": "Feeling Good", "duration": "2:55" },
+          { "number": 3, "title": "One September Day", "duration": "3:55" },
+          { "number": 4, "title": "Blues on Purpose", "duration": "3:10" },
+          { "number": 5, "title": "Beautiful Land", "duration": "2:25" },
+          { "number": 6, "title": "Take Care of Business", "duration": "2:35" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "5bYlmA7prOkIPWNuJYKPOI",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP046",
+    "title": "Facing Future",
+    "artistId": "israel-kamakawiwoole",
+    "artistName": "Israel Kamakawiwo'ole",
+    "description": "The best-selling Hawaiian album of all time, featuring the iconic ukulele medley of 'Over the Rainbow / What a Wonderful World' that has moved millions to tears. Bruddah Iz's gentle voice carries the spirit of aloha in every note.",
+    "price": 29.00,
+    "releaseDate": "2026-04-15",
+    "originalReleaseYear": 1993,
+    "vinylColor": "blue",
+    "genre": "pop",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP046",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Kaulana Kawaihae", "duration": "3:34" },
+          { "number": 2, "title": "Over the Rainbow / What a Wonderful World", "duration": "3:29" },
+          { "number": 3, "title": "Ka Huila Wai", "duration": "3:30" },
+          { "number": 4, "title": "Henehene Kou'Aka", "duration": "3:15" },
+          { "number": 5, "title": "La 'Elima", "duration": "3:45" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Maui Hawaiian Sup'pa Man", "duration": "4:04" },
+          { "number": 2, "title": "Kaleohano", "duration": "3:41" },
+          { "number": 3, "title": "Panini Pua Kea", "duration": "2:30" },
+          { "number": 4, "title": "White Sandy Beach of Hawai'i", "duration": "3:23" },
+          { "number": 5, "title": "Hawai'i '78", "duration": "4:10" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "4xfHNG1GQ3vEwL7mmEbGY2",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP047",
+    "title": "Madvillainy",
+    "artistId": "mf-doom",
+    "artistName": "MF DOOM",
+    "description": "The underground hip-hop bible. MF DOOM and Madlib created 22 tracks of off-kilter, jazz-sampled beats and impossibly dense rhyme schemes that reward infinite replays. Every bar is a puzzle, every beat a surprise. The villain's finest hour.",
+    "price": 39.00,
+    "releaseDate": "2026-06-18",
+    "originalReleaseYear": 2004,
+    "vinylColor": "red",
+    "genre": "hip-hop",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP047",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "The Illest Villains", "duration": "1:43" },
+          { "number": 2, "title": "Accordion", "duration": "2:03" },
+          { "number": 3, "title": "Meat Grinder", "duration": "2:20" },
+          { "number": 4, "title": "Bistro", "duration": "0:41" },
+          { "number": 5, "title": "Raid", "duration": "2:32" },
+          { "number": 6, "title": "America's Most Blunted", "duration": "4:45" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Sickfit", "duration": "0:42" },
+          { "number": 2, "title": "Rainbows", "duration": "1:59" },
+          { "number": 3, "title": "Curls", "duration": "2:46" },
+          { "number": 4, "title": "Do Not Fire!", "duration": "0:54" },
+          { "number": 5, "title": "Money Folder", "duration": "2:53" },
+          { "number": 6, "title": "Shadows of Tomorrow", "duration": "3:39" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "Operation Lifesaver a.k.a. Mint Test", "duration": "2:13" },
+          { "number": 2, "title": "Figaro", "duration": "2:17" },
+          { "number": 3, "title": "Hardcore Hustle", "duration": "0:33" },
+          { "number": 4, "title": "Strange Ways", "duration": "3:13" },
+          { "number": 5, "title": "Fancy Clown", "duration": "2:42" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Eye", "duration": "0:50" },
+          { "number": 2, "title": "Supervillain Theme", "duration": "1:53" },
+          { "number": 3, "title": "All Caps", "duration": "2:10" },
+          { "number": 4, "title": "Great Day", "duration": "2:18" },
+          { "number": 5, "title": "Rhinestone Cowboy", "duration": "3:32" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "19bQiwEKhXUBJWY6oV3KZk",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP048",
+    "title": "Sunshine Reggae",
+    "artistId": "laid-back",
+    "artistName": "Laid Back",
+    "description": "Danish duo Laid Back distilled an entire summer into one album. The irresistible groove of 'Sunshine Reggae' and 'White Horse' made them global stars, but the deep cuts are equally cool — a perfect blend of reggae, synth-pop, and laid-back vibes.",
+    "price": 25.00,
+    "releaseDate": "2026-04-02",
+    "originalReleaseYear": 1983,
+    "vinylColor": "yellow",
+    "genre": "electronic",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP048",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Sunshine Reggae", "duration": "4:15" },
+          { "number": 2, "title": "White Horse", "duration": "4:42" },
+          { "number": 3, "title": "Flying", "duration": "3:55" },
+          { "number": 4, "title": "High Society Girl", "duration": "4:20" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Cool Breeze", "duration": "3:48" },
+          { "number": 2, "title": "One Life", "duration": "4:05" },
+          { "number": 3, "title": "Elevator Boy", "duration": "3:30" },
+          { "number": 4, "title": "It's the Way You Do It", "duration": "4:12" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": true,
+    "isPreOrder": false,
+    "tags": [],
+    "originalPrice": 33.00
+  },
+  {
+    "id": "GRVLP049",
+    "title": "Silk & Soul (Expanded Edition)",
+    "artistId": "nina-simone",
+    "artistName": "Nina Simone",
+    "description": "Nina at her most accessible and emotionally devastating. Silk & Soul wraps her powerful voice in lush orchestral arrangements, delivering tender renditions and fierce originals in equal measure. Pure musical alchemy.",
+    "price": 35.00,
+    "releaseDate": "2026-06-01",
+    "originalReleaseYear": 1967,
+    "vinylColor": "black",
+    "genre": "jazz",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP049",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "It Be's That Way Sometime", "duration": "3:10" },
+          { "number": 2, "title": "The Look of Love", "duration": "3:45" },
+          { "number": 3, "title": "Go to Hell", "duration": "2:55" },
+          { "number": 4, "title": "Love O' Love", "duration": "3:20" },
+          { "number": 5, "title": "Cherish", "duration": "3:40" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "I Wish I Knew How It Would Feel to Be Free", "duration": "3:00" },
+          { "number": 2, "title": "Turn Me On", "duration": "2:45" },
+          { "number": 3, "title": "Some Say", "duration": "3:30" },
+          { "number": 4, "title": "Consummation", "duration": "4:15" },
+          { "number": 5, "title": "The Turning Point", "duration": "3:50" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "2w7hCkhBzHJFd0ciMGgYvh",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP050",
+    "title": "The Cranberries - Dreams: The Collection",
+    "artistId": "the-cranberries",
+    "artistName": "The Cranberries",
+    "description": "The definitive collection of Ireland's most beloved alt-rock band. From 'Dreams' to 'Zombie' to 'Linger,' every essential Cranberries moment captured on one beautiful vinyl pressing. A tribute to the irreplaceable Dolores O'Riordan.",
+    "price": 59.00,
+    "releaseDate": "2026-07-01",
+    "originalReleaseYear": 2012,
+    "vinylColor": "marble-blue",
+    "genre": "rock",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP050",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Dreams", "duration": "4:32" },
+          { "number": 2, "title": "Linger", "duration": "4:34" },
+          { "number": 3, "title": "Zombie", "duration": "5:06" },
+          { "number": 4, "title": "Ode to My Family", "duration": "4:30" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Ridiculous Thoughts", "duration": "4:31" },
+          { "number": 2, "title": "Salvation", "duration": "2:23" },
+          { "number": 3, "title": "Free to Decide", "duration": "4:15" },
+          { "number": 4, "title": "When You're Gone", "duration": "3:37" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "Promises", "duration": "3:36" },
+          { "number": 2, "title": "Animal Instinct", "duration": "4:36" },
+          { "number": 3, "title": "Just My Imagination", "duration": "3:40" },
+          { "number": 4, "title": "You and Me", "duration": "3:33" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Analyse", "duration": "4:05" },
+          { "number": 2, "title": "Stars", "duration": "4:20" },
+          { "number": 3, "title": "Tomorrow", "duration": "3:30" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP051",
+    "title": "Break of Dawn",
+    "artistId": "mo-kalamity",
+    "artistName": "Mo'Kalamity",
+    "description": "French roots reggae at its finest. Mo'Kalamity's soulful voice and conscious lyrics carry messages of unity and empowerment over warm, organic riddims. A modern reggae essential that honors the genre's spiritual traditions.",
+    "price": 29.00,
+    "releaseDate": "2026-05-08",
+    "originalReleaseYear": 2008,
+    "vinylColor": "green",
+    "genre": "reggae",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP051",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Speechless", "duration": "4:20" },
+          { "number": 2, "title": "Break of Dawn", "duration": "3:55" },
+          { "number": 3, "title": "Warriors of Light", "duration": "4:10" },
+          { "number": 4, "title": "Free Your Mind", "duration": "3:45" },
+          { "number": 5, "title": "Wise and Strong", "duration": "3:30" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Revolution Time", "duration": "4:15" },
+          { "number": 2, "title": "One People", "duration": "3:50" },
+          { "number": 3, "title": "Jah Will Provide", "duration": "4:05" },
+          { "number": 4, "title": "Rising Sun", "duration": "3:40" },
+          { "number": 5, "title": "Eternal Love", "duration": "4:30" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP052",
+    "title": "Vinicius de Moraes / Toquinho",
+    "artistId": "vinicius-de-moraes",
+    "artistName": "Vinícius de Moraes",
+    "description": "The legendary poet-musician's collaboration with Toquinho captured the very essence of bossa nova — warm guitars, poetic lyrics, and the gentle sway of Copacabana nights. An intimate recording that feels like sitting in a Rio café at sunset.",
+    "price": 35.00,
+    "releaseDate": "2026-05-22",
+    "originalReleaseYear": 1971,
+    "vinylColor": "gold",
+    "genre": "bossa-nova",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP052",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Tarde em Itapuã", "duration": "3:20" },
+          { "number": 2, "title": "Samba de Orly", "duration": "2:55" },
+          { "number": 3, "title": "Tomara", "duration": "3:10" },
+          { "number": 4, "title": "A Rosa de Hiroshima", "duration": "2:40" },
+          { "number": 5, "title": "Berimbau", "duration": "3:30" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Eu Sei Que Vou Te Amar", "duration": "3:15" },
+          { "number": 2, "title": "Garota de Ipanema", "duration": "3:45" },
+          { "number": 3, "title": "Samba da Bênção", "duration": "4:20" },
+          { "number": 4, "title": "Onde Anda Você", "duration": "2:50" },
+          { "number": 5, "title": "Canto de Ossanha", "duration": "3:35" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP053",
+    "title": "Break the Cycle",
+    "artistId": "staind",
+    "artistName": "Staind",
+    "description": "Staind's commercial breakthrough captures the raw nerve of early 2000s rock. Aaron Lewis's pained vocals and the band's crushing riffs create an unflinchingly honest portrait of inner turmoil. 'It's Been Awhile' became an anthem for the wounded.",
+    "price": 29.00,
+    "releaseDate": "2026-05-15",
+    "originalReleaseYear": 2001,
+    "vinylColor": "black",
+    "genre": "rock",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP053",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Open Your Eyes", "duration": "3:44" },
+          { "number": 2, "title": "Pressure", "duration": "4:55" },
+          { "number": 3, "title": "Fade", "duration": "4:07" },
+          { "number": 4, "title": "It's Been Awhile", "duration": "4:24" },
+          { "number": 5, "title": "Change", "duration": "4:32" },
+          { "number": 6, "title": "Can't Believe", "duration": "3:22" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Epiphany", "duration": "5:06" },
+          { "number": 2, "title": "Suffer", "duration": "4:02" },
+          { "number": 3, "title": "Safe Place", "duration": "3:24" },
+          { "number": 4, "title": "For You", "duration": "3:46" },
+          { "number": 5, "title": "Outside", "duration": "4:53" },
+          { "number": 6, "title": "Waste", "duration": "4:36" },
+          { "number": 7, "title": "Take It", "duration": "4:41" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "5UhJyBxkm2Z2TXlnPPdG3A",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP054",
+    "title": "Ace Spectrum",
+    "artistId": "ace-spectrum",
+    "artistName": "Ace Spectrum",
+    "description": "Silky smooth 70s soul from the streets of New York. Ace Spectrum's self-titled debut is a vinyl digger's dream — lush harmonies, orchestral arrangements, and a warmth that only analog recording can capture. Deep soul at its finest.",
+    "price": 39.00,
+    "releaseDate": "2026-06-20",
+    "originalReleaseYear": 1974,
+    "vinylColor": "orange",
+    "genre": "soul",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP054",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Don't Send Nobody Else", "duration": "3:40" },
+          { "number": 2, "title": "Live and Learn", "duration": "3:55" },
+          { "number": 3, "title": "Without You in My Life", "duration": "4:10" },
+          { "number": 4, "title": "Trust Me", "duration": "3:25" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "I'm Sorry", "duration": "3:50" },
+          { "number": 2, "title": "Just Like in the Movies", "duration": "4:15" },
+          { "number": 3, "title": "Together Forever", "duration": "3:35" },
+          { "number": 4, "title": "Ain't No Doubt About It", "duration": "3:45" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP055",
+    "title": "Piero Piccioni Film Music",
+    "artistId": "piero-piccioni",
+    "artistName": "Piero Piccioni",
+    "description": "A curated collection of Piero Piccioni's most captivating film scores. Lush jazz, bossa nova undertones, and orchestral elegance define the sound of 60s Italian cinema. Effortlessly cool and timeless sophisticated listening.",
+    "price": 35.00,
+    "releaseDate": "2026-05-30",
+    "originalReleaseYear": 1969,
+    "vinylColor": "black",
+    "genre": "soundtrack",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP055",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          { "number": 1, "title": "Traffic Boom", "duration": "3:30" },
+          { "number": 2, "title": "Danza di Mezzanotte", "duration": "2:55" },
+          { "number": 3, "title": "Sensualità", "duration": "3:45" },
+          { "number": 4, "title": "Il Dio Sotto la Pelle", "duration": "4:10" },
+          { "number": 5, "title": "Amore Mio", "duration": "3:20" }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          { "number": 1, "title": "Indagine su un Cittadino", "duration": "3:40" },
+          { "number": 2, "title": "Roma Bene", "duration": "3:15" },
+          { "number": 3, "title": "Camille 2000", "duration": "4:25" },
+          { "number": 4, "title": "La Curva", "duration": "3:00" },
+          { "number": 5, "title": "Tema d'Amore", "duration": "3:55" }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  }
+]

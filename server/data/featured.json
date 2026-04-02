@@ -1,0 +1,32 @@
+{
+  "albumOfTheMonth": "GRVLP008",
+  "outThisWeek": ["GRVLP001", "GRVLP011", "GRVLP017", "GRVLP022"],
+  "onSale": [
+    "GRVLP002",
+    "GRVLP007",
+    "GRVLP010",
+    "GRVLP019",
+    "GRVLP026",
+    "GRVLP035",
+    "GRVLP036",
+    "GRVLP037",
+    "GRVLP048"
+  ],
+  "newArrivals": ["GRVLP028", "GRVLP005", "GRVLP016"],
+  "genres": [
+    { "id": "rock", "name": "Rock", "color": "#1A1A2E" },
+    { "id": "hip-hop", "name": "Hip-Hop", "color": "#E94560" },
+    { "id": "jazz", "name": "Jazz", "color": "#0F3460" },
+    { "id": "indie", "name": "Indie", "color": "#16C79A" },
+    { "id": "classic", "name": "Classic", "color": "#F5C7A9" },
+    { "id": "soul", "name": "Soul / R&B", "color": "#D4A574" },
+    { "id": "electronic", "name": "Electronic", "color": "#7B2D8E" },
+    { "id": "reggae", "name": "Reggae", "color": "#2D8E4E" },
+    { "id": "soundtrack", "name": "Soundtrack", "color": "#8B7355" },
+    { "id": "city-pop", "name": "City Pop", "color": "#FF6B9D" },
+    { "id": "bossa-nova", "name": "Bossa Nova", "color": "#E8A87C" },
+    { "id": "funk", "name": "Funk", "color": "#FF8C42" },
+    { "id": "post-punk", "name": "Post-Punk", "color": "#4A4A4A" },
+    { "id": "pop", "name": "Pop", "color": "#FF69B4" }
+  ]
+}

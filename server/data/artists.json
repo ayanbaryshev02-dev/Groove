@@ -1,0 +1,457 @@
+[
+  {
+    "id": "miki-matsubara",
+    "name": "Miki Matsubara",
+    "bio": "Japanese city pop icon whose silky vocals and disco-infused melodies defined the golden era of Tokyo nightlife. Her debut single 'Mayonaka no Door / Stay With Me' became a global phenomenon decades after its 1979 release, introducing a new generation to the magic of city pop.",
+    "image": "/artists/miki-matsubara.jpg",
+    "genres": ["city-pop"]
+  },
+  {
+    "id": "alcione",
+    "name": "Alcione",
+    "bio": "The queen of Brazilian samba, Alcione has been the heartbeat of Brazil's musical soul for over five decades. With her powerful contralto voice and commanding stage presence, she transformed samba from street music into high art without losing its raw emotional power.",
+    "image": "/artists/alcione.jpg",
+    "genres": ["soul", "bossa-nova"]
+  },
+  {
+    "id": "fiona-apple",
+    "name": "Fiona Apple",
+    "bio": "A fearless songwriter who turns emotional turmoil into breathtaking art. From her explosive debut at 18 to her critically adored later work, Apple has consistently defied industry expectations with raw honesty, jazz-inflected piano, and lyrics that cut straight to the bone.",
+    "image": "/artists/fiona-apple.jpg",
+    "genres": ["indie", "jazz"]
+  },
+  {
+    "id": "shamshi-kaldayakov",
+    "name": "Шәмші Қалдаяқов",
+    "bio": "The king of Kazakh waltz, Shamshi Kaldayakov composed melodies that became the soundtrack of the Kazakh steppe. His romantic compositions blend traditional Kazakh musical sensibilities with sweeping orchestral arrangements, and his legacy lives on as one of Kazakhstan's most beloved composers.",
+    "image": "/artists/shamshi-kaldayakov.jpg",
+    "genres": ["classic"]
+  },
+  {
+    "id": "gorod-312",
+    "name": "Город 312",
+    "bio": "Kyrgyz-born rock band that captured the hearts of millions across the post-Soviet space with their driving guitars and anthemic choruses. Their sound blends Central Asian warmth with arena-ready rock energy, creating songs that feel both intimate and massive.",
+    "image": "/artists/gorod-312.jpg",
+    "genres": ["rock"]
+  },
+  {
+    "id": "keane",
+    "name": "Keane",
+    "bio": "British piano-driven alternative rock band whose soaring melodies and Tom Chaplin's crystalline vocals created some of the most emotionally resonant anthems of the 2000s. Famously guitar-free, they proved that a piano, bass, and drums could rock just as hard.",
+    "image": "/artists/keane.jpg",
+    "genres": ["rock", "indie"]
+  },
+  {
+    "id": "maslo-chernogo-tmina",
+    "name": "Масло черного тмина",
+    "bio": "Enigmatic Russian-speaking project blending lo-fi aesthetics with deeply introspective songwriting. Their music floats between bedroom pop and post-punk atmospherics, creating a sound that feels like late-night conversations in empty city streets.",
+    "image": "/artists/maslo-chernogo-tmina.jpg",
+    "genres": ["indie", "post-punk"]
+  },
+  {
+    "id": "eminem",
+    "name": "Eminem",
+    "bio": "The fastest tongue in hip-hop history. Marshall Mathers shattered every boundary rap had known, becoming the best-selling artist of the 2000s with a combination of technical mastery, dark humor, and unflinching autobiography that changed the genre forever.",
+    "image": "/artists/eminem.jpg",
+    "genres": ["hip-hop"]
+  },
+  {
+    "id": "kendrick-lamar",
+    "name": "Kendrick Lamar",
+    "bio": "Compton's poet laureate and the first rapper to win a Pulitzer Prize. Kendrick Lamar elevated hip-hop into high literature with dense, layered albums that dissect race, identity, and the American experience with unmatched lyrical precision.",
+    "image": "/artists/kendrick-lamar.jpg",
+    "genres": ["hip-hop"]
+  },
+  {
+    "id": "bob-marley",
+    "name": "Bob Marley",
+    "bio": "The voice of reggae and a global symbol of peace, resistance, and spiritual awakening. Bob Marley didn't just make music — he started a movement. His songs remain as powerful and relevant today as when they first rang out from the streets of Kingston.",
+    "image": "/artists/bob-marley.jpg",
+    "genres": ["reggae"]
+  },
+  {
+    "id": "tame-impala",
+    "name": "Tame Impala",
+    "bio": "Kevin Parker's one-man psychedelic universe. What started as bedroom recordings in Perth, Australia evolved into one of the most influential sounds of the 2010s — swirling synths, processed drums, and hazy vocals that make you feel like you're melting into a sunset.",
+    "image": "/artists/tame-impala.jpg",
+    "genres": ["indie", "electronic"]
+  },
+  {
+    "id": "claude-debussy",
+    "name": "Claude Debussy",
+    "bio": "The father of musical impressionism who shattered the rules of classical harmony and rebuilt them in shimmering, ethereal colors. His compositions evoke moonlight on water, clouds drifting across the sky, and the quiet magic of fleeting moments.",
+    "image": "/artists/claude-debussy.jpg",
+    "genres": ["classic"]
+  },
+  {
+    "id": "ennio-morricone",
+    "name": "Ennio Morricone",
+    "bio": "The maestro who gave cinema its voice. With over 500 film scores spanning six decades, Morricone created some of the most iconic musical moments in movie history — from the haunting whistle of the Wild West to the tender melodies of Italian neorealism.",
+    "image": "/artists/ennio-morricone.jpg",
+    "genres": ["soundtrack", "classic"]
+  },
+  {
+    "id": "tyler-the-creator",
+    "name": "Tyler, The Creator",
+    "bio": "From provocateur to visionary. Tyler's evolution from Odd Future's wild child to one of music's most inventive producers and artists is one of hip-hop's greatest stories. Each album is a complete world — sonically, visually, and emotionally.",
+    "image": "/artists/tyler-the-creator.jpg",
+    "genres": ["hip-hop", "soul"]
+  },
+  {
+    "id": "alabama-shakes",
+    "name": "Alabama Shakes",
+    "bio": "Southern rock revivalists who brought raw, gritty blues-rock back to the mainstream. Brittany Howard's volcanic vocals and the band's loose, thunderous groove earned them four Grammys and a reputation as one of the most electrifying live acts of their generation.",
+    "image": "/artists/alabama-shakes.jpg",
+    "genres": ["rock", "soul"]
+  },
+  {
+    "id": "kid-cudi",
+    "name": "Kid Cudi",
+    "bio": "The lonely stoner who changed hip-hop's emotional landscape forever. Kid Cudi made it okay for rappers to be vulnerable, anxious, and searching. His humming melodies and spacey production created a whole new lane that influenced an entire generation.",
+    "image": "/artists/kid-cudi.jpg",
+    "genres": ["hip-hop"]
+  },
+  {
+    "id": "mo-kalamity",
+    "name": "Mo'Kalamity",
+    "bio": "French reggae artist whose conscious lyrics and warm, soulful voice carry the spirit of roots reggae into the modern era. Her music blends Caribbean rhythms with Afrobeat influences, delivering messages of unity, resistance, and love.",
+    "image": "/artists/mo-kalamity.jpg",
+    "genres": ["reggae"]
+  },
+  {
+    "id": "the-cure",
+    "name": "The Cure",
+    "bio": "Robert Smith's gothic pop masterclass. For over four decades, The Cure have been the soundtrack to rainy afternoons, broken hearts, and the beautiful melancholy of being alive. Their sound — lush, dark, and utterly unique — defined an entire aesthetic.",
+    "image": "/artists/the-cure.jpg",
+    "genres": ["post-punk", "rock"]
+  },
+  {
+    "id": "piero-piccioni",
+    "name": "Piero Piccioni",
+    "bio": "Italian film composer whose lush, jazzy scores defined the sound of 1960s and 70s European cinema. His sophisticated arrangements blend bossa nova, jazz, and orchestral pop into irresistibly cool soundscapes that feel like a Roman holiday.",
+    "image": "/artists/piero-piccioni.jpg",
+    "genres": ["soundtrack", "jazz"]
+  },
+  {
+    "id": "antokha-mc",
+    "name": "Антоха МС",
+    "bio": "Russian indie musician who blends naive art-pop with sincere, heartfelt lyrics about everyday life. His lo-fi charm and genuine warmth have made him a cult favorite in the Russian-speaking indie scene, proving that simplicity can be profound.",
+    "image": "/artists/antokha-mc.jpg",
+    "genres": ["indie", "pop"]
+  },
+  {
+    "id": "m83",
+    "name": "M83",
+    "bio": "Anthony Gonzalez's epic shoegaze-meets-synthpop project that turns nostalgia into a physical sensation. M83's music sounds like the soundtrack to a coming-of-age film that exists only in your memories — huge, emotional, and impossibly cinematic.",
+    "image": "/artists/m83.jpg",
+    "genres": ["electronic", "indie"]
+  },
+  {
+    "id": "tim-maia",
+    "name": "Tim Maia",
+    "bio": "Brazil's soul godfather. Tim Maia brought funk, soul, and R&B to Brazilian music with a larger-than-life personality and a voice that could shake buildings. His influence on Brazilian popular music is immeasurable — he was the bridge between Motown and Rio.",
+    "image": "/artists/tim-maia.jpg",
+    "genres": ["soul", "funk"]
+  },
+  {
+    "id": "vinicius-de-moraes",
+    "name": "Vinícius de Moraes",
+    "bio": "The poet-diplomat who co-created bossa nova. Vinícius de Moraes wrote the lyrics to 'The Girl from Ipanema' and countless other standards that defined Brazil's most elegant musical export. His words are as essential to Brazilian culture as the beaches of Copacabana.",
+    "image": "/artists/vinicius-de-moraes.jpg",
+    "genres": ["bossa-nova"]
+  },
+  {
+    "id": "khusky",
+    "name": "Хаски",
+    "bio": "Russian rapper whose fierce, literary flow tackles the raw realities of provincial Russian life. His aggressive delivery and poetic imagery create a visceral portrait of modern Russia — bleak, beautiful, and brutally honest.",
+    "image": "/artists/khusky.jpg",
+    "genres": ["hip-hop"]
+  },
+  {
+    "id": "staind",
+    "name": "Staind",
+    "bio": "Post-grunge powerhouse whose raw emotional intensity and Aaron Lewis's tortured vocals made them one of the defining bands of early 2000s rock. Their music navigates the darkness of depression and anger with unflinching honesty.",
+    "image": "/artists/staind.jpg",
+    "genres": ["rock", "metal"]
+  },
+  {
+    "id": "delfin",
+    "name": "Дельфин",
+    "bio": "Russian electronic music pioneer and poet. Dolphin (Andrei Lysikov) has been pushing the boundaries of Russian music for three decades, blending industrial electronics, trip-hop, and spoken word into deeply personal sonic landscapes.",
+    "image": "/artists/delfin.jpg",
+    "genres": ["electronic", "post-punk"]
+  },
+  {
+    "id": "gorillaz",
+    "name": "Gorillaz",
+    "bio": "Damon Albarn's virtual band that proved cartoons could make the coolest music on the planet. Gorillaz blend hip-hop, electronic, world music, and britpop into genre-defying albums featuring an ever-rotating cast of collaborators from every corner of music.",
+    "image": "/artists/gorillaz.jpg",
+    "genres": ["electronic", "hip-hop"]
+  },
+  {
+    "id": "fleetwood-mac",
+    "name": "Fleetwood Mac",
+    "bio": "The band that turned personal chaos into pop perfection. Fleetwood Mac's Rumours-era lineup channeled breakups, betrayals, and heartbreak into one of the best-selling albums of all time, proving that great art often comes from great pain.",
+    "image": "/artists/fleetwood-mac.jpg",
+    "genres": ["rock", "pop"]
+  },
+  {
+    "id": "sixto-rodriguez",
+    "name": "Sixto Rodriguez",
+    "bio": "Detroit's forgotten troubadour who became a legend on the other side of the world. Rodriguez's folk-rock masterpieces went unnoticed in America but made him bigger than Elvis in South Africa — a story so incredible it became an Oscar-winning documentary.",
+    "image": "/artists/sixto-rodriguez.jpg",
+    "genres": ["rock", "indie"]
+  },
+  {
+    "id": "billy-joel",
+    "name": "Billy Joel",
+    "bio": "The Piano Man himself. Billy Joel is one of the best-selling solo artists in American history, crafting pop-rock anthems that capture the spirit of New York City with the soul of a classical pianist and the heart of a blue-collar storyteller.",
+    "image": "/artists/billy-joel.jpg",
+    "genres": ["rock", "pop"]
+  },
+  {
+    "id": "the-blaze",
+    "name": "The Blaze",
+    "bio": "French electronic duo whose deeply emotional productions and cinematic music videos redefined what dance music could feel like. Their tracks are less about the dancefloor and more about the human moments that make life worth living.",
+    "image": "/artists/the-blaze.jpg",
+    "genres": ["electronic"]
+  },
+  {
+    "id": "joe-hisaishi",
+    "name": "Joe Hisaishi",
+    "bio": "The musical soul of Studio Ghibli. Joe Hisaishi's orchestral scores for Hayao Miyazaki's films — Spirited Away, My Neighbor Totoro, Princess Mononoke — are among the most beautiful and beloved film music ever composed.",
+    "image": "/artists/joe-hisaishi.jpg",
+    "genres": ["soundtrack", "classic"]
+  },
+  {
+    "id": "laid-back",
+    "name": "Laid Back",
+    "bio": "Danish synth-pop duo whose laid-back grooves and irresistible hooks made 'Sunshine Reggae' and 'White Horse' global smash hits. Their effortlessly cool blend of reggae, pop, and electronic music defined the sound of carefree 1980s summers.",
+    "image": "/artists/laid-back.jpg",
+    "genres": ["electronic", "pop"]
+  },
+  {
+    "id": "altin-gun",
+    "name": "Altın Gün",
+    "bio": "Amsterdam-based band breathing new life into Turkish folk and psychedelic rock. Altın Gün take classic Anatolian melodies and run them through a filter of funk, disco, and synth-pop, creating something that feels both ancient and futuristic.",
+    "image": "/artists/altin-gun.jpg",
+    "genres": ["rock", "funk"]
+  },
+  {
+    "id": "mgmt",
+    "name": "MGMT",
+    "bio": "Brooklyn psychedelic pop duo who went from college dorm recordings to festival headliners with 'Kids' and 'Electric Feel.' Their refusal to repeat themselves has made each album a new adventure into the weirder corners of pop music.",
+    "image": "/artists/mgmt.jpg",
+    "genres": ["indie", "electronic"]
+  },
+  {
+    "id": "childish-gambino",
+    "name": "Childish Gambino",
+    "bio": "Donald Glover's musical alter ego, a shapeshifting artist who moves between rap, funk, soul, and psychedelia with the ease of a true polymath. 'This Is America' didn't just top charts — it became a cultural moment.",
+    "image": "/artists/childish-gambino.jpg",
+    "genres": ["hip-hop", "funk", "soul"]
+  },
+  {
+    "id": "jose-gonzalez",
+    "name": "José González",
+    "bio": "Swedish-Argentine acoustic virtuoso whose gentle fingerpicking and hushed vocals create music of extraordinary intimacy. His cover of 'Heartbeats' turned a synth-pop anthem into a whispered confession, and his originals are just as captivating.",
+    "image": "/artists/jose-gonzalez.jpg",
+    "genres": ["indie"]
+  },
+  {
+    "id": "sister-nancy",
+    "name": "Sister Nancy",
+    "bio": "The queen of dancehall. Sister Nancy's 'Bam Bam' is one of the most sampled songs in music history, and her trailblazing career as one of reggae's first female DJs opened doors for generations of women in Caribbean music.",
+    "image": "/artists/sister-nancy.jpg",
+    "genres": ["reggae"]
+  },
+  {
+    "id": "batyrhan-shukenov",
+    "name": "Батырхан Шукенов",
+    "bio": "Kazakhstan's most beloved pop vocalist and the voice of A-Studio. Batyrhan Shukenov's warm tenor and sophisticated pop arrangements made him a superstar across Central Asia and Russia, bridging Eastern melodies with Western pop production.",
+    "image": "/artists/batyrhan-shukenov.jpg",
+    "genres": ["pop"]
+  },
+  {
+    "id": "ace-spectrum",
+    "name": "Ace Spectrum",
+    "bio": "70s soul group from New York whose smooth harmonies and lush arrangements created timeless R&B. Their deep cuts are favorites among vinyl diggers and soul collectors worldwide, representing the best of classic East Coast soul.",
+    "image": "/artists/ace-spectrum.jpg",
+    "genres": ["soul"]
+  },
+  {
+    "id": "the-cranberries",
+    "name": "The Cranberries",
+    "bio": "Ireland's alt-rock treasures whose jangly guitars and Dolores O'Riordan's unmistakable voice defined 90s alternative rock. From the protest anthem 'Zombie' to the tender 'Linger,' they proved that vulnerability and power could coexist.",
+    "image": "/artists/the-cranberries.jpg",
+    "genres": ["rock", "indie"]
+  },
+  {
+    "id": "the-vines",
+    "name": "The Vines",
+    "bio": "Australian garage rock revivalists who burst onto the scene with a gritty yet melodic blend of fuzzy riffs and Craig Nicholls's unmistakable snarling delivery. Part of the early 2000s rock revival that reminded the world guitar music wasn't dead.",
+    "image": "/artists/the-vines.jpg",
+    "genres": ["rock", "indie"]
+  },
+  {
+    "id": "the-xx",
+    "name": "The xx",
+    "bio": "London trio who proved that silence can be louder than noise. The xx's minimal, intimate sound — hushed vocals, sparse guitar, and gentle beats — created a new blueprint for indie music and influenced countless artists.",
+    "image": "/artists/the-xx.jpg",
+    "genres": ["indie", "electronic"]
+  },
+  {
+    "id": "empire-of-the-sun",
+    "name": "Empire of the Sun",
+    "bio": "Australian electronic duo whose theatrical synth-pop and elaborate visual world feel like a transmission from a glamorous alien civilization. 'Walking on a Dream' remains one of the most joyful electronic pop songs ever made.",
+    "image": "/artists/empire-of-the-sun.jpg",
+    "genres": ["electronic", "pop"]
+  },
+  {
+    "id": "the-notorious-big",
+    "name": "The Notorious B.I.G.",
+    "bio": "Brooklyn's finest storyteller. Biggie Smalls combined a velvet-smooth flow with vivid street narratives to create two of hip-hop's greatest albums before his tragic death at 24. His influence on rap's golden age is immeasurable.",
+    "image": "/artists/the-notorious-big.jpg",
+    "genres": ["hip-hop"]
+  },
+  {
+    "id": "crystal-castles",
+    "name": "Crystal Castles",
+    "bio": "Toronto electronic duo who dragged chiptune and 8-bit sounds into the dark, chaotic world of punk and noise. Their abrasive, glitchy productions and intense live shows made them icons of the late-2000s underground electronic scene.",
+    "image": "/artists/crystal-castles.jpg",
+    "genres": ["electronic"]
+  },
+  {
+    "id": "the-rolling-stones",
+    "name": "The Rolling Stones",
+    "bio": "The greatest rock and roll band in the world — their words, and nobody has seriously argued otherwise. For six decades, Mick and Keith have been the definition of rock excess, rebellion, and timeless songwriting.",
+    "image": "/artists/the-rolling-stones.jpg",
+    "genres": ["rock"]
+  },
+  {
+    "id": "marvin-gaye",
+    "name": "Marvin Gaye",
+    "bio": "The prince of Motown who transcended soul music to become one of the most important artists of the 20th century. From the sensuality of 'Let's Get It On' to the social consciousness of 'What's Going On,' he redefined what popular music could say.",
+    "image": "/artists/marvin-gaye.jpg",
+    "genres": ["soul"]
+  },
+  {
+    "id": "moby",
+    "name": "Moby",
+    "bio": "Electronic music's unlikely ambassador to the mainstream. Moby's 'Play' became one of the best-selling electronic albums ever, blending house beats with old blues and gospel samples to create something entirely new and deeply emotional.",
+    "image": "/artists/moby.jpg",
+    "genres": ["electronic"]
+  },
+  {
+    "id": "oberhofer",
+    "name": "Oberhofer",
+    "bio": "Brooklyn indie-pop project led by Brad Oberhofer, whose jangly guitars and youthful energy capture the restless spirit of young adulthood. Their sound bounces between surf-rock brightness and introspective lo-fi warmth.",
+    "image": "/artists/oberhofer.jpg",
+    "genres": ["indie"]
+  },
+  {
+    "id": "kanye-west",
+    "name": "Kanye West",
+    "bio": "The most polarizing creative force in modern music. Love him or not, Kanye West fundamentally changed hip-hop's sound, aesthetic, and ambition multiple times over — from sped-up soul samples to industrial noise to gospel choirs.",
+    "image": "/artists/kanye-west.jpg",
+    "genres": ["hip-hop"]
+  },
+  {
+    "id": "the-beatles",
+    "name": "The Beatles",
+    "bio": "Four lads from Liverpool who changed everything. The Beatles didn't just define popular music — they expanded its possibilities so dramatically that every artist since has worked in their shadow, whether they know it or not.",
+    "image": "/artists/the-beatles.jpg",
+    "genres": ["rock", "pop"]
+  },
+  {
+    "id": "the-stranglers",
+    "name": "The Stranglers",
+    "bio": "British punk band with a twist — swirling keyboards, jazz-tinged bass lines, and a menacing attitude that set them apart from their safety-pinned contemporaries. Their sound was darker, more sophisticated, and utterly unique.",
+    "image": "/artists/the-stranglers.jpg",
+    "genres": ["post-punk", "rock"]
+  },
+  {
+    "id": "nina-simone",
+    "name": "Nina Simone",
+    "bio": "The High Priestess of Soul. Nina Simone's music transcends genre — jazz, blues, classical, soul, protest — because her artistry transcended categorization. Her voice could whisper tenderness or roar with righteous fury, often in the same song.",
+    "image": "/artists/nina-simone.jpg",
+    "genres": ["jazz", "soul"]
+  },
+  {
+    "id": "israel-kamakawiwoole",
+    "name": "Israel Kamakawiwo'ole",
+    "bio": "Hawaii's gentle giant whose ukulele rendition of 'Over the Rainbow' became one of the most beloved recordings of all time. Bruddah Iz's warm voice and island spirit touched millions, making him a global symbol of Hawaiian music and aloha.",
+    "image": "/artists/israel-kamakawiwoole.jpg",
+    "genres": ["pop", "classic"]
+  },
+  {
+    "id": "jackson-5",
+    "name": "Jackson 5",
+    "bio": "The first family of pop. Five brothers from Gary, Indiana who became the biggest act in Motown history, led by the impossibly talented young Michael Jackson. Their infectious energy and flawless harmonies created pure joy in musical form.",
+    "image": "/artists/jackson-5.jpg",
+    "genres": ["soul", "pop", "funk"]
+  },
+  {
+    "id": "frank-sinatra",
+    "name": "Frank Sinatra",
+    "bio": "The Chairman of the Board. Sinatra didn't just sing songs — he inhabited them, turning every lyric into a personal confession. His phrasing, his timing, his ability to make you feel like he was singing just to you — there has never been anyone like him.",
+    "image": "/artists/frank-sinatra.jpg",
+    "genres": ["jazz", "pop"]
+  },
+  {
+    "id": "mf-doom",
+    "name": "MF DOOM",
+    "bio": "The supervillain of underground hip-hop. Behind the metal mask, Daniel Dumile crafted some of the most inventive, reference-packed, and technically dazzling rap music ever recorded. His rhyme schemes are puzzles that reveal new layers with every listen.",
+    "image": "/artists/mf-doom.jpg",
+    "genres": ["hip-hop"]
+  },
+  {
+    "id": "asap-mob",
+    "name": "A$AP Mob",
+    "bio": "Harlem collective that redefined hip-hop's relationship with fashion, art, and culture in the 2010s. Led by A$AP Rocky and A$AP Ferg, the Mob blended Houston-style chopped and screwed with cloud rap and high-fashion aesthetics.",
+    "image": "/artists/asap-mob.jpg",
+    "genres": ["hip-hop"]
+  },
+  {
+    "id": "black-eyed-peas",
+    "name": "Black Eyed Peas",
+    "bio": "From conscious hip-hop to global pop domination. The Black Eyed Peas evolved from underground rappers into one of the biggest pop acts of the 2000s, with will.i.am's production turning clubs worldwide into one massive party.",
+    "image": "/artists/black-eyed-peas.jpg",
+    "genres": ["hip-hop", "pop", "electronic"]
+  },
+  {
+    "id": "ricky-trye",
+    "name": "Ricky Trye",
+    "bio": "Soulful artist whose smooth vocals and groove-heavy productions pay homage to classic R&B while pushing into modern territory. A hidden gem for vinyl collectors who appreciate authentic soul craftsmanship.",
+    "image": "/artists/ricky-trye.jpg",
+    "genres": ["soul", "funk"]
+  },
+  {
+    "id": "qonyratbay-fam",
+    "name": "QONYRATBAY FAM",
+    "bio": "Kazakh hip-hop collective bringing Central Asian identity and culture to the global rap scene. Their bilingual flow and unique perspective offer a fresh voice in a genre often dominated by Western narratives.",
+    "image": "/artists/qonyratbay-fam.jpg",
+    "genres": ["hip-hop"]
+  },
+  {
+    "id": "hi-fi",
+    "name": "Hi-Fi",
+    "bio": "Russian pop group that dominated the 2000s post-Soviet music scene with catchy hooks and polished production. Their danceable pop sound became the soundtrack of a generation of Russian-speaking youth.",
+    "image": "/artists/hi-fi.jpg",
+    "genres": ["pop"]
+  },
+  {
+    "id": "the-teenagers",
+    "name": "The Teenagers",
+    "bio": "French electro-pop group whose cheeky, bilingual party anthems and irreverent attitude made them darlings of the late-2000s blog-house scene. Their music is a sugar rush of synths, attitude, and youthful energy.",
+    "image": "/artists/the-teenagers.jpg",
+    "genres": ["electronic", "pop"]
+  },
+  {
+    "id": "muzikola",
+    "name": "Мюзикола",
+    "bio": "Kazakh rock band whose energetic performances and catchy rock anthems have made them one of the most recognizable acts in Central Asian rock. Their music carries the spirit of the steppe with the power of electric guitars.",
+    "image": "/artists/muzikola.jpg",
+    "genres": ["rock"]
+  }
+]
