@@ -72,7 +72,7 @@ watch(route, () => {
 <template>
   <header>
     <div class="bg-dark text-light">
-      <div class="max-w-[1440px] mx-auto px-6 py-4 flex items-center justify-between gap-6">
+      <div class="max-w-[1200px] mx-auto px-6 py-4 flex items-center justify-between gap-6">
         <RouterLink to="/" class="shrink-0">
           <img :src="LogoIcon" alt="Groove" class="h-6" />
         </RouterLink>
