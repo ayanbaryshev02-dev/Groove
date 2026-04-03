@@ -2,8 +2,9 @@ import type { Album, Artist } from '@/types'
 
 const BASE = '/api'
 
-export async function getAlbums(): Promise<Album[]> {
-  const res = await fetch(`${BASE}/albums`)
+export async function getAlbums(params?: Record<string, string>): Promise<Album[]> {
+  const query = params ? '?' + new URLSearchParams(params).toString() : ''
+  const res = await fetch(`${BASE}/albums${query}`)
   return res.json()
 }
 

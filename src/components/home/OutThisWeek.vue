@@ -31,7 +31,7 @@ function next() {
     <div class="max-w-[1200px] mx-auto px-6 py-16 relative">
       <div class="flex items-end justify-between mb-8">
         <h2 class="text-[48px] font-bold leading-none text-light">OUT THIS WEEK</h2>
-        <RouterLink to="/catalog" class="text-[16px] font-bold text-light hover:opacity-70 transition-opacity">
+        <RouterLink to="/catalog?outThisWeek=true" class="text-[16px] font-bold text-light hover:opacity-70 transition-opacity">
           see all
         </RouterLink>
       </div>
