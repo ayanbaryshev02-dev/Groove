@@ -52,6 +52,12 @@ function next() {
   goTo(nextIndex)
 }
 
+function getVinylImage(album: Album) {
+  const validColors = ['black', 'red', 'blue', 'green']
+  const color = validColors.includes(album.vinylColor) ? album.vinylColor : 'black'
+  return `/vinyl/${color}.webp`
+}
+
 onMounted(() => {
   startProgress()
   interval = setInterval(next, DURATION)
@@ -87,8 +93,11 @@ onUnmounted(() => {
             {{ albums[activeIndex].isPreOrder ? 'Pre-order' : 'Buy now' }}
           </RouterLink>
         </div>
-        <div class="flex justify-end">
-          <div class="w-[400px] h-[400px] bg-dark/5"></div>
+        <div class="flex justify-center items-center">
+          <div class="relative w-full" style="aspect-ratio: 4/3;">
+            <img :src="`/covers/${albums[activeIndex].id}.webp`" :alt="albums[activeIndex].title" class="absolute left-0 top-1/2 -translate-y-1/2 h-[90%] aspect-square object-cover z-10" @error="($event.target as HTMLImageElement).style.display = 'none'" />
+            <img :src="getVinylImage(albums[activeIndex])" alt="Vinyl" class="absolute right-0 top-1/2 -translate-y-1/2 h-[90%] aspect-square object-contain z-0" />
+          </div>
         </div>
       </div>
     </div>

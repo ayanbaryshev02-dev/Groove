@@ -1,12 +1,19 @@
 <script setup lang="ts">
+import { computed } from 'vue'
 import { RouterLink } from 'vue-router'
 import type { Album } from '@/types'
 
-defineProps<{
+const props = defineProps<{
   album: Album
 }>()
 
 const currentMonth = new Date().toLocaleString('en', { month: 'long' }).toUpperCase()
+
+const vinylImage = computed(() => {
+  const validColors = ['black', 'red', 'blue', 'green']
+  const color = validColors.includes(props.album.vinylColor) ? props.album.vinylColor : 'black'
+  return `/vinyl/${color}.webp`
+})
 </script>
 
 <template>
@@ -14,7 +21,12 @@ const currentMonth = new Date().toLocaleString('en', { month: 'long' }).toUpperC
     <div class="max-w-[1200px] mx-auto px-6 py-16">
       <h2 class="text-[48px] font-bold leading-none mb-10">ALBUM OF THE MONTH: {{ currentMonth }}</h2>
       <div class="grid grid-cols-2 gap-12 items-center">
-        <div class="aspect-square max-w-[360px] bg-dark/5"></div>
+        <div class="flex justify-center items-center">
+          <div class="relative w-full" style="aspect-ratio: 3/2;">
+            <img :src="`/covers/${album.id}.webp`" :alt="album.title" class="absolute left-0 top-1/2 -translate-y-1/2 h-[90%] aspect-square object-cover z-10" @error="($event.target as HTMLImageElement).style.display = 'none'" />
+            <img :src="vinylImage" alt="Vinyl" class="absolute right-0 top-1/2 -translate-y-1/2 h-[90%] aspect-square object-contain z-0" />
+          </div>
+        </div>
         <div>
           <RouterLink :to="`/artist/${album.artistId}`" class="text-[32px] font-bold hover:opacity-70 transition-opacity">
             {{ album.artistName }}

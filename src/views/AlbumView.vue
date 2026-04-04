@@ -60,6 +60,14 @@ const releaseInfo = computed(() => {
   return album.value.isPreOrder ? `Release date: ${formatted} (Pre-order)` : `Release date: ${formatted}`
 })
 
+const vinylImage = computed(() => {
+  const validColors = ['black', 'red', 'blue', 'green']
+  const color = album.value && validColors.includes(album.value.vinylColor)
+    ? album.value.vinylColor
+    : 'black'
+  return `/vinyl/${color}.webp`
+})
+
 onMounted(loadAlbum)
 watch(() => route.params.id, loadAlbum)
 </script>
@@ -77,8 +85,9 @@ watch(() => route.params.id, loadAlbum)
     <div class="max-w-[1200px] mx-auto px-6 py-8">
       <div class="grid grid-cols-2 gap-16">
         <div class="sticky top-8 self-start">
-          <div class="aspect-square max-w-[480px] bg-dark/5">
-            <img :src="`/covers/${album.id}.webp`" :alt="album.title" class="w-full h-full object-cover" @error="($event.target as HTMLImageElement).style.display = 'none'" />
+          <div class="relative max-w-[320px]">
+            <img :src="vinylImage" alt="Vinyl" class="absolute top-0 left-[50%] w-full h-full object-contain z-0" />
+            <img :src="`/covers/${album.id}.webp`" :alt="album.title" class="relative z-10 w-full aspect-square object-cover" @error="($event.target as HTMLImageElement).style.display = 'none'" />
           </div>
 
           <div class="mt-10">

@@ -34,7 +34,7 @@ onMounted(async () => {
         >
           <div class="aspect-square bg-dark/5 overflow-hidden mb-3">
             <img
-              :src="`/artists/${artist.id}.jpg`"
+              :src="`/artists/${artist.id}.webp`"
               :alt="artist.name"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               @error="($event.target as HTMLImageElement).style.display = 'none'"
