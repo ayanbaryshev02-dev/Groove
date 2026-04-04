@@ -77,7 +77,9 @@ watch(() => route.params.id, loadAlbum)
     <div class="max-w-[1200px] mx-auto px-6 py-8">
       <div class="grid grid-cols-2 gap-16">
         <div class="sticky top-8 self-start">
-          <div class="aspect-square bg-dark/5 max-w-[480px]"></div>
+          <div class="aspect-square max-w-[480px] bg-dark/5">
+            <img :src="`/covers/${album.id}.webp`" :alt="album.title" class="w-full h-full object-cover" @error="($event.target as HTMLImageElement).style.display = 'none'" />
+          </div>
 
           <div class="mt-10">
             <h3 class="text-[36px] font-bold">Description</h3>

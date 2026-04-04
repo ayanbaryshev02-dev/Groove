@@ -45,7 +45,9 @@ watch(() => cart.isOpen, (open) => {
 
           <div v-for="item in cart.items" :key="item.album.id" class="mb-8">
             <div class="flex gap-4">
-              <div class="w-24 h-24 bg-white/10 shrink-0"></div>
+              <div class="w-24 h-24 bg-white/10 shrink-0 overflow-hidden">
+                <img :src="`/covers/${item.album.id}.webp`" :alt="item.album.title" class="w-full h-full object-cover" @error="($event.target as HTMLImageElement).style.display = 'none'" />
+              </div>
               <div class="flex-1">
                 <div class="flex justify-between">
                   <div>

@@ -62,25 +62,25 @@
       {
         "side": "A",
         "tracks": [
-          { "number": 1, "title": "Não Deixe o Samba Morrer", "duration": "3:20" },
-          { "number": 2, "title": "O Surdo", "duration": "2:55" },
-          { "number": 3, "title": "Eu Sou a Maresia", "duration": "3:10" },
-          { "number": 4, "title": "Canto de Rainha", "duration": "3:45" },
-          { "number": 5, "title": "Meu Vício É Você", "duration": "3:02" }
+          { "number": 1, "title": "Sufoco", "duration": "3:59" },
+          { "number": 2, "title": "Nem Morta", "duration": "3:51" },
+          { "number": 3, "title": "Menino Sem Juízo", "duration": "3:19" },
+          { "number": 4, "title": "Ou Ela Ou Eu", "duration": "3:40" },
+          { "number": 5, "title": "Pedra Que Não Cria Limo", "duration": "2:47" }
         ]
       },
       {
         "side": "B",
         "tracks": [
-          { "number": 1, "title": "Gostoso Veneno", "duration": "3:30" },
-          { "number": 2, "title": "A Loba", "duration": "2:48" },
-          { "number": 3, "title": "Figa de Guiné", "duration": "3:15" },
-          { "number": 4, "title": "Vá Cuidar de Sua Vida", "duration": "3:38" },
-          { "number": 5, "title": "Samba da Bênção", "duration": "4:10" }
+          { "number": 1, "title": "O Surdo", "duration": "2:50" },
+          { "number": 2, "title": "Ilha De Maré", "duration": "3:48" },
+          { "number": 3, "title": "Não Deixe O Samba Morrer", "duration": "4:27" },
+          { "number": 4, "title": "Gostoso Veneno", "duration": "3:18" },
+          { "number": 5, "title": "Pandeiro È Meu Nome", "duration": "3:33" }
         ]
       }
     ],
-    "spotifyAlbumId": "",
+    "spotifyAlbumId": "5scj1b2w69SJ6KosMN7c0N",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -125,7 +125,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "4GBFmLEn6bCRRnOgbKFMkS",
+    "spotifyAlbumId": "5gVBXH8MT6zfdRkjp7qT18",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -171,7 +171,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "1UVOGx4VSKPJiSdVOOPHP7",
+    "spotifyAlbumId": "0MlTOiC5ZYKFGeZ8h3D4rd",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -344,7 +344,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "4yBEXMsFeQodYyBWMBBZko",
+    "spotifyAlbumId": "4qsXcmAgPNSliu6oMQGOQ9",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -428,25 +428,25 @@
       {
         "side": "A",
         "tracks": [
-          { "number": 1, "title": "Suite Bergamasque: Clair de Lune", "duration": "5:00" },
-          { "number": 2, "title": "Rêverie", "duration": "4:20" },
-          { "number": 3, "title": "Deux Arabesques: No. 1", "duration": "4:15" },
-          { "number": 4, "title": "Deux Arabesques: No. 2", "duration": "3:40" },
-          { "number": 5, "title": "La fille aux cheveux de lin", "duration": "2:30" }
+          { "number": 1, "title": "Suite bergamasque, CD 82: III. Clair de lune", "duration": "5:00" },
+          { "number": 2, "title": "Suite bergamasque, CD 82: I. Prélude", "duration": "4:20" },
+          { "number": 3, "title": "Suite bergamasque, CD 82: II. Menuet", "duration": "4:15" },
+          { "number": 4, "title": "Suite bergamasque, CD 82: IV. Passepied", "duration": "3:40" },
+          { "number": 5, "title": "Children's Corner, CD 119: I. Doctor Gradus ad Parnassum", "duration": "2:30" }
         ]
       },
       {
         "side": "B",
         "tracks": [
-          { "number": 1, "title": "Suite Bergamasque: Prélude", "duration": "4:30" },
-          { "number": 2, "title": "Suite Bergamasque: Menuet", "duration": "4:00" },
-          { "number": 3, "title": "Suite Bergamasque: Passepied", "duration": "3:50" },
-          { "number": 4, "title": "Children's Corner: Golliwog's Cakewalk", "duration": "3:10" },
-          { "number": 5, "title": "La cathédrale engloutie", "duration": "6:00" }
+          { "number": 1, "title": "Préludes, Book 1, CD 125: VIII. La fille aux cheveux de lin", "duration": "05:06" },
+          { "number": 2, "title": "Estampes, CD 108: I. Pagodes", "duration": "4:00" },
+          { "number": 3, "title": "Estampes, CD 108: II. La soirée dans Grenade", "duration": "3:50" },
+          { "number": 4, "title": "Estampes, CD 108: III. Jardins sous la pluie", "duration": "3:10" },
+          { "number": 5, "title": "Etudes, CD 143: XI. Pour les arpèges composés", "duration": "6:00" }
         ]
       }
     ],
-    "spotifyAlbumId": "",
+    "spotifyAlbumId": "0rugKGR1mnHR7lUTB1AaYr",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -491,7 +491,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "7LXrRz7dMwNJIuGPsh0VNi",
+    "spotifyAlbumId": "1pDYxCrFTy971V4zaN5Anq",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -584,7 +584,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "1FABbGmKMPWBDhKNxtiEni",
+    "spotifyAlbumId": "03nQNGFi3dIxg6ghNbtVWW",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -643,7 +643,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "1XnFat8Pko1GjGz9hhATJj",
+    "spotifyAlbumId": "47y3PbX8oIDCkYAFylCJz0",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -699,7 +699,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "1dm7Fn1yzVIGdug3MjpGXR",
+    "spotifyAlbumId": "6DZNOsLXIU2zOQfQDwDpIS",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -789,20 +789,20 @@
         "side": "A",
         "tracks": [
           { "number": 1, "title": "Imunização Racional (Universo em Desencanto)", "duration": "8:10" },
-          { "number": 2, "title": "Que Beleza", "duration": "4:30" },
-          { "number": 3, "title": "O Caminho do Bem", "duration": "3:45" }
+          { "number": 2, "title": "Bom-Senso", "duration": "5:05" },
+          { "number": 3, "title": "Universo em Desencanto", "duration": "3:45" }
         ]
       },
       {
         "side": "B",
         "tracks": [
-          { "number": 1, "title": "Bom Senso", "duration": "5:00" },
-          { "number": 2, "title": "Rational Culture", "duration": "6:20" },
+          { "number": 1, "title": "Rational Culture", "duration": "12:00" },
+          { "number": 2, "title": "Contacto Com o Mundo Racional", "duration": "3:01" },
           { "number": 3, "title": "Lamento de um Velho", "duration": "4:15" }
         ]
       }
     ],
-    "spotifyAlbumId": "",
+    "spotifyAlbumId": "2lRhEHwcphLMhfEeyNM7ST",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -952,7 +952,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "7aEamGER7NeMXFsNOjprA0",
+    "spotifyAlbumId": "3q90UAYeHLvAtnowiQlmgp",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -996,7 +996,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "1Cz7cflG0bZVwqGO0PJGNT",
+    "spotifyAlbumId": "3IILMjMMnoN2sKzgesX8KV",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -1039,7 +1039,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "5R5AORJMFCoI1TfjxDyiao",
+    "spotifyAlbumId": "4Ekdf8v7lFV5c3zIdtpyjY",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -1100,7 +1100,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "3iF9COJAH3GmRSjdant7iC",
+    "spotifyAlbumId": "766a5fKJYFy9ii4Kz2bQy9",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": true,
@@ -1126,25 +1126,25 @@
       {
         "side": "A",
         "tracks": [
-          { "number": 1, "title": "Yüce Dağ Başında", "duration": "4:02" },
-          { "number": 2, "title": "Ordunun Dereleri", "duration": "3:15" },
-          { "number": 3, "title": "Kara Toprak", "duration": "3:50" },
-          { "number": 4, "title": "Yol", "duration": "4:10" },
-          { "number": 5, "title": "Maçka Yolları", "duration": "3:35" }
+          { "number": 1, "title": "Ordunun Dereleri", "duration": "4:34" },
+          { "number": 2, "title": "Bulunur Mu", "duration": "3:05" },
+          { "number": 3, "title": "Hey Nari", "duration": "3:12" },
+          { "number": 4, "title": "Yüce Dag Basinda", "duration": "4:18" },
+          { "number": 5, "title": "Kesik Çayir", "duration": "4:56" }
         ]
       },
       {
         "side": "B",
         "tracks": [
-          { "number": 1, "title": "Doktor Civanım", "duration": "3:28" },
-          { "number": 2, "title": "Sevda Olmasaydı", "duration": "3:55" },
-          { "number": 3, "title": "Badi Sabah Olmadan", "duration": "4:20" },
-          { "number": 4, "title": "Erler Gülü Soldu Mu", "duration": "3:42" },
-          { "number": 5, "title": "Şahane Bir Şey Yaşamak", "duration": "4:05" }
+          { "number": 1, "title": "Kara Toprak", "duration": "4:18" },
+          { "number": 2, "title": "Maçka Yollari", "duration": "3:40" },
+          { "number": 3, "title": "Sevda Olmasaydi", "duration": "3:15" },
+          { "number": 4, "title": "Yekte", "duration": "3:46" },
+          { "number": 5, "title": "Esmerim Güzelim", "duration": "2:35" }
         ]
       }
     ],
-    "spotifyAlbumId": "7JEvvEtOKBHFMGbKgNwZ4o",
+    "spotifyAlbumId": "6IjH8qpZNlh4L5yJ2vzS6k",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -1188,7 +1188,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "6VkGOp35h7zVNXGQdqMJ5c",
+    "spotifyAlbumId": "6mm1Skz3JE6AXneya9Nyiv",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -1269,25 +1269,25 @@
       {
         "side": "A",
         "tracks": [
-          { "number": 1, "title": "Step Out", "duration": "4:01" },
-          { "number": 2, "title": "Leaf Off / The Cave", "duration": "3:42" },
-          { "number": 3, "title": "Stories We Build, Stories We Tell", "duration": "2:55" },
-          { "number": 4, "title": "The Nest", "duration": "4:28" },
-          { "number": 5, "title": "Every Age", "duration": "2:48" }
+          { "number": 1, "title": "How Low", "duration": "2:41" },
+          { "number": 2, "title": "LDown The Line", "duration": "3:42" },
+          { "number": 3, "title": "Killing For Love", "duration": "2:55" },
+          { "number": 4, "title": "In Our Nature", "duration": "4:28" },
+          { "number": 5, "title": "Teardrop", "duration": "2:48" }
         ]
       },
       {
         "side": "B",
         "tracks": [
-          { "number": 1, "title": "With the Ink of a Ghost", "duration": "4:05" },
-          { "number": 2, "title": "Vissel", "duration": "2:22" },
-          { "number": 3, "title": "Open Book", "duration": "3:30" },
-          { "number": 4, "title": "Abram", "duration": "2:55" },
-          { "number": 5, "title": "Head On", "duration": "4:15" }
+          { "number": 1, "title": "Abram", "duration": "4:05" },
+          { "number": 2, "title": "Time To Send Someone Away", "duration": "2:22" },
+          { "number": 3, "title": "The Nest", "duration": "3:30" },
+          { "number": 4, "title": "Fold", "duration": "2:55" },
+          { "number": 5, "title": "Cycling Trivialities", "duration": "4:15" }
         ]
       }
     ],
-    "spotifyAlbumId": "0pJfLPglNHOlOgfBH82AQy",
+    "spotifyAlbumId": "4zhb7QX3fvyamvbcYGnKMv",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -1332,7 +1332,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "",
+    "spotifyAlbumId": "3a80I29uwZVCRU8En1we75",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -1379,7 +1379,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "0YVTzidTXjGXOIJNKykFiH",
+    "spotifyAlbumId": "5GugLrmYMl5VRoe2zNgLGp",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": true,
@@ -1389,13 +1389,13 @@
   },
   {
     "id": "GRVLP029",
-    "title": "Melodia",
+    "title": "Vision Valley",
     "artistId": "the-vines",
     "artistName": "The Vines",
-    "description": "Australian garage rock revivalists return with Melodia, a gritty yet melodic ride through fuzzy riffs and Craig Nicholls's unmistakable snarling delivery. Raw, energetic, and unapologetically loud.",
+    "description": "The Vines' third album strips back the studio polish and lets Craig Nicholls' raw garage-punk energy rip. Recorded across multiple Sydney studios, Vision Valley delivers short, sharp bursts of feral melodic punk that earned praise from Q and NME alike.",
     "price": 29.00,
     "releaseDate": "2026-03-15",
-    "originalReleaseYear": 2008,
+    "originalReleaseYear": 2006,
     "vinylColor": "green",
     "genre": "rock",
     "numberOfDiscs": "1 LP",
@@ -1405,26 +1405,28 @@
       {
         "side": "A",
         "tracks": [
-          { "number": 1, "title": "He's a Rocker", "duration": "1:44" },
-          { "number": 2, "title": "True as the Night", "duration": "2:35" },
-          { "number": 3, "title": "Braindead", "duration": "2:45" },
-          { "number": 4, "title": "Candy Daze", "duration": "3:10" },
-          { "number": 5, "title": "A Girl I Knew", "duration": "3:20" },
-          { "number": 6, "title": "Spaceship", "duration": "2:55" }
+          { "number": 1, "title": "Anysound", "duration": "2:26" },
+          { "number": 2, "title": "Nothin's Comin'", "duration": "1:55" },
+          { "number": 3, "title": "Vision Valley", "duration": "3:23" },
+          { "number": 4, "title": "Gross Out", "duration": "2:01" },
+          { "number": 5, "title": "Candy Daze", "duration": "2:51" },
+          { "number": 6, "title": "Going Gone", "duration": "2:08" },
+          { "number": 7, "title": "Spaceship", "duration": "2:46" }
         ]
       },
       {
         "side": "B",
         "tracks": [
-          { "number": 1, "title": "Kara Jayne", "duration": "3:30" },
-          { "number": 2, "title": "She Is Gone", "duration": "2:40" },
-          { "number": 3, "title": "Scream", "duration": "2:15" },
-          { "number": 4, "title": "Gonna See My Friend", "duration": "2:50" },
-          { "number": 5, "title": "Melodia", "duration": "3:35" }
+          { "number": 1, "title": "Atmos", "duration": "2:38" },
+          { "number": 2, "title": "Take Me Back", "duration": "2:03" },
+          { "number": 3, "title": "Dope Train", "duration": "2:19" },
+          { "number": 4, "title": "Don't Listen to the Radio", "duration": "2:41" },
+          { "number": 5, "title": "Fuk Yeh", "duration": "1:26" },
+          { "number": 6, "title": "Gonna See My Friend", "duration": "2:54" }
         ]
       }
     ],
-    "spotifyAlbumId": "",
+    "spotifyAlbumId": "6zEs08qr7CUuahpM2o0Ldn",
     "coverImage": "",
     "isFeatured": true,
     "isNewArrival": false,
@@ -1513,7 +1515,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "1HJPhMuhRSjkLbORBJEOwK",
+    "spotifyAlbumId": "04gYcIojJt78nYnN5oOrKt",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -1573,7 +1575,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "2HTbQ0RHwQkSfMx42MoFnM",
+    "spotifyAlbumId": "3cn4R9wTztnrWLVf87FESr",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -1619,7 +1621,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "4Mxlkf46JbSXGTft50BUUL",
+    "spotifyAlbumId": "3VsZ5nZGgyH30IDaCP4GeQ",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -1663,7 +1665,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "1XORY4RhFCFPMk77APWJqu",
+    "spotifyAlbumId": "54sqbAXxR1jFfyXb1WvrHK",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -1705,7 +1707,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "2v6ANzBIH3urFpWVAOqh9E",
+    "spotifyAlbumId": "1oIICL75sMuInkEhX8jj3b",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -1768,7 +1770,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "6MBuemVMnFMGLAiNqSBwyF",
+    "spotifyAlbumId": "4KZWx8zo5ym89aopr0dBIb",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -1813,7 +1815,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "",
+    "spotifyAlbumId": "75wrEe2RtJXflbRMpchYdP",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -2206,7 +2208,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "",
+    "spotifyAlbumId": "4WsDFcdDl3UU9ztRmyxQQ4",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -2251,7 +2253,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "5bYlmA7prOkIPWNuJYKPOI",
+    "spotifyAlbumId": "3ofZeSWPHZOE5WC2tNZDez",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -2295,7 +2297,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "4xfHNG1GQ3vEwL7mmEbGY2",
+    "spotifyAlbumId": "0pquf1NcG9FdiypBPwICu9",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -2371,7 +2373,7 @@
   },
   {
     "id": "GRVLP048",
-    "title": "Sunshine Reggae",
+    "title": "Keep Smiling",
     "artistId": "laid-back",
     "artistName": "Laid Back",
     "description": "Danish duo Laid Back distilled an entire summer into one album. The irresistible groove of 'Sunshine Reggae' and 'White Horse' made them global stars, but the deep cuts are equally cool — a perfect blend of reggae, synth-pop, and laid-back vibes.",
@@ -2403,7 +2405,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "",
+    "spotifyAlbumId": "3QBWFLO1pWT1mnBsg3DWlC",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -2448,7 +2450,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "2w7hCkhBzHJFd0ciMGgYvh",
+    "spotifyAlbumId": "2miVfa78vOd0o8Vbsgd7g3",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -2458,7 +2460,7 @@
   },
   {
     "id": "GRVLP050",
-    "title": "The Cranberries - Dreams: The Collection",
+    "title": "Dreams: The Collection",
     "artistId": "the-cranberries",
     "artistName": "The Cranberries",
     "description": "The definitive collection of Ireland's most beloved alt-rock band. From 'Dreams' to 'Zombie' to 'Linger,' every essential Cranberries moment captured on one beautiful vinyl pressing. A tribute to the irreplaceable Dolores O'Riordan.",
@@ -2507,7 +2509,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "",
+    "spotifyAlbumId": "6k8R5IaWIg86z6AZnYOLu0",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -2533,25 +2535,25 @@
       {
         "side": "A",
         "tracks": [
-          { "number": 1, "title": "Speechless", "duration": "4:20" },
-          { "number": 2, "title": "Break of Dawn", "duration": "3:55" },
-          { "number": 3, "title": "Warriors of Light", "duration": "4:10" },
-          { "number": 4, "title": "Free Your Mind", "duration": "3:45" },
-          { "number": 5, "title": "Wise and Strong", "duration": "3:30" }
+          { "number": 1, "title": "Princess from the street", "duration": "4:20" },
+          { "number": 2, "title": "Vision", "duration": "3:55" },
+          { "number": 3, "title": "Evolution", "duration": "4:10" },
+          { "number": 4, "title": "We've got the power", "duration": "3:45" },
+          { "number": 5, "title": "Sitting on this rock", "duration": "3:30" }
         ]
       },
       {
         "side": "B",
         "tracks": [
-          { "number": 1, "title": "Revolution Time", "duration": "4:15" },
-          { "number": 2, "title": "One People", "duration": "3:50" },
-          { "number": 3, "title": "Jah Will Provide", "duration": "4:05" },
-          { "number": 4, "title": "Rising Sun", "duration": "3:40" },
-          { "number": 5, "title": "Eternal Love", "duration": "4:30" }
+          { "number": 1, "title": "16-août", "duration": "4:15" },
+          { "number": 2, "title": "Me say", "duration": "3:50" },
+          { "number": 3, "title": "Faith", "duration": "4:05" },
+          { "number": 4, "title": "Swirl", "duration": "3:40" },
+          { "number": 5, "title": "Africa", "duration": "4:30" }
         ]
       }
     ],
-    "spotifyAlbumId": "",
+    "spotifyAlbumId": "5gadI9EueRkALx3wwbx9D3",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -2561,41 +2563,56 @@
   },
   {
     "id": "GRVLP052",
-    "title": "Vinicius de Moraes / Toquinho",
+    "title": "Vinicius & Toquinho",
     "artistId": "vinicius-de-moraes",
     "artistName": "Vinícius de Moraes",
-    "description": "The legendary poet-musician's collaboration with Toquinho captured the very essence of bossa nova — warm guitars, poetic lyrics, and the gentle sway of Copacabana nights. An intimate recording that feels like sitting in a Rio café at sunset.",
+    "description": "The legendary poet-musician's 1975 collaboration with Toquinho captures the very essence of bossa nova — warm guitars, poetic lyrics, and the gentle sway of Copacabana nights. An intimate recording that feels like sitting in a Rio café at sunset.",
     "price": 35.00,
     "releaseDate": "2026-05-22",
-    "originalReleaseYear": 1971,
+    "originalReleaseYear": 1975,
     "vinylColor": "gold",
     "genre": "bossa-nova",
-    "numberOfDiscs": "1 LP",
+    "numberOfDiscs": "2 LP",
     "catalogueNumber": "GRVLP052",
     "vinylWeight": "180g",
     "tracklist": [
       {
         "side": "A",
         "tracks": [
-          { "number": 1, "title": "Tarde em Itapuã", "duration": "3:20" },
-          { "number": 2, "title": "Samba de Orly", "duration": "2:55" },
-          { "number": 3, "title": "Tomara", "duration": "3:10" },
-          { "number": 4, "title": "A Rosa de Hiroshima", "duration": "2:40" },
-          { "number": 5, "title": "Berimbau", "duration": "3:30" }
+          { "number": 1, "title": "Turbilhão", "duration": "2:35" },
+          { "number": 2, "title": "Onde Anda Você", "duration": "2:50" },
+          { "number": 3, "title": "Um Homem Chamado Alfredo", "duration": "3:10" },
+          { "number": 4, "title": "Se Ela Quisesse", "duration": "2:45" }
         ]
       },
       {
         "side": "B",
         "tracks": [
-          { "number": 1, "title": "Eu Sei Que Vou Te Amar", "duration": "3:15" },
-          { "number": 2, "title": "Garota de Ipanema", "duration": "3:45" },
-          { "number": 3, "title": "Samba da Bênção", "duration": "4:20" },
-          { "number": 4, "title": "Onde Anda Você", "duration": "2:50" },
-          { "number": 5, "title": "Canto de Ossanha", "duration": "3:35" }
+          { "number": 1, "title": "Acorde Solto No Ar", "duration": "2:55" },
+          { "number": 2, "title": "Conjugação Da Ausente", "duration": "3:20" },
+          { "number": 3, "title": "Maresia", "duration": "2:30" },
+          { "number": 4, "title": "Choro De Nada", "duration": "3:00" }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          { "number": 1, "title": "Canto De Ossanha", "duration": "3:15" },
+          { "number": 2, "title": "Eu Sei Que Vou Te Amar", "duration": "2:40" },
+          { "number": 3, "title": "A Casa", "duration": "2:10" },
+          { "number": 4, "title": "Samba De Orly", "duration": "2:55" }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          { "number": 1, "title": "Tarde Em Itapuã", "duration": "3:30" },
+          { "number": 2, "title": "Tomara", "duration": "3:05" },
+          { "number": 3, "title": "Berimbau", "duration": "3:40" }
         ]
       }
     ],
-    "spotifyAlbumId": "",
+    "spotifyAlbumId": "5zAoWatE76XlEPFpqok5ew",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -2642,7 +2659,7 @@
         ]
       }
     ],
-    "spotifyAlbumId": "5UhJyBxkm2Z2TXlnPPdG3A",
+    "spotifyAlbumId": "0OwSOrPWyP9batKOhOnaPt",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -2652,7 +2669,7 @@
   },
   {
     "id": "GRVLP054",
-    "title": "Ace Spectrum",
+    "title": "Inner Spectrum",
     "artistId": "ace-spectrum",
     "artistName": "Ace Spectrum",
     "description": "Silky smooth 70s soul from the streets of New York. Ace Spectrum's self-titled debut is a vinyl digger's dream — lush harmonies, orchestral arrangements, and a warmth that only analog recording can capture. Deep soul at its finest.",
@@ -2668,23 +2685,23 @@
       {
         "side": "A",
         "tracks": [
-          { "number": 1, "title": "Don't Send Nobody Else", "duration": "3:40" },
-          { "number": 2, "title": "Live and Learn", "duration": "3:55" },
-          { "number": 3, "title": "Without You in My Life", "duration": "4:10" },
-          { "number": 4, "title": "Trust Me", "duration": "3:25" }
+          { "number": 1, "title": "Don't Send Nobody Else", "duration": "4:02" },
+          { "number": 2, "title": "Don't Let Me Be Lonely Tonight", "duration": "4:25" },
+          { "number": 3, "title": "If You Were There", "duration": "4:03" },
+          { "number": 4, "title": "Moving On", "duration": "4:20" }
         ]
       },
       {
         "side": "B",
         "tracks": [
-          { "number": 1, "title": "I'm Sorry", "duration": "3:50" },
-          { "number": 2, "title": "Just Like in the Movies", "duration": "4:15" },
-          { "number": 3, "title": "Together Forever", "duration": "3:35" },
-          { "number": 4, "title": "Ain't No Doubt About It", "duration": "3:45" }
+          { "number": 1, "title": "Pickup", "duration": "3:50" },
+          { "number": 2, "title": "Me and My Love", "duration": "3:33" },
+          { "number": 3, "title": "Easy", "duration": "3:35" },
+          { "number": 4, "title": "I Don't Want to Play Around", "duration": "7:34" }
         ]
       }
     ],
-    "spotifyAlbumId": "",
+    "spotifyAlbumId": "4Zpx9jduQUX75uMkzyVlDw",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,
@@ -2692,12 +2709,12 @@
     "isPreOrder": false,
     "tags": []
   },
-  {
+{
     "id": "GRVLP055",
-    "title": "Piero Piccioni Film Music",
+    "title": "Amore Mio Aiutami",
     "artistId": "piero-piccioni",
     "artistName": "Piero Piccioni",
-    "description": "A curated collection of Piero Piccioni's most captivating film scores. Lush jazz, bossa nova undertones, and orchestral elegance define the sound of 60s Italian cinema. Effortlessly cool and timeless sophisticated listening.",
+    "description": "The original soundtrack to Alberto Sordi's 1969 romantic comedy. Piccioni's score blends jazzy lounge grooves, sweeping orchestral romance, and playful bossa nova into a masterclass of Italian film music. Pure cinematic elegance.",
     "price": 35.00,
     "releaseDate": "2026-05-30",
     "originalReleaseYear": 1969,
@@ -2710,25 +2727,2430 @@
       {
         "side": "A",
         "tracks": [
-          { "number": 1, "title": "Traffic Boom", "duration": "3:30" },
-          { "number": 2, "title": "Danza di Mezzanotte", "duration": "2:55" },
-          { "number": 3, "title": "Sensualità", "duration": "3:45" },
-          { "number": 4, "title": "Il Dio Sotto la Pelle", "duration": "4:10" },
-          { "number": 5, "title": "Amore Mio", "duration": "3:20" }
+          { "number": 1, "title": "Amore mio aiutami - Main Theme", "duration": "2:45" },
+          { "number": 2, "title": "Miss Luna Special", "duration": "3:10" },
+          { "number": 3, "title": "Violino", "duration": "2:30" },
+          { "number": 4, "title": "Amanda's Train", "duration": "3:25" },
+          { "number": 5, "title": "Barocco", "duration": "2:55" },
+          { "number": 6, "title": "Luna, amore e no", "duration": "3:15" }
         ]
       },
       {
         "side": "B",
         "tracks": [
-          { "number": 1, "title": "Indagine su un Cittadino", "duration": "3:40" },
-          { "number": 2, "title": "Roma Bene", "duration": "3:15" },
-          { "number": 3, "title": "Camille 2000", "duration": "4:25" },
-          { "number": 4, "title": "La Curva", "duration": "3:00" },
-          { "number": 5, "title": "Tema d'Amore", "duration": "3:55" }
+          { "number": 1, "title": "North Pole Penguin", "duration": "2:40" },
+          { "number": 2, "title": "Luna non sei nessuna", "duration": "3:00" },
+          { "number": 3, "title": "Miss Luna Special - Version 2", "duration": "2:50" },
+          { "number": 4, "title": "Bossa per Alberto - Version 2", "duration": "3:30" },
+          { "number": 5, "title": "Amore mio aiutami - Nave Shake - Version 3", "duration": "2:35" },
+          { "number": 6, "title": "North Pole Penguin - Version 2", "duration": "3:45" }
         ]
       }
     ],
-    "spotifyAlbumId": "",
+    "spotifyAlbumId": "5ekkoKz391PScKKZRCmgDF",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP056",
+    "title": "Вне зоны доступа",
+    "artistId": "gorod-312",
+    "artistName": "Город 312",
+    "description": "The breakthrough album from Kyrgyz-born rock band that captured hearts across the post-Soviet space. Featured in the films 'Дневной Дозор' and 'Питер FM,' this record earned the band a 'Best Debut' MTV Russia award and a Рекордъ prize for Best Album.",
+    "price": 29,
+    "releaseDate": "2026-06-01",
+    "originalReleaseYear": 2006,
+    "vinylColor": "black",
+    "genre": "rock",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP056",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Пружина",
+            "duration": "4:33"
+          },
+          {
+            "number": 2,
+            "title": "Весна",
+            "duration": "2:59"
+          },
+          {
+            "number": 3,
+            "title": "Обижаться",
+            "duration": "3:18"
+          },
+          {
+            "number": 4,
+            "title": "Останусь",
+            "duration": "3:44"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Небо в алмазах",
+            "duration": "3:35"
+          },
+          {
+            "number": 2,
+            "title": "Поговори со мной",
+            "duration": "3:31"
+          },
+          {
+            "number": 3,
+            "title": "Территория",
+            "duration": "3:07"
+          },
+          {
+            "number": 4,
+            "title": "Береги себя",
+            "duration": "3:15"
+          }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "По средствам",
+            "duration": "3:45"
+          },
+          {
+            "number": 2,
+            "title": "Амигос",
+            "duration": "3:57"
+          },
+          {
+            "number": 3,
+            "title": "Сокол",
+            "duration": "3:37"
+          },
+          {
+            "number": 4,
+            "title": "Вне зоны доступа",
+            "duration": "3:33"
+          }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Фонари",
+            "duration": "2:55"
+          },
+          {
+            "number": 2,
+            "title": "Гипноз",
+            "duration": "3:11"
+          },
+          {
+            "number": 3,
+            "title": "Припев",
+            "duration": "3:35"
+          },
+          {
+            "number": 4,
+            "title": "Город-рассвет",
+            "duration": "3:48"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "6nLqzJts4jXp7nTIE5C6Rh",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP057",
+    "title": "Советы для молодожёнов",
+    "artistId": "antokha-mc",
+    "artistName": "Антоха МС",
+    "description": "Moscow indie sensation Антоха МС delivers a house-inflected art-pop record about becoming a better person. With Soviet-poster sincerity and lo-fi charm, tracks like 'Земля' and 'Сладкий Чай' became anthems of positivity for a generation.",
+    "price": 25,
+    "releaseDate": "2026-05-15",
+    "originalReleaseYear": 2017,
+    "vinylColor": "yellow",
+    "genre": "pop",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP057",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Земля",
+            "duration": "4:20"
+          },
+          {
+            "number": 2,
+            "title": "Спасибо",
+            "duration": "3:45"
+          },
+          {
+            "number": 3,
+            "title": "Спорт-брат",
+            "duration": "3:30"
+          },
+          {
+            "number": 4,
+            "title": "Это лето (feat. BMB SpaceKid)",
+            "duration": "4:10"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Ритм сердца",
+            "duration": "3:55"
+          },
+          {
+            "number": 2,
+            "title": "Дом",
+            "duration": "4:00"
+          },
+          {
+            "number": 3,
+            "title": "Антоха",
+            "duration": "3:40"
+          },
+          {
+            "number": 4,
+            "title": "Дни",
+            "duration": "4:15"
+          }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Время Ток",
+            "duration": "3:50"
+          },
+          {
+            "number": 2,
+            "title": "О, музыка (ver. 2017)",
+            "duration": "4:05"
+          },
+          {
+            "number": 3,
+            "title": "Сладкий Чай",
+            "duration": "3:35"
+          }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Что диктует горизонт (feat. Boora)",
+            "duration": "4:30"
+          },
+          {
+            "number": 2,
+            "title": "2x2=5",
+            "duration": "3:20"
+          },
+          {
+            "number": 3,
+            "title": "Сладкий Чай (Aslamin remix)",
+            "duration": "4:45"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "0gudSrVxlR2bFhQj1UEc9f",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP058",
+    "title": "Kensshi",
+    "artistId": "maslo-chernogo-tmina",
+    "artistName": "Масло черного тмина",
+    "description": "On his debut album, Kenshhi Aydin relies less on jazz motifs, instead playing with blues-infused parts, downbeat, and trip-hop. The record contains numerous references to Islam, the Quran, as well as Kazakh traditions and culture.",
+    "price": 25,
+    "releaseDate": "2026-06-10",
+    "originalReleaseYear": 2020,
+    "vinylColor": "black",
+    "genre": "hip-hop",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP058",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "clip",
+            "duration": "2:00"
+          },
+          {
+            "number": 2,
+            "title": "oobatz",
+            "duration": "1:54"
+          },
+          {
+            "number": 3,
+            "title": "магия",
+            "duration": "1:51"
+          },
+          {
+            "number": 4,
+            "title": "мой брат засыпает на рассвете",
+            "duration": "2:58"
+          },
+          {
+            "number": 5,
+            "title": "вьюга меня замела",
+            "duration": "2:51"
+          },
+          {
+            "number": 6,
+            "title": "спи, человек",
+            "duration": "2:13"
+          },
+          {
+            "number": 7,
+            "title": "SAJH",
+            "duration": "3:06"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "слишком",
+            "duration": "3:11"
+          },
+          {
+            "number": 2,
+            "title": "так за кого же болеть на этой земле и кого любить",
+            "duration": "2:37"
+          },
+          {
+            "number": 3,
+            "title": "больше/меньше",
+            "duration": "2:29"
+          },
+          {
+            "number": 4,
+            "title": "sagyndym",
+            "duration": "1:49"
+          },
+          {
+            "number": 5,
+            "title": "без названия",
+            "duration": "2:19"
+          },
+          {
+            "number": 6,
+            "title": "lam",
+            "duration": "2:00"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "56Lm5AkCbvK8lLXTk5q8p6",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP059",
+    "title": "Партизан",
+    "artistId": "khusky",
+    "artistName": "Хаски",
+    "description": "After a five-year hiatus, Хаски returns with a genre-defying album weaving Russian opera, orthodox chanting, industrial noise, folk, punk, and field recordings into a visceral 15-track experience. The rapper seeks a 'Russian sound' and produces beats himself under the alias dj hvost.",
+    "price": 29,
+    "releaseDate": "2026-06-15",
+    "originalReleaseYear": 2025,
+    "vinylColor": "black",
+    "genre": "hip-hop",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP059",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Я боюсь",
+            "duration": "3:30"
+          },
+          {
+            "number": 2,
+            "title": "Интро",
+            "duration": "1:20"
+          },
+          {
+            "number": 3,
+            "title": "Музыка рай",
+            "duration": "3:15"
+          },
+          {
+            "number": 4,
+            "title": "Контроль",
+            "duration": "3:40"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Танцы на снегу",
+            "duration": "3:25"
+          },
+          {
+            "number": 2,
+            "title": "Я объявляю вам войну",
+            "duration": "3:50"
+          },
+          {
+            "number": 3,
+            "title": "Колобок",
+            "duration": "3:20"
+          },
+          {
+            "number": 4,
+            "title": "Быть орком",
+            "duration": "3:35"
+          }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Лимонка",
+            "duration": "3:10"
+          },
+          {
+            "number": 2,
+            "title": "Партизан",
+            "duration": "4:00"
+          },
+          {
+            "number": 3,
+            "title": "Я хочу быть псом",
+            "duration": "3:15"
+          },
+          {
+            "number": 4,
+            "title": "Душа",
+            "duration": "3:45"
+          }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Ангел учится летать",
+            "duration": "3:30"
+          },
+          {
+            "number": 2,
+            "title": "Живая вода",
+            "duration": "3:55"
+          },
+          {
+            "number": 3,
+            "title": "Ветром Снегом Зноем",
+            "duration": "4:10"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "4YGF3M5gcKAT2ZdqubcA2l",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP060",
+    "title": "Глубина резкости",
+    "artistId": "delfin",
+    "artistName": "Дельфин",
+    "description": "Дельфин's second studio album blends industrial electronics, trip-hop, and spoken word into deeply personal sonic landscapes. A pivotal release in Russian alternative music that pushed the boundaries of what hip-hop could be.",
+    "price": 29,
+    "releaseDate": "2026-07-01",
+    "originalReleaseYear": 1999,
+    "vinylColor": "black",
+    "genre": "electronic",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP060",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Молоко",
+            "duration": "1:40"
+          },
+          {
+            "number": 2,
+            "title": "Я буду жить",
+            "duration": "3:45"
+          },
+          {
+            "number": 3,
+            "title": "Вера",
+            "duration": "4:40"
+          },
+          {
+            "number": 4,
+            "title": "Она",
+            "duration": "3:50"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Убийца",
+            "duration": "3:05"
+          },
+          {
+            "number": 2,
+            "title": "Любовь",
+            "duration": "4:17"
+          },
+          {
+            "number": 3,
+            "title": "Художник",
+            "duration": "2:45"
+          },
+          {
+            "number": 4,
+            "title": "Дверь",
+            "duration": "4:17"
+          }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Надежда",
+            "duration": "4:40"
+          },
+          {
+            "number": 2,
+            "title": "Тишина",
+            "duration": "4:25"
+          },
+          {
+            "number": 3,
+            "title": "Ласты",
+            "duration": "1:35"
+          },
+          {
+            "number": 4,
+            "title": "Любовь (Radio Edit)",
+            "duration": "3:57"
+          }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Дверь (Radio Edit)",
+            "duration": "4:45"
+          },
+          {
+            "number": 2,
+            "title": "Тишина (Global Mix)",
+            "duration": "4:25"
+          },
+          {
+            "number": 3,
+            "title": "Плавники (Demo Mix)",
+            "duration": "3:30"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "70GQe37gMb2QhVLfkzdCHt",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP061",
+    "title": "Cozy Tapes Vol. 1: Friends",
+    "artistId": "asap-mob",
+    "artistName": "A$AP Mob",
+    "description": "The Harlem collective at their most unified. A$AP Rocky, Ferg, and the whole Mob trade verses over cloud rap production and Houston-inspired beats, showcasing the style and swagger that made them hip-hop's most fashionable crew.",
+    "price": 35,
+    "releaseDate": "2026-06-20",
+    "originalReleaseYear": 2016,
+    "vinylColor": "black",
+    "genre": "hip-hop",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP061",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Yamborghini High",
+            "duration": "5:01"
+          },
+          {
+            "number": 2,
+            "title": "Crazy Brazy",
+            "duration": "3:34"
+          },
+          {
+            "number": 3,
+            "title": "Runner",
+            "duration": "3:10"
+          },
+          {
+            "number": 4,
+            "title": "Money Man",
+            "duration": "2:44"
+          },
+          {
+            "number": 5,
+            "title": "Feels So Good",
+            "duration": "3:19"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Nasty's World",
+            "duration": "3:48"
+          },
+          {
+            "number": 2,
+            "title": "Bahamas",
+            "duration": "2:52"
+          },
+          {
+            "number": 3,
+            "title": "Way Hii",
+            "duration": "3:33"
+          },
+          {
+            "number": 4,
+            "title": "Coziest",
+            "duration": "3:15"
+          },
+          {
+            "number": 5,
+            "title": "Put That on My Set",
+            "duration": "3:44"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "3RaACfwYTY9uiDy3VSWLLc",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP062",
+    "title": "The Best",
+    "artistId": "hi-fi",
+    "artistName": "Hi-Fi",
+    "description": "The best of Russia's most polished pop group. Hi-Fi dominated the 2000s post-Soviet pop scene with infectious hooks and slick production that became the soundtrack for a generation.",
+    "price": 25,
+    "releaseDate": "2026-05-20",
+    "originalReleaseYear": 2006,
+    "vinylColor": "pink",
+    "genre": "pop",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP062",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Я Люблю",
+            "duration": "3:40"
+          },
+          {
+            "number": 2,
+            "title": "Сш № 7 (А Мы Любили)",
+            "duration": "3:55"
+          },
+          {
+            "number": 3,
+            "title": "Olle!",
+            "duration": "3:30"
+          },
+          {
+            "number": 4,
+            "title": "Не Дано",
+            "duration": "3:20"
+          },
+          {
+            "number": 5,
+            "title": "Чёрный Ворон",
+            "duration": "3:45"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Беспризорник",
+            "duration": "3:35"
+          },
+          {
+            "number": 2,
+            "title": "Про Лето",
+            "duration": "3:50"
+          },
+          {
+            "number": 3,
+            "title": "Глупые Люди",
+            "duration": "3:25"
+          },
+          {
+            "number": 4,
+            "title": "Почтовый поезд",
+            "duration": "3:40"
+          },
+          {
+            "number": 5,
+            "title": "Ты Прости",
+            "duration": "3:15"
+          }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Бомбей",
+            "duration": "3:30"
+          },
+          {
+            "number": 2,
+            "title": "Песня Царевны",
+            "duration": "3:45"
+          },
+          {
+            "number": 3,
+            "title": "Так Легко (La Track Slow Down Remix)",
+            "duration": "4:00"
+          },
+          {
+            "number": 4,
+            "title": "Арабика",
+            "duration": "3:20"
+          },
+          {
+            "number": 5,
+            "title": "Он (Запоминай)",
+            "duration": "3:35"
+          }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "За Мной",
+            "duration": "3:25"
+          },
+          {
+            "number": 2,
+            "title": "Нить",
+            "duration": "3:50"
+          },
+          {
+            "number": 3,
+            "title": "Куба",
+            "duration": "3:15"
+          },
+          {
+            "number": 4,
+            "title": "Я Кричу",
+            "duration": "3:40"
+          },
+          {
+            "number": 5,
+            "title": "Childhood",
+            "duration": "3:30"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "0IThpVox4gO82xwT1JsYcc",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP063",
+    "title": "Reality Check",
+    "artistId": "the-teenagers",
+    "artistName": "The Teenagers",
+    "description": "Cheeky, bilingual electro-pop from Paris. The Teenagers deliver sugar-rush synths, bratty vocals, and irreverent party anthems that made them darlings of the late-2000s blog-house scene. Youthful energy at its most unapologetic.",
+    "price": 25,
+    "releaseDate": "2026-05-25",
+    "originalReleaseYear": 2008,
+    "vinylColor": "pink",
+    "genre": "electronic",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP063",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Homecoming",
+            "duration": "3:28"
+          },
+          {
+            "number": 2,
+            "title": "Starlett Johansson",
+            "duration": "3:12"
+          },
+          {
+            "number": 3,
+            "title": "Love No",
+            "duration": "3:40"
+          },
+          {
+            "number": 4,
+            "title": "Make It Happen",
+            "duration": "3:05"
+          },
+          {
+            "number": 5,
+            "title": "Reality Check",
+            "duration": "3:33"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "French Kiss",
+            "duration": "3:15"
+          },
+          {
+            "number": 2,
+            "title": "Feeling Better",
+            "duration": "3:22"
+          },
+          {
+            "number": 3,
+            "title": "Streets of Paris",
+            "duration": "3:48"
+          },
+          {
+            "number": 4,
+            "title": "End of the Road",
+            "duration": "3:55"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "6JCu3u01I46I6HNIFEc0yL",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP064",
+    "title": "Арман жолдар",
+    "artistId": "muzikola",
+    "artistName": "Мюзикола",
+    "description": "Kazakh rock energy at its peak. Мюзикола's driving guitars and anthemic choruses carry the spirit of the steppe with the power of electric amplification. One of Central Asia's most beloved rock acts.",
+    "price": 25,
+    "releaseDate": "2026-06-05",
+    "originalReleaseYear": 2010,
+    "vinylColor": "red",
+    "genre": "rock",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP064",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Арман жолдар",
+            "duration": "4:11"
+          },
+          {
+            "number": 2,
+            "title": "Әй бөпем",
+            "duration": "4:19"
+          },
+          {
+            "number": 3,
+            "title": "Сен мұңыңды бер маған",
+            "duration": "4:20"
+          },
+          {
+            "number": 4,
+            "title": "Құстар-ай, құстар",
+            "duration": "5:43"
+          },
+          {
+            "number": 5,
+            "title": "Өмірде солай",
+            "duration": "4:56"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Ерсұлтан",
+            "duration": "4:27"
+          },
+          {
+            "number": 2,
+            "title": "Ауылым",
+            "duration": "3:57"
+          },
+          {
+            "number": 3,
+            "title": "Қор болды жаным",
+            "duration": "5:29"
+          },
+          {
+            "number": 4,
+            "title": "Бiр көргеннен",
+            "duration": "4:13"
+          },
+          {
+            "number": 5,
+            "title": "Iздегенiм жанымда",
+            "duration": "3:44"
+          },
+          {
+            "number": 6,
+            "title": "Көк өрік",
+            "duration": "2:59"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "2WpukW7dqdANvbiocx7M5n",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP065",
+    "title": "Отан ана",
+    "artistId": "batyrhan-shukenov",
+    "artistName": "Батырхан Шукенов",
+    "description": "The definitive album from Kazakhstan's most beloved vocalist. Батырхан Шукенов's warm tenor and sophisticated pop arrangements bridged Eastern melodies with Western production, making him a superstar across Central Asia.",
+    "price": 33,
+    "releaseDate": "2026-05-10",
+    "originalReleaseYear": 2005,
+    "vinylColor": "gold",
+    "genre": "pop",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP065",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Отан Ана",
+            "duration": "4:44"
+          },
+          {
+            "number": 2,
+            "title": "Бақыт Құшағында",
+            "duration": "5:05"
+          },
+          {
+            "number": 3,
+            "title": "Қайран көңіл-ай",
+            "duration": "4:10"
+          },
+          {
+            "number": 4,
+            "title": "Гүл Алматы",
+            "duration": "3:20"
+          },
+          {
+            "number": 5,
+            "title": "Япырай",
+            "duration": "5:05"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Ұйықта, бөпем",
+            "duration": "4:17"
+          },
+          {
+            "number": 2,
+            "title": "Күндер-ай",
+            "duration": "3:50"
+          },
+          {
+            "number": 3,
+            "title": "Бал сезім",
+            "duration": "3:28"
+          },
+          {
+            "number": 4,
+            "title": "Әсем дүние",
+            "duration": "4:16"
+          },
+          {
+            "number": 5,
+            "title": "Аялаған арман-ай",
+            "duration": "6:16"
+          },
+          {
+            "number": 6,
+            "title": "Сағым дүние",
+            "duration": "4:00"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "331A4sBpmVoBw3cM6XHVy6",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP066",
+    "title": "Rasynda Ma? Jurek Endi Dym Sezbei Ma?",
+    "artistId": "qonyratbay-fam",
+    "artistName": "QONYRATBAY FAM",
+    "description": "The album consists of 5 tracks and is dedicated to themes of unrequited love, emotional suffering, disappointment, and reflections on true feelings.",
+    "price": 25,
+    "releaseDate": "2026-06-25",
+    "originalReleaseYear": 2022,
+    "vinylColor": "black",
+    "genre": "hip-hop",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP066",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Joe Black",
+            "duration": "3:48"
+          },
+          {
+            "number": 2,
+            "title": "Qalyqta",
+            "duration": "4:00"
+          },
+          {
+            "number": 3,
+            "title": "Beker Emes",
+            "duration": "5:13"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Rasynda Ma?",
+            "duration": "3:53"
+          },
+          {
+            "number": 2,
+            "title": "Kim Sen",
+            "duration": "3:30"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "7cWwBuFKivCGgSesn2fSdW",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP068",
+    "title": "Elephunk",
+    "artistId": "black-eyed-peas",
+    "artistName": "Black Eyed Peas",
+    "description": "The album that launched Black Eyed Peas into the stratosphere. Elephunk fuses hip-hop, pop, dance, and rock into an irresistible party machine, featuring 'Where Is the Love?' and 'Let's Get It Started.' will.i.am's production at its most inventive.",
+    "price": 33,
+    "releaseDate": "2026-06-01",
+    "originalReleaseYear": 2003,
+    "vinylColor": "black",
+    "genre": "hip-hop",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP068",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Hands Up",
+            "duration": "3:43"
+          },
+          {
+            "number": 2,
+            "title": "Labor Day (It's a Holiday)",
+            "duration": "3:47"
+          },
+          {
+            "number": 3,
+            "title": "Let's Get Retarded",
+            "duration": "3:41"
+          },
+          {
+            "number": 4,
+            "title": "Hey Mama",
+            "duration": "3:47"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Shut Up",
+            "duration": "4:41"
+          },
+          {
+            "number": 2,
+            "title": "Smells Like Funk",
+            "duration": "3:22"
+          },
+          {
+            "number": 3,
+            "title": "Latin Girls",
+            "duration": "3:42"
+          },
+          {
+            "number": 4,
+            "title": "Sexy",
+            "duration": "3:28"
+          }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Fly Away",
+            "duration": "3:50"
+          },
+          {
+            "number": 2,
+            "title": "The Boogie That Be",
+            "duration": "4:17"
+          },
+          {
+            "number": 3,
+            "title": "The Apl Song",
+            "duration": "3:34"
+          }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Anxiety",
+            "duration": "3:30"
+          },
+          {
+            "number": 2,
+            "title": "Where Is the Love?",
+            "duration": "4:32"
+          },
+          {
+            "number": 3,
+            "title": "Third Eye",
+            "duration": "2:49"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "3eqkfT9f1XyM8GME1gVDrD",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP069",
+    "title": "Шәмші Әлемі",
+    "artistId": "shamshi-kaldayakov",
+    "artistName": "Шәмші Қалдаяқов",
+    "description": "The timeless melodies of Kazakhstan's king of waltz. Shamshi Kaldayakov's romantic compositions blend traditional Kazakh sensibilities with sweeping orchestral arrangements — music that has soundtracked generations of Kazakh life and love.",
+    "price": 35,
+    "releaseDate": "2026-05-01",
+    "originalReleaseYear": 1992,
+    "vinylColor": "gold",
+    "genre": "classic",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP069",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Отрардағы той",
+            "duration": "3:28"
+          },
+          {
+            "number": 2,
+            "title": "Әнім сен едің",
+            "duration": "2:37"
+          },
+          {
+            "number": 3,
+            "title": "Ол жалғыз, біз екеуміз",
+            "duration": "2:59"
+          },
+          {
+            "number": 4,
+            "title": "Қайдасың",
+            "duration": "4:23"
+          },
+          {
+            "number": 5,
+            "title": "Бәрінен де сен сұлу",
+            "duration": "2:29"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Арыс жағасында",
+            "duration": "2:51"
+          },
+          {
+            "number": 2,
+            "title": "Бақыт құшағында",
+            "duration": "4:09"
+          },
+          {
+            "number": 3,
+            "title": "Отан",
+            "duration": "3:23"
+          },
+          {
+            "number": 4,
+            "title": "Қуаныш вальсі",
+            "duration": "2:34"
+          },
+          {
+            "number": 5,
+            "title": "Шынарым",
+            "duration": "3:30"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "0RtlhIeqPEeiZFDALdHJ8o",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP070",
+    "title": "ABC",
+    "artistId": "jackson-5",
+    "artistName": "Jackson 5",
+    "description": "Pure joy in musical form. The Jackson 5's second album features the unstoppable title track and showcases the impossibly talented young Michael Jackson leading his brothers through Motown magic at its most infectious and danceable.",
+    "price": 33,
+    "releaseDate": "2026-04-20",
+    "originalReleaseYear": 1970,
+    "vinylColor": "black",
+    "genre": "soul",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP070",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "The Love You Save",
+            "duration": "3:10"
+          },
+          {
+            "number": 2,
+            "title": "One More Chance",
+            "duration": "2:58"
+          },
+          {
+            "number": 3,
+            "title": "ABC",
+            "duration": "2:58"
+          },
+          {
+            "number": 4,
+            "title": "2-4-6-8",
+            "duration": "2:20"
+          },
+          {
+            "number": 5,
+            "title": "(Come 'Round Here) I'm the One You Need",
+            "duration": "2:45"
+          },
+          {
+            "number": 6,
+            "title": "Don't Know Why I Love You",
+            "duration": "2:55"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Never Had a Dream Come True",
+            "duration": "2:56"
+          },
+          {
+            "number": 2,
+            "title": "True Love Can Be Beautiful",
+            "duration": "2:23"
+          },
+          {
+            "number": 3,
+            "title": "La La (Means I Love You)",
+            "duration": "3:00"
+          },
+          {
+            "number": 4,
+            "title": "I'll Bet You",
+            "duration": "2:50"
+          },
+          {
+            "number": 5,
+            "title": "I Found That Girl",
+            "duration": "2:39"
+          },
+          {
+            "number": 6,
+            "title": "The Young Folks",
+            "duration": "2:12"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "2tukc7pH4qTuXcfaHjLIBc",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP071",
+    "title": "Diana Ross Presents The Jackson 5",
+    "artistId": "jackson-5",
+    "artistName": "Jackson 5",
+    "description": "The debut that changed pop music. Introduced by Diana Ross herself, the Jackson 5 exploded onto the scene with 'I Want You Back' — one of the greatest debut singles in history. Young Michael's vocals are already otherworldly.",
+    "price": 33,
+    "releaseDate": "2026-04-25",
+    "originalReleaseYear": 1969,
+    "vinylColor": "black",
+    "genre": "soul",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP071",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Zip-a-Dee-Doo-Dah",
+            "duration": "2:42"
+          },
+          {
+            "number": 2,
+            "title": "Nobody",
+            "duration": "3:32"
+          },
+          {
+            "number": 3,
+            "title": "I Want You Back",
+            "duration": "2:58"
+          },
+          {
+            "number": 4,
+            "title": "Can You Remember",
+            "duration": "3:03"
+          },
+          {
+            "number": 5,
+            "title": "Standing in the Shadows of Love",
+            "duration": "3:10"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "You've Changed",
+            "duration": "3:05"
+          },
+          {
+            "number": 2,
+            "title": "My Cherie Amour",
+            "duration": "3:25"
+          },
+          {
+            "number": 3,
+            "title": "Who's Lovin' You",
+            "duration": "4:15"
+          },
+          {
+            "number": 4,
+            "title": "Chained",
+            "duration": "2:48"
+          },
+          {
+            "number": 5,
+            "title": "(I Know) I'm Losing You",
+            "duration": "2:50"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "51uoKRa8vT5SULrlF8s2t1",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP072",
+    "title": "Come Fly with Me",
+    "artistId": "frank-sinatra",
+    "artistName": "Frank Sinatra",
+    "description": "Sinatra takes you around the world. Each track is a postcard from an exotic destination, delivered with the Chairman's impeccable phrasing and Billy May's swinging orchestral arrangements. First-class travel in musical form.",
+    "price": 35,
+    "releaseDate": "2026-04-15",
+    "originalReleaseYear": 1958,
+    "vinylColor": "blue",
+    "genre": "jazz",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP072",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Come Fly with Me",
+            "duration": "3:10"
+          },
+          {
+            "number": 2,
+            "title": "Around the World",
+            "duration": "2:40"
+          },
+          {
+            "number": 3,
+            "title": "Isle of Capri",
+            "duration": "2:15"
+          },
+          {
+            "number": 4,
+            "title": "Moonlight in Vermont",
+            "duration": "2:55"
+          },
+          {
+            "number": 5,
+            "title": "Autumn in New York",
+            "duration": "4:48"
+          },
+          {
+            "number": 6,
+            "title": "On the Road to Mandalay",
+            "duration": "3:20"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Let's Get Away from It All",
+            "duration": "3:00"
+          },
+          {
+            "number": 2,
+            "title": "April in Paris",
+            "duration": "3:25"
+          },
+          {
+            "number": 3,
+            "title": "London by Night",
+            "duration": "3:05"
+          },
+          {
+            "number": 4,
+            "title": "Brazil",
+            "duration": "3:30"
+          },
+          {
+            "number": 5,
+            "title": "Blue Hawaii",
+            "duration": "2:28"
+          },
+          {
+            "number": 6,
+            "title": "It's Nice to Go Trav'ling",
+            "duration": "2:22"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "66v9QmjAj0Wwhh2OpbU4BE",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP073",
+    "title": "In the Wee Small Hours",
+    "artistId": "frank-sinatra",
+    "artistName": "Frank Sinatra",
+    "description": "The first great concept album. Sinatra, alone at 3 AM with a broken heart, pours his soul into 16 torch songs that define the meaning of heartache. Nelson Riddle's spare, intimate arrangements are the perfect companion to Sinatra's vulnerability.",
+    "price": 35,
+    "releaseDate": "2026-05-01",
+    "originalReleaseYear": 1955,
+    "vinylColor": "black",
+    "genre": "jazz",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP073",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "In the Wee Small Hours of the Morning",
+            "duration": "3:00"
+          },
+          {
+            "number": 2,
+            "title": "Mood Indigo",
+            "duration": "3:30"
+          },
+          {
+            "number": 3,
+            "title": "Glad to Be Unhappy",
+            "duration": "2:35"
+          },
+          {
+            "number": 4,
+            "title": "I Get Along Without You Very Well",
+            "duration": "3:42"
+          },
+          {
+            "number": 5,
+            "title": "Deep in a Dream",
+            "duration": "2:48"
+          },
+          {
+            "number": 6,
+            "title": "I See Your Face Before Me",
+            "duration": "3:15"
+          },
+          {
+            "number": 7,
+            "title": "Can't We Be Friends?",
+            "duration": "2:48"
+          },
+          {
+            "number": 8,
+            "title": "When Your Lover Has Gone",
+            "duration": "3:10"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "What Is This Thing Called Love?",
+            "duration": "2:42"
+          },
+          {
+            "number": 2,
+            "title": "Last Night When We Were Young",
+            "duration": "3:18"
+          },
+          {
+            "number": 3,
+            "title": "I'll Be Around",
+            "duration": "2:55"
+          },
+          {
+            "number": 4,
+            "title": "Ill Wind",
+            "duration": "3:12"
+          },
+          {
+            "number": 5,
+            "title": "It Never Entered My Mind",
+            "duration": "2:38"
+          },
+          {
+            "number": 6,
+            "title": "Dancing on the Ceiling",
+            "duration": "2:45"
+          },
+          {
+            "number": 7,
+            "title": "I'll Never Be the Same",
+            "duration": "2:55"
+          },
+          {
+            "number": 8,
+            "title": "This Love of Mine",
+            "duration": "3:24"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "3GmwKB1tgPZgXeRJZSm9WX",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP074",
+    "title": "Mr. Morale & The Big Steppers",
+    "artistId": "kendrick-lamar",
+    "artistName": "Kendrick Lamar",
+    "description": "Kendrick's most personal and confrontational work. A double album that turns the mirror inward, dissecting generational trauma, therapy, and accountability with unflinching honesty. Not an easy listen — a necessary one.",
+    "price": 45,
+    "releaseDate": "2026-07-01",
+    "originalReleaseYear": 2022,
+    "vinylColor": "marble-black-white",
+    "genre": "hip-hop",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP074",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "United in Grief",
+            "duration": "4:15"
+          },
+          {
+            "number": 2,
+            "title": "N95",
+            "duration": "3:15"
+          },
+          {
+            "number": 3,
+            "title": "Worldwide Steppers",
+            "duration": "3:23"
+          },
+          {
+            "number": 4,
+            "title": "Die Hard",
+            "duration": "3:36"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Father Time",
+            "duration": "3:42"
+          },
+          {
+            "number": 2,
+            "title": "Rich Spirit",
+            "duration": "3:22"
+          },
+          {
+            "number": 3,
+            "title": "We Cry Together",
+            "duration": "5:42"
+          },
+          {
+            "number": 4,
+            "title": "Purple Hearts",
+            "duration": "5:29"
+          }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Count Me Out",
+            "duration": "4:43"
+          },
+          {
+            "number": 2,
+            "title": "Crown",
+            "duration": "3:34"
+          },
+          {
+            "number": 3,
+            "title": "Silent Hill",
+            "duration": "3:39"
+          },
+          {
+            "number": 4,
+            "title": "Savior (Interlude)",
+            "duration": "2:33"
+          }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Auntie Diaries",
+            "duration": "4:42"
+          },
+          {
+            "number": 2,
+            "title": "Mr. Morale",
+            "duration": "3:30"
+          },
+          {
+            "number": 3,
+            "title": "Mother I Sober",
+            "duration": "6:46"
+          },
+          {
+            "number": 4,
+            "title": "Mirror",
+            "duration": "4:16"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "79ONNoS4M9tfIA1mYLBYVX",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP075",
+    "title": "DAMN.",
+    "artistId": "kendrick-lamar",
+    "artistName": "Kendrick Lamar",
+    "description": "The Pulitzer Prize-winning album. DAMN. is Kendrick at his most accessible yet profound — 'HUMBLE.' and 'DNA.' hit like trucks, while tracks like 'FEAR.' and 'DUCKWORTH.' reveal layers of storytelling genius.",
+    "price": 39,
+    "releaseDate": "2026-06-15",
+    "originalReleaseYear": 2017,
+    "vinylColor": "red",
+    "genre": "hip-hop",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP075",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "BLOOD.",
+            "duration": "1:58"
+          },
+          {
+            "number": 2,
+            "title": "DNA.",
+            "duration": "3:06"
+          },
+          {
+            "number": 3,
+            "title": "YAH.",
+            "duration": "2:40"
+          },
+          {
+            "number": 4,
+            "title": "ELEMENT.",
+            "duration": "3:29"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "FEEL.",
+            "duration": "3:35"
+          },
+          {
+            "number": 2,
+            "title": "LOYALTY.",
+            "duration": "3:47"
+          },
+          {
+            "number": 3,
+            "title": "PRIDE.",
+            "duration": "4:33"
+          },
+          {
+            "number": 4,
+            "title": "HUMBLE.",
+            "duration": "2:57"
+          }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "LUST.",
+            "duration": "5:08"
+          },
+          {
+            "number": 2,
+            "title": "LOVE.",
+            "duration": "3:33"
+          },
+          {
+            "number": 3,
+            "title": "XXX.",
+            "duration": "4:15"
+          }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "FEAR.",
+            "duration": "7:41"
+          },
+          {
+            "number": 2,
+            "title": "GOD.",
+            "duration": "4:08"
+          },
+          {
+            "number": 3,
+            "title": "DUCKWORTH.",
+            "duration": "4:08"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "0hvT3yIEysuuvkK73vgdcW",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": true,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": [
+      "new-arrivals"
+    ]
+  },
+  {
+    "id": "GRVLP076",
+    "title": "Exodus",
+    "artistId": "bob-marley",
+    "artistName": "Bob Marley",
+    "description": "Named the best album of the 20th century by Time magazine. Exodus is Bob Marley's masterwork — a seamless blend of revolutionary fire and tender love songs recorded in London exile. 'Jamming,' 'One Love,' and 'Three Little Birds' live here.",
+    "price": 35,
+    "releaseDate": "2026-05-15",
+    "originalReleaseYear": 1977,
+    "vinylColor": "gold",
+    "genre": "reggae",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP076",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Natural Mystic",
+            "duration": "5:23"
+          },
+          {
+            "number": 2,
+            "title": "So Much Things to Say",
+            "duration": "3:08"
+          },
+          {
+            "number": 3,
+            "title": "Guiltiness",
+            "duration": "3:19"
+          },
+          {
+            "number": 4,
+            "title": "The Heathen",
+            "duration": "3:36"
+          },
+          {
+            "number": 5,
+            "title": "Exodus",
+            "duration": "7:40"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Jamming",
+            "duration": "3:31"
+          },
+          {
+            "number": 2,
+            "title": "Waiting in Vain",
+            "duration": "4:16"
+          },
+          {
+            "number": 3,
+            "title": "Turn Your Lights Down Low",
+            "duration": "3:39"
+          },
+          {
+            "number": 4,
+            "title": "Three Little Birds",
+            "duration": "3:00"
+          },
+          {
+            "number": 5,
+            "title": "One Love / People Get Ready",
+            "duration": "2:52"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "655KljKIXl42fiNDMKivbY",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP077",
+    "title": "Gorillaz",
+    "artistId": "gorillaz",
+    "artistName": "Gorillaz",
+    "description": "The self-titled debut that introduced the world's greatest virtual band. Damon Albarn and Dan the Automator created a genre-bending masterpiece blending hip-hop, dub, lo-fi, and pop. 'Clint Eastwood' and '19-2000' became instant classics.",
+    "price": 35,
+    "releaseDate": "2026-05-25",
+    "originalReleaseYear": 2001,
+    "vinylColor": "black",
+    "genre": "electronic",
+    "numberOfDiscs": "2 LP",
+    "catalogueNumber": "GRVLP077",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Re-Hash",
+            "duration": "3:36"
+          },
+          {
+            "number": 2,
+            "title": "5/4",
+            "duration": "2:41"
+          },
+          {
+            "number": 3,
+            "title": "Tomorrow Comes Today",
+            "duration": "3:14"
+          },
+          {
+            "number": 4,
+            "title": "New Genious (Brother)",
+            "duration": "3:54"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Clint Eastwood",
+            "duration": "5:41"
+          },
+          {
+            "number": 2,
+            "title": "Man Research (Clapper)",
+            "duration": "4:34"
+          },
+          {
+            "number": 3,
+            "title": "Punk",
+            "duration": "1:36"
+          },
+          {
+            "number": 4,
+            "title": "Sound Check (Gravity)",
+            "duration": "4:39"
+          }
+        ]
+      },
+      {
+        "side": "C",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Double Bass",
+            "duration": "4:40"
+          },
+          {
+            "number": 2,
+            "title": "Rock the House",
+            "duration": "4:10"
+          },
+          {
+            "number": 3,
+            "title": "19-2000",
+            "duration": "3:28"
+          },
+          {
+            "number": 4,
+            "title": "Latin Simone (¿Qué Pasa Contigo?)",
+            "duration": "3:37"
+          }
+        ]
+      },
+      {
+        "side": "D",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Starshine",
+            "duration": "3:31"
+          },
+          {
+            "number": 2,
+            "title": "Slow Country",
+            "duration": "3:36"
+          },
+          {
+            "number": 3,
+            "title": "M1 A1",
+            "duration": "3:50"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "4tUxQkrduOE8sfgwJ5BI2F",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP078",
+    "title": "Under the Iron Sea",
+    "artistId": "keane",
+    "artistName": "Keane",
+    "description": "Keane's darker, more ambitious second album. Under the Iron Sea trades the sunlit melancholy of their debut for stormy intensity and political edge. 'Is It Any Wonder?' and 'Crystal Ball' showcase a band pushing beyond their comfort zone.",
+    "price": 29,
+    "releaseDate": "2026-05-10",
+    "originalReleaseYear": 2006,
+    "vinylColor": "blue",
+    "genre": "rock",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP078",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Atlantic",
+            "duration": "3:52"
+          },
+          {
+            "number": 2,
+            "title": "Is It Any Wonder?",
+            "duration": "3:18"
+          },
+          {
+            "number": 3,
+            "title": "Nothing in My Way",
+            "duration": "4:11"
+          },
+          {
+            "number": 4,
+            "title": "Leaving So Soon?",
+            "duration": "3:56"
+          },
+          {
+            "number": 5,
+            "title": "A Bad Dream",
+            "duration": "4:51"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Hamburg Song",
+            "duration": "4:09"
+          },
+          {
+            "number": 2,
+            "title": "Put It Behind You",
+            "duration": "3:15"
+          },
+          {
+            "number": 3,
+            "title": "The Iron Sea",
+            "duration": "1:45"
+          },
+          {
+            "number": 4,
+            "title": "Crystal Ball",
+            "duration": "4:17"
+          },
+          {
+            "number": 5,
+            "title": "Try Again",
+            "duration": "3:34"
+          },
+          {
+            "number": 6,
+            "title": "Broken Toy",
+            "duration": "4:19"
+          },
+          {
+            "number": 7,
+            "title": "The Frog Prince",
+            "duration": "4:28"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "02Ird1pnGUdA6ruy87cxVa",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP079",
+    "title": "What's Going On",
+    "artistId": "marvin-gaye",
+    "artistName": "Marvin Gaye",
+    "description": "The most important soul album ever made. Marvin Gaye defied Motown's hit factory formula to create a seamless suite of songs about war, poverty, and the environment. Revolutionary in 1971, prophetic today.",
+    "price": 39,
+    "releaseDate": "2026-06-01",
+    "originalReleaseYear": 1971,
+    "vinylColor": "black",
+    "genre": "soul",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP079",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "What's Going On",
+            "duration": "3:53"
+          },
+          {
+            "number": 2,
+            "title": "What's Happening Brother",
+            "duration": "2:43"
+          },
+          {
+            "number": 3,
+            "title": "Flyin' High (In the Friendly Sky)",
+            "duration": "3:50"
+          },
+          {
+            "number": 4,
+            "title": "Save the Children",
+            "duration": "4:03"
+          },
+          {
+            "number": 5,
+            "title": "God Is Love",
+            "duration": "1:42"
+          },
+          {
+            "number": 6,
+            "title": "Mercy Mercy Me (The Ecology)",
+            "duration": "3:16"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Right On",
+            "duration": "7:15"
+          },
+          {
+            "number": 2,
+            "title": "Wholy Holy",
+            "duration": "3:07"
+          },
+          {
+            "number": 3,
+            "title": "Inner City Blues (Make Me Wanna Holler)",
+            "duration": "5:27"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "2v6ANhWhZBUKkg6pJJBs3B",
+    "coverImage": "",
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isOnSale": false,
+    "isPreOrder": false,
+    "tags": []
+  },
+  {
+    "id": "GRVLP080",
+    "title": "Coming from Reality",
+    "artistId": "sixto-rodriguez",
+    "artistName": "Sixto Rodriguez",
+    "description": "Rodriguez's second and final album is even more introspective than Cold Fact. Sparse, poetic, and deeply personal folk-rock that was ignored in America but worshipped in South Africa and Australia. A lost masterpiece rediscovered.",
+    "price": 29,
+    "releaseDate": "2026-05-20",
+    "originalReleaseYear": 1971,
+    "vinylColor": "black",
+    "genre": "rock",
+    "numberOfDiscs": "1 LP",
+    "catalogueNumber": "GRVLP080",
+    "vinylWeight": "180g",
+    "tracklist": [
+      {
+        "side": "A",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Climb Up on My Music",
+            "duration": "3:55"
+          },
+          {
+            "number": 2,
+            "title": "A Most Disgusting Song",
+            "duration": "3:35"
+          },
+          {
+            "number": 3,
+            "title": "I Think of You",
+            "duration": "3:23"
+          },
+          {
+            "number": 4,
+            "title": "Heikki's Suburbia Bus Tour",
+            "duration": "0:43"
+          },
+          {
+            "number": 5,
+            "title": "Silver Words",
+            "duration": "2:33"
+          }
+        ]
+      },
+      {
+        "side": "B",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Sandrevan Lullaby — Lifestyles",
+            "duration": "6:10"
+          },
+          {
+            "number": 2,
+            "title": "To Whom It May Concern",
+            "duration": "3:15"
+          },
+          {
+            "number": 3,
+            "title": "It Started Out So Nice",
+            "duration": "3:07"
+          },
+          {
+            "number": 4,
+            "title": "Halfway Up the Stairs",
+            "duration": "0:31"
+          },
+          {
+            "number": 5,
+            "title": "Cause",
+            "duration": "5:40"
+          }
+        ]
+      }
+    ],
+    "spotifyAlbumId": "2X0L9mwLuMqAK8rf965Vmi",
     "coverImage": "",
     "isFeatured": false,
     "isNewArrival": false,

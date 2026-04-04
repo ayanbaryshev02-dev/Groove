@@ -44,7 +44,7 @@
   {
     "id": "maslo-chernogo-tmina",
     "name": "Масло черного тмина",
-    "bio": "Enigmatic Russian-speaking project blending lo-fi aesthetics with deeply introspective songwriting. Their music floats between bedroom pop and post-punk atmospherics, creating a sound that feels like late-night conversations in empty city streets.",
+    "bio": "Aydyn Nuralin hails from the not‑unknown city of Karaganda in central Kazakhstan. His current stage name — Black Cumin Oil — was coined by Aydyn by accident, yet it describes his music most accurately: viscous, enveloping, with layers of noise and barely intelligible lyrics.",
     "image": "/artists/maslo-chernogo-tmina.jpg",
     "genres": ["indie", "post-punk"]
   },
@@ -420,16 +420,16 @@
     "genres": ["hip-hop", "pop", "electronic"]
   },
   {
-    "id": "ricky-trye",
-    "name": "Ricky Trye",
-    "bio": "Soulful artist whose smooth vocals and groove-heavy productions pay homage to classic R&B while pushing into modern territory. A hidden gem for vinyl collectors who appreciate authentic soul craftsmanship.",
-    "image": "/artists/ricky-trye.jpg",
-    "genres": ["soul", "funk"]
+    "id": "sex-bob-omb",
+    "name": "Sex Bob-Omb",
+    "bio": "Lo‑fi distortion prophets from Toronto, whose raw, overdriven sound became the voice of a disillusioned generation raised on video games and broken hearts. A blend of garage punk, indie rock, and almost cinematic awkwardness — their music sounds like it was recorded on a broken tape machine in a basement filled with pizza boxes and empty cola cans (because it was). They're still fighting for their seventh opening slot.",
+    "image": "/artists/sex-bob-omb.jpg",
+    "genres": ["garage-rock", "Rock", "indie"]
   },
   {
     "id": "qonyratbay-fam",
     "name": "QONYRATBAY FAM",
-    "bio": "Kazakh hip-hop collective bringing Central Asian identity and culture to the global rap scene. Their bilingual flow and unique perspective offer a fresh voice in a genre often dominated by Western narratives.",
+    "bio": "Qonyratbay Fam is a music group from Almaty, performing original compositions in the indie genre. Founded in 2015 by a brother and sister. In their lyrics, the group addresses issues related to Kazakh culture, national identity, social problems, and the life of youth in Kazakhstan.",
     "image": "/artists/qonyratbay-fam.jpg",
     "genres": ["hip-hop"]
   },
@@ -450,7 +450,7 @@
   {
     "id": "muzikola",
     "name": "Мюзикола",
-    "bio": "Kazakh rock band whose energetic performances and catchy rock anthems have made them one of the most recognizable acts in Central Asian rock. Their music carries the spirit of the steppe with the power of electric guitars.",
+    "bio": "'Мюзикола' is a legendary Kazakhstani duo formed in the 1990s, known for their quality pop music, romantic ballads, and the signature blend of Karina Abdullina's vocals with Bulat Syzdykov's guitar craftsmanship.",
     "image": "/artists/muzikola.jpg",
     "genres": ["rock"]
   }

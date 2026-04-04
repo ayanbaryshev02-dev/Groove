@@ -33,8 +33,8 @@ watch(() => route.params.id, loadArtist)
     </div>
 
     <div class="w-full h-[280px] bg-dark/10 overflow-hidden">
-      <img
-        :src="`/artists/${artist.id}.jpg`"
+       <img
+        :src="`/artists/${artist.id}-banner.webp`"
         :alt="artist.name"
         class="w-full h-full object-cover object-top"
         @error="($event.target as HTMLImageElement).style.display = 'none'"
