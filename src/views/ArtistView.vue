@@ -38,7 +38,7 @@ watch(() => route.params.id, loadArtist)
 </script>
 
 <template>
-  <div v-if="!isLoading && artist">
+  <div v-if="!isLoading && artist" class="animate-page-in">
     <div class="max-w-[1200px] mx-auto px-6 pt-4 pb-2">
       <div class="flex items-center gap-2 text-[14px] text-dark/50">
         <button

@@ -90,10 +90,11 @@ watch(route, () => {
             />
           </div>
 
-          <div
-            v-if="isSearchOpen"
-            class="absolute top-full left-0 right-0 mt-1 bg-light border border-dark/10 shadow-lg z-50 rounded-sm"
-          >
+          <Transition name="dropdown">
+            <div
+              v-if="isSearchOpen"
+              class="absolute top-full left-0 right-0 mt-1 bg-light border border-dark/10 shadow-lg z-50 rounded-sm"
+            >
             <div class="grid grid-cols-2 gap-6 p-6">
               <div>
                 <div v-if="searchResults.artists.length">
@@ -108,6 +109,7 @@ watch(route, () => {
                     <span class="text-base">{{ artist.name }}</span>
                   </button>
                 </div>
+                
 
                 <div v-if="searchResults.genres.length" class="mt-6">
                   <p class="text-xl font-bold text-dark mb-3">GENRE</p>
@@ -139,10 +141,12 @@ watch(route, () => {
                     <p class="text-base text-dark/60">{{ album.artistName }}</p>
                     <p class="text-sm text-dark/80">${{ album.price.toFixed(2) }}</p>
                   </div>
+                  
                 </button>
               </div>
             </div>
           </div>
+          </Transition>
         </div>
 
         <div class="flex items-center gap-5 shrink-0">
@@ -183,3 +187,16 @@ watch(route, () => {
     @click="closeSearch"
   ></div>
 </template>
+
+<style scoped>
+.dropdown-enter-active,
+.dropdown-leave-active {
+  transition: all 0.2s ease;
+}
+
+.dropdown-enter-from,
+.dropdown-leave-to {
+  opacity: 0;
+  transform: translateY(-8px);
+}
+</style>

@@ -110,7 +110,7 @@ watch(() => route.params.id, loadAlbum)
 </script>
 
 <template>
-  <div v-if="!isLoading && album">
+  <div v-if="!isLoading && album" class="animate-page-in">
     <div class="max-w-[1200px] mx-auto px-6 pt-4 pb-2">
       <div class="flex items-center gap-2 text-[14px] text-dark/50">
         <button
@@ -127,7 +127,7 @@ watch(() => route.params.id, loadAlbum)
         <div class="sticky top-8 self-start">
           <div class="relative max-w-[320px]">
             <img :src="vinylImage" alt="Vinyl" class="absolute top-0 left-[50%] w-full h-full object-contain z-0" />
-            <img :src="`/covers/${album.id}.webp`" :alt="album.title" class="relative z-10 w-full aspect-square object-cover" @error="($event.target as HTMLImageElement).style.display = 'none'" />
+            <img :src="`/covers/${album.id}.webp`" :alt="album.title" class="relative z-10 w-full aspect-square object-cover shadow-lg" @error="($event.target as HTMLImageElement).style.display = 'none'" />
           </div>
 
           <div class="mt-10">

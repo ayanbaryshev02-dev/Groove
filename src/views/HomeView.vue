@@ -35,7 +35,7 @@ onMounted(async () => {
 </script>
 
 <template>
-  <div v-if="!isLoading">
+  <div v-if="!isLoading" class="animate-page-in">
     <NewArrivals :albums="newArrivals" />
     <AlbumOfTheMonth v-if="albumOfTheMonth" :album="albumOfTheMonth" />
     <OutThisWeek :albums="outThisWeek" />

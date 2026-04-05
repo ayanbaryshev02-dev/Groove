@@ -192,7 +192,7 @@ onActivated(() => {
 </script>
 
 <template>
-  <div v-if="!isLoading">
+  <div v-if="!isLoading" class="animate-page-in">
     <div class="max-w-[1200px] mx-auto px-6 pt-4 pb-2">
       <div class="flex items-center gap-2 text-[14px] text-dark/50">
         <button @click="router.back()" class="hover:text-dark transition-colors cursor-pointer">Home</button>

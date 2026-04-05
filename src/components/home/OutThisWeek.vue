@@ -10,19 +10,33 @@ const props = defineProps<{
   albums: Album[]
 }>()
 
-const offset = ref(0)
+const page = ref(0)
+const isTransitioning = ref(false)
 const visibleCount = 4
 
-const canPrev = computed(() => offset.value > 0)
-const canNext = computed(() => offset.value + visibleCount < props.albums.length)
-const visibleAlbums = computed(() => props.albums.slice(offset.value, offset.value + visibleCount))
+const totalPages = computed(() => Math.ceil(props.albums.length / visibleCount))
+const canPrev = computed(() => page.value > 0)
+const canNext = computed(() => page.value < totalPages.value - 1)
+const visibleAlbums = computed(() => props.albums.slice(page.value * visibleCount, (page.value + 1) * visibleCount))
 
 function prev() {
-  if (canPrev.value) offset.value--
+  if (!canPrev.value || isTransitioning.value) return
+  animate(() => page.value--)
 }
 
 function next() {
-  if (canNext.value) offset.value++
+  if (!canNext.value || isTransitioning.value) return
+  animate(() => page.value++)
+}
+
+function animate(fn: () => void) {
+  isTransitioning.value = true
+  setTimeout(() => {
+    fn()
+    setTimeout(() => {
+      isTransitioning.value = false
+    }, 50)
+  }, 200)
 }
 </script>
 
@@ -41,17 +55,22 @@ function next() {
           @click="prev"
           class="absolute -left-12 top-1/3 -translate-y-1/2 z-10 cursor-pointer hover:opacity-70 transition-opacity"
         >
-          <img :src="LeftArrow" alt="Previous" class="w-8 h-8 invert" />
+          <img :src="LeftArrow" alt="Previous" class="w-8 h-8" />
         </button>
-        <div class="grid grid-cols-4 gap-8">
+
+        <div
+          class="grid grid-cols-4 gap-8 transition-opacity duration-200"
+          :class="isTransitioning ? 'opacity-0' : 'opacity-100'"
+        >
           <AlbumCard v-for="album in visibleAlbums" :key="album.id" :album="album" :light="true" />
         </div>
+
         <button
           v-if="canNext"
           @click="next"
           class="absolute -right-12 top-1/3 -translate-y-1/2 z-10 cursor-pointer hover:opacity-70 transition-opacity"
         >
-          <img :src="RightArrow" alt="Next" class="w-8 h-8 invert" />
+          <img :src="RightArrow" alt="Next" class="w-8 h-8" />
         </button>
       </div>
     </div>

@@ -43,7 +43,8 @@ watch(() => cart.isOpen, (open) => {
             Your cart is empty
           </div>
 
-          <div v-for="item in cart.items" :key="item.album.id" class="mb-8">
+          <TransitionGroup name="cart-item" tag="div">
+            <div v-for="item in cart.items" :key="item.album.id" class="mb-8">
             <div class="flex gap-4">
               <RouterLink :to="`/album/${item.album.id}`" @click="cart.isOpen = false" class="w-24 h-24 bg-white/10 shrink-0 overflow-hidden">
                 <img :src="`/covers/${item.album.id}.webp`" :alt="item.album.title" class="w-full h-full object-cover" @error="($event.target as HTMLImageElement).style.display = 'none'" />
@@ -78,6 +79,7 @@ watch(() => cart.isOpen, (open) => {
               </div>
             </div>
           </div>
+          </TransitionGroup>
         </div>
 
         <div class="p-8 border-t border-light/10">
@@ -120,5 +122,23 @@ watch(() => cart.isOpen, (open) => {
 .slide-enter-from,
 .slide-leave-to {
   transform: translateX(100%);
+}
+.cart-item-enter-active,
+.cart-item-leave-active {
+  transition: all 0.3s ease;
+}
+
+.cart-item-enter-from {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+.cart-item-leave-to {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+.cart-item-move {
+  transition: transform 0.3s ease;
 }
 </style>  
