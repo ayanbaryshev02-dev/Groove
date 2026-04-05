@@ -1,3 +1,6 @@
+<script lang="ts">
+export default { name: 'HomeView' }
+</script>
 <script setup lang="ts">
 import { ref, onMounted } from 'vue'
 import { getFeatured, getGenres } from '@/api'

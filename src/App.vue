@@ -7,7 +7,11 @@ import CartSidebar from '@/components/layout/CartSidebar.vue'
 <template>
   <TheHeader />
   <main class="min-h-screen">
-    <RouterView />
+    <RouterView v-slot="{ Component, route }">
+      <KeepAlive :include="['CatalogView', 'ArtistsView', 'HomeView']">
+        <component :is="Component" :key="route.name" />
+      </KeepAlive>
+    </RouterView>
   </main>
   <TheFooter />
   <CartSidebar />

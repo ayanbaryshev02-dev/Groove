@@ -34,6 +34,10 @@ function nextSimilar() {
   if (canNextSimilar.value) similarOffset.value++
 }
 
+function goBack() {
+  router.back()
+}
+
 async function loadAlbum() {
   isLoading.value = true
   showTracklist.value = false
@@ -97,10 +101,15 @@ watch(() => route.params.id, loadAlbum)
   <div v-if="!isLoading && album">
     <div class="max-w-[1200px] mx-auto px-6 pt-4 pb-2">
       <div class="flex items-center gap-2 text-[14px] text-dark/50">
-        <RouterLink to="/" class="hover:text-dark transition-colors">Home</RouterLink>
+        <button
+          @click="previousRoute.name !== 'home' ? router.go(-2) : router.back()"
+          class="hover:text-dark transition-colors cursor-pointer"
+        >Home</button>
+        <template v-if="previousRoute.name !== 'home'">
+          <span>›</span>
+          <button @click="router.back()" class="hover:text-dark transition-colors cursor-pointer">{{ previousRoute.label }}</button>
+        </template>
         <span>›</span>
-        <RouterLink v-if="previousRoute.name !== 'home'" :to="previousRoute.path" class="hover:text-dark transition-colors">{{ previousRoute.label }}</RouterLink>
-        <span v-if="previousRoute.name !== 'home'">›</span>
         <span class="text-dark">{{ album.title }}</span>
       </div>
     </div>

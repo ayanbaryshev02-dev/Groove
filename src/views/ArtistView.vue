@@ -1,18 +1,33 @@
 <script setup lang="ts">
 import { ref, onMounted, watch } from 'vue'
-import { useRoute, RouterLink } from 'vue-router'
+import { useRoute, RouterLink, useRouter } from 'vue-router'
 import { getArtist } from '@/api'
 import type { Artist, Album } from '@/types'
 import AlbumCard from '@/components/shared/AlbumCard.vue'
 import RecentlyViewed from '@/components/home/RecentlyViewed.vue'
 
 const route = useRoute()
+const router = useRouter()
 
 const artist = ref<(Artist & { albums: Album[] }) | null>(null)
 const isLoading = ref(true)
+const previousRoute = ref<{ name: string; label: string }>({ name: 'home', label: '' })
 
 async function loadArtist() {
   isLoading.value = true
+
+  const referrer = window.history.state?.back as string || '/'
+
+  if (referrer.startsWith('/catalog')) {
+    previousRoute.value = { name: 'catalog', label: 'Catalog' }
+  } else if (referrer.startsWith('/album/')) {
+    previousRoute.value = { name: 'album', label: 'Album' }
+  } else if (referrer === '/artists') {
+    previousRoute.value = { name: 'artists', label: 'Artists' }
+  } else {
+    previousRoute.value = { name: 'home', label: '' }
+  }
+
   const id = route.params.id as string
   artist.value = await getArtist(id)
   isLoading.value = false
@@ -26,9 +41,14 @@ watch(() => route.params.id, loadArtist)
   <div v-if="!isLoading && artist">
     <div class="max-w-[1200px] mx-auto px-6 pt-4 pb-2">
       <div class="flex items-center gap-2 text-[14px] text-dark/50">
-        <RouterLink to="/" class="hover:text-dark transition-colors">Home</RouterLink>
-        <span>›</span>
-        <RouterLink to="/artists" class="hover:text-dark transition-colors">Artists</RouterLink>
+        <button
+          @click="previousRoute.label ? router.go(-2) : router.back()"
+          class="hover:text-dark transition-colors cursor-pointer"
+        >Home</button>
+        <template v-if="previousRoute.label">
+          <span>›</span>
+          <button @click="router.back()" class="hover:text-dark transition-colors cursor-pointer">{{ previousRoute.label }}</button>
+        </template>
         <span>›</span>
         <span class="text-dark">{{ artist.name }}</span>
       </div>

@@ -1,5 +1,8 @@
+<script lang="ts">
+export default { name: 'CatalogView' }
+</script>
 <script setup lang="ts">
-import { ref, computed, onMounted, watch } from 'vue'
+import { ref, computed, onMounted, watch, onActivated, onDeactivated } from 'vue'
 import { useRoute, useRouter, RouterLink } from 'vue-router'
 import { getAlbums, getArtists, getGenres } from '@/api'
 import type { Album, Artist } from '@/types'
@@ -22,6 +25,7 @@ const selectedDecades = ref<string[]>([])
 const priceSort = ref<string>('')
 const showOnSale = ref(false)
 const showOutThisWeek = ref(false)
+const previousRoute = ref<{ name: string; label: string }>({ name: 'home', label: '' })
 
 const availableDecades = computed(() => {
   const decades = new Set<string>()
@@ -157,6 +161,12 @@ onMounted(async () => {
   artists.value = artistsData
   genres.value = genresData
   applyRouteFilters()
+  const referrer = window.history.state?.back as string || '/'
+  if (referrer === '/') {
+    previousRoute.value = { name: 'home', label: '' }
+  } else {
+    previousRoute.value = { name: 'other', label: '' }
+  }
   isLoading.value = false
 })
 
@@ -169,13 +179,23 @@ watch(() => route.query, () => {
   showOutThisWeek.value = false
   applyRouteFilters()
 })
+
+let savedScroll = 0
+
+onDeactivated(() => {
+  savedScroll = window.scrollY
+})
+
+onActivated(() => {
+  window.scrollTo({ top: savedScroll, behavior: 'instant' })
+})
 </script>
 
 <template>
   <div v-if="!isLoading">
     <div class="max-w-[1200px] mx-auto px-6 pt-4 pb-2">
       <div class="flex items-center gap-2 text-[14px] text-dark/50">
-        <RouterLink to="/" class="hover:text-dark transition-colors">Home</RouterLink>
+        <button @click="router.back()" class="hover:text-dark transition-colors cursor-pointer">Home</button>
         <span>›</span>
         <span class="text-dark">Catalog</span>
       </div>
