@@ -25,9 +25,9 @@ const socials = [
           <span>English</span>
         </button>
         <div class="flex items-center gap-8">
-          <RouterLink v-for="social in socials" :key="social.label" :to="social.url" is="a" :href="social.url" target="_blank" rel="noopener noreferrer" class="opacity-60 hover:opacity-100 transition-opacity">
+          <a v-for="social in socials" :key="social.label" :href="social.url" target="_blank" rel="noopener noreferrer" class="opacity-60 hover:opacity-100 transition-opacity">
             <img :src="social.icon" :alt="social.label" class="w-6 h-6" />
-          </RouterLink>
+          </a>
         </div>
         <p class="text-sm text-light/40">© 2026 Play it loud.</p>
       </div>

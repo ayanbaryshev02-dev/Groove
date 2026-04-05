@@ -2,6 +2,7 @@
 import { ref, watch } from 'vue'
 import { RouterLink, useRoute, useRouter } from 'vue-router'
 import { useCartStore } from '@/stores/cart'
+import type { Album } from '@/types'
 import SearchIcon from '@/assets/icons/Search.svg'
 import ProfileIcon from '@/assets/icons/Profile.svg'
 import BuyIcon from '@/assets/icons/Buy.svg'
@@ -12,7 +13,7 @@ const route = useRoute()
 const router = useRouter()
 
 const searchQuery = ref('')
-const searchResults = ref<{ artists: any[]; albums: any[]; genres: any[] }>({
+const searchResults = ref<{ artists: { id: string; name: string }[]; albums: Album[]; genres: { id: string; name: string }[] }>({
   artists: [],
   albums: [],
   genres: []
@@ -167,7 +168,7 @@ watch(route, () => {
     </div>
 
     <nav class="bg-light">
-      <div class="max-w-[1440px] mx-auto px-6 py-3 flex items-center justify-center gap-8">
+      <div class="max-w-[1200px] mx-auto px-6 py-3 flex items-center justify-center gap-8">
         <RouterLink
           v-for="link in navLinks"
           :key="link.to"

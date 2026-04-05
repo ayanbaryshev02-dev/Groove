@@ -44,7 +44,6 @@ async function loadAlbum() {
   showDetails.value = false
   similarOffset.value = 0
 
-  const from = router.currentRoute.value
   const referrer = window.history.state?.back as string || '/'
 
   if (referrer.startsWith('/catalog')) {

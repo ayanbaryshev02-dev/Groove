@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed } from 'vue'
+import { ref, computed, onMounted } from 'vue'
 import { useRouter, RouterLink } from 'vue-router'
 import { useCartStore } from '@/stores/cart'
 
@@ -74,11 +74,15 @@ async function placeOrder() {
   cart.clearCart()
   isSubmitting.value = false
   orderComplete.value = true
+  
+  onMounted(() => {
+  if (cart.items.length === 0 && !orderComplete.value) {
+    router.push('/catalog')
+  }
+})
 }
 
-if (cart.items.length === 0 && !orderComplete.value) {
-  router.push('/catalog')
-}
+
 </script>
 
 <template>
