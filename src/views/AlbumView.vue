@@ -53,8 +53,12 @@ async function loadAlbum() {
     previousRoute.value = { name: 'artist', path: referrer, label: '' }
   } else if (referrer === '/artists') {
     previousRoute.value = { name: 'artists', path: '/artists', label: 'Artists' }
+  } else if (referrer.startsWith('/album/')) {
+    previousRoute.value = { name: 'album', path: referrer, label: '' }
+  } else if (referrer === '/') {
+    previousRoute.value = { name: 'home', path: '/', label: '' }
   } else {
-    previousRoute.value = { name: 'home', path: '/', label: 'Home' }
+    previousRoute.value = { name: 'home', path: '/', label: '' }
   }
 
   const id = route.params.id as string
@@ -65,6 +69,14 @@ async function loadAlbum() {
 
     if (previousRoute.value.name === 'artist' && !previousRoute.value.label) {
       previousRoute.value.label = album.value.artistName
+    }
+
+    if (previousRoute.value.name === 'album' && !previousRoute.value.label) {
+      const prevId = referrer.split('/album/')[1]
+      if (prevId) {
+        const prevAlbum = await getAlbum(prevId)
+        previousRoute.value.label = prevAlbum?.title || 'Album'
+      }
     }
 
     const allAlbums = await getAlbums()
@@ -102,13 +114,9 @@ watch(() => route.params.id, loadAlbum)
     <div class="max-w-[1200px] mx-auto px-6 pt-4 pb-2">
       <div class="flex items-center gap-2 text-[14px] text-dark/50">
         <button
-          @click="previousRoute.name !== 'home' ? router.go(-2) : router.back()"
+          @click="router.back()"
           class="hover:text-dark transition-colors cursor-pointer"
-        >Home</button>
-        <template v-if="previousRoute.name !== 'home'">
-          <span>›</span>
-          <button @click="router.back()" class="hover:text-dark transition-colors cursor-pointer">{{ previousRoute.label }}</button>
-        </template>
+        >{{ previousRoute.label || 'Home' }}</button>
         <span>›</span>
         <span class="text-dark">{{ album.title }}</span>
       </div>
