@@ -13,7 +13,7 @@ function continueShopping() {
 
 function checkout() {
   cart.isOpen = false
-  router.push('/catalog')
+  router.push('/checkout')
 }
 
 watch(() => cart.isOpen, (open) => {

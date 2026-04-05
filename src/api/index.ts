@@ -37,3 +37,4 @@ export async function getGenres(): Promise<{ id: string; name: string; color: st
   const res = await fetch(`${BASE}/genres`)
   return res.json()
 }
+

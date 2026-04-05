@@ -27,7 +27,12 @@ const router = createRouter({
       path: '/artist/:id',
       name: 'artist',
       component: () => import('@/views/ArtistView.vue')
-    }
+    },
+    {
+      path: '/checkout',
+      name: 'checkout',
+      component: () => import('@/views/CheckoutView.vue')
+    },
   ],
 
 scrollBehavior(_to, _from, savedPosition) {
