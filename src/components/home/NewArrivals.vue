@@ -82,7 +82,9 @@ onUnmounted(() => {
           <RouterLink :to="`/artist/${albums[activeIndex].artistId}`" class="text-[32px] font-bold leading-tight hover:opacity-70 transition-opacity">
             {{ albums[activeIndex].artistName }}
           </RouterLink>
-          <h3 class="text-[24px] leading-tight mt-1">{{ albums[activeIndex].title }}</h3>
+          <RouterLink :to="`/album/${albums[activeIndex].id}`" class="text-[24px] leading-tight mt-1 block hover:opacity-70 transition-opacity">
+            {{ albums[activeIndex].title }}
+          </RouterLink>
           <p class="text-[16px] text-dark/70 mt-4 max-w-[500px] leading-relaxed">
             {{ albums[activeIndex].description }}
           </p>
@@ -93,12 +95,12 @@ onUnmounted(() => {
             {{ albums[activeIndex].isPreOrder ? 'Pre-order' : 'Buy now' }}
           </RouterLink>
         </div>
-        <div class="flex justify-center items-center">
+        <RouterLink :to="`/album/${albums[activeIndex].id}`" class="flex justify-center items-center hover:opacity-90 transition-opacity">
           <div class="relative w-full" style="aspect-ratio: 4/3;">
             <img :src="`/covers/${albums[activeIndex].id}.webp`" :alt="albums[activeIndex].title" class="absolute left-0 top-1/2 -translate-y-1/2 h-[90%] aspect-square object-cover z-10 shadow-lg" @error="($event.target as HTMLImageElement).style.display = 'none'" />
             <img :src="getVinylImage(albums[activeIndex])" alt="Vinyl" class="absolute right-0 top-1/2 -translate-y-1/2 h-[90%] aspect-square object-contain z-0" />
           </div>
-        </div>
+        </RouterLink>
       </div>
     </div>
 
