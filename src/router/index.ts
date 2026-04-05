@@ -1,5 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
+const scrollPositions: Record<string, number> = {}
+
 const router = createRouter({
   history: createWebHistory(),
   routes: [
@@ -29,9 +31,22 @@ const router = createRouter({
       component: () => import('@/views/ArtistView.vue')
     }
   ],
-  scrollBehavior() {
+  scrollBehavior(to, from, savedPosition) {
+    if (savedPosition) {
+      return savedPosition
+    }
+
+    const saved = scrollPositions[to.fullPath]
+    if (saved) {
+      return { top: saved }
+    }
+
     return { top: 0 }
   }
+})
+
+router.beforeEach((to, from) => {
+  scrollPositions[from.fullPath] = window.scrollY
 })
 
 export default router

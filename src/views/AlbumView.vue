@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, computed, onMounted, watch } from 'vue'
-import { useRoute, RouterLink } from 'vue-router'
+import { useRoute, RouterLink, useRouter } from 'vue-router'
 import { getAlbum, getAlbums } from '@/api'
 import { useCartStore } from '@/stores/cart'
 import { useRecentlyViewedStore } from '@/stores/recentlyViewed'
@@ -11,6 +11,7 @@ import LeftArrow from '@/assets/icons/Left.svg'
 import RightArrow from '@/assets/icons/Right.svg'
 
 const route = useRoute()
+const router = useRouter()
 const cart = useCartStore()
 const recentlyViewed = useRecentlyViewedStore()
 
@@ -39,11 +40,29 @@ async function loadAlbum() {
   showDetails.value = false
   similarOffset.value = 0
 
+  const from = router.currentRoute.value
+  const referrer = window.history.state?.back as string || '/'
+
+  if (referrer.startsWith('/catalog')) {
+    previousRoute.value = { name: 'catalog', path: referrer, label: 'Catalog' }
+  } else if (referrer.startsWith('/artist/')) {
+    previousRoute.value = { name: 'artist', path: referrer, label: '' }
+  } else if (referrer === '/artists') {
+    previousRoute.value = { name: 'artists', path: '/artists', label: 'Artists' }
+  } else {
+    previousRoute.value = { name: 'home', path: '/', label: 'Home' }
+  }
+
   const id = route.params.id as string
   album.value = await getAlbum(id)
 
   if (album.value) {
     recentlyViewed.addAlbum(album.value)
+
+    if (previousRoute.value.name === 'artist' && !previousRoute.value.label) {
+      previousRoute.value.label = album.value.artistName
+    }
+
     const allAlbums = await getAlbums()
     similarAlbums.value = allAlbums
       .filter(a => a.genre === album.value!.genre && a.id !== album.value!.id)
@@ -68,6 +87,8 @@ const vinylImage = computed(() => {
   return `/vinyl/${color}.webp`
 })
 
+const previousRoute = ref<{ name: string; path: string; label: string }>({ name: 'home', path: '/', label: 'Home' })
+
 onMounted(loadAlbum)
 watch(() => route.params.id, loadAlbum)
 </script>
@@ -78,6 +99,8 @@ watch(() => route.params.id, loadAlbum)
       <div class="flex items-center gap-2 text-[14px] text-dark/50">
         <RouterLink to="/" class="hover:text-dark transition-colors">Home</RouterLink>
         <span>›</span>
+        <RouterLink v-if="previousRoute.name !== 'home'" :to="previousRoute.path" class="hover:text-dark transition-colors">{{ previousRoute.label }}</RouterLink>
+        <span v-if="previousRoute.name !== 'home'">›</span>
         <span class="text-dark">{{ album.title }}</span>
       </div>
     </div>

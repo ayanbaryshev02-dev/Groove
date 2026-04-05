@@ -28,6 +28,8 @@ watch(() => route.params.id, loadArtist)
       <div class="flex items-center gap-2 text-[14px] text-dark/50">
         <RouterLink to="/" class="hover:text-dark transition-colors">Home</RouterLink>
         <span>›</span>
+        <RouterLink to="/artists" class="hover:text-dark transition-colors">Artists</RouterLink>
+        <span>›</span>
         <span class="text-dark">{{ artist.name }}</span>
       </div>
     </div>
