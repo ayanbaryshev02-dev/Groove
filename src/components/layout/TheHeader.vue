@@ -131,7 +131,9 @@ watch(route, () => {
                   @click="goToAlbum(album.id)"
                   class="flex gap-3 w-full text-left py-2 hover:bg-dark/5 transition-colors rounded cursor-pointer"
                 >
-                  <div class="w-16 h-16 bg-dark/10 rounded shrink-0"></div>
+                  <div class="w-16 h-16 bg-dark/10 rounded shrink-0 overflow-hidden">
+                  <img :src="`/covers/${album.id}.webp`" :alt="album.title" class="w-full h-full object-cover" @error="($event.target as HTMLImageElement).style.display = 'none'" />
+                </div>
                   <div>
                     <p class="text-base font-bold text-dark leading-tight">{{ album.title }}</p>
                     <p class="text-base text-dark/60">{{ album.artistName }}</p>
