@@ -50,7 +50,7 @@ const { isDragging, onPointerDown, onPointerMove, onPointerUp } = useDragScroll(
       @click="prev"
       class="absolute -left-12 top-1/3 -translate-y-1/2 z-10 cursor-pointer hover:opacity-70 transition-opacity"
     >
-      <img :src="LeftArrow" alt="Previous" class="w-8 h-8" :class="light" />
+      <img :src="LeftArrow" alt="Previous" class="w-8 h-8 light" />
     </button>
 
     <div
@@ -69,7 +69,7 @@ const { isDragging, onPointerDown, onPointerMove, onPointerUp } = useDragScroll(
       @click="next"
       class="absolute -right-12 top-1/3 -translate-y-1/2 z-10 cursor-pointer hover:opacity-70 transition-opacity"
     >
-      <img :src="RightArrow" alt="Next" class="w-8 h-8" :class="light" />
+      <img :src="RightArrow" alt="Next" class="w-8 h-8 light" />
     </button>
   </div>
 </template>
