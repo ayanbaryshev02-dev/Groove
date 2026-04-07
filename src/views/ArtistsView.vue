@@ -25,7 +25,7 @@ onMounted(async () => {
     </div>
 
     <div class="max-w-[1200px] mx-auto px-6 py-12">
-      <div class="grid grid-cols-4 gap-x-8 gap-y-10">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-x-4 md:gap-x-8 gap-y-6 md:gap-y-10">
         <RouterLink
           v-for="artist in [...artists].sort((a, b) => a.name.localeCompare(b.name))"
           :key="artist.id"

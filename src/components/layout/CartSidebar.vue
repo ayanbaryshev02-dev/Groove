@@ -34,7 +34,7 @@ watch(() => cart.isOpen, (open) => {
     <Transition name="slide">
       <div
         v-if="cart.isOpen"
-        class="fixed top-0 right-0 bottom-0 w-[460px] bg-dark text-light z-50 flex flex-col"
+        class="fixed top-0 right-0 bottom-0 w-full md:w-[460px] bg-dark text-light z-50 flex flex-col"
       >
         <div class="flex-1 overflow-y-auto p-8">
           <h2 class="text-[24px] font-bold mb-8">YOUR CART</h2>

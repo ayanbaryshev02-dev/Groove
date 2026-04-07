@@ -71,11 +71,11 @@ onUnmounted(() => {
 
 <template>
   <section class="max-w-[1200px] mx-auto px-6 pt-12 pb-16">
-    <h2 class="text-[48px] font-bold leading-none mb-10">NEW ARRIVALS</h2>
+    <h2 class="text-[32px] md:text-[48px] font-bold leading-none mb-6 md:mb-10">NEW ARRIVALS</h2>
 
     <div v-if="albums.length" class="mb-10">
       <div
-        class="grid grid-cols-2 gap-12 items-center transition-opacity duration-300"
+        class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-12 items-center transition-opacity duration-300"
         :class="isTransitioning ? 'opacity-0' : 'opacity-100'"
       >
         <div>
@@ -104,7 +104,7 @@ onUnmounted(() => {
       </div>
     </div>
 
-    <div class="flex justify-between">
+    <div class="flex justify-between overflow-x-auto gap-4 md:gap-0">
       <button
         v-for="(album, index) in albums"
         :key="album.id"

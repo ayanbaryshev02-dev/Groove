@@ -203,7 +203,7 @@ onActivated(() => {
 
     <div class="bg-dark">
       <div class="max-w-[1200px] mx-auto px-6 py-6">
-        <div class="flex gap-4">
+        <div class="flex flex-wrap md:flex-nowrap gap-2 md:gap-4">
           <div class="relative flex-1">
             <button
               @click="toggleDropdown('artists')"
@@ -338,7 +338,7 @@ onActivated(() => {
 
     <div class="max-w-[1200px] mx-auto px-6 py-12">
       <div
-        class="grid grid-cols-4 gap-x-8 gap-y-12 transition-opacity duration-300"
+        class="grid grid-cols-2 md:grid-cols-4 gap-x-4 md:gap-x-8 gap-y-8 md:gap-y-12 transition-opacity duration-300"
         :class="isTransitioning ? 'opacity-0' : 'opacity-100'"
       >
         <AlbumCard v-for="album in filteredAlbums" :key="album.id" :album="album" />

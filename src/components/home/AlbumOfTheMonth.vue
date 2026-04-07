@@ -19,8 +19,8 @@ const vinylImage = computed(() => {
 <template>
   <section class="border-t border-dark/10">
     <div class="max-w-[1200px] mx-auto px-6 py-16">
-      <h2 class="text-[48px] font-bold leading-none mb-10">ALBUM OF THE MONTH: {{ currentMonth }}</h2>
-      <div class="grid grid-cols-2 gap-12 items-center">
+      <h2 class="text-[32px] md:text-[48px] font-bold leading-none mb-6 md:mb-10">ALBUM OF THE MONTH: {{ currentMonth }}</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-12 items-center">
         <RouterLink :to="`/album/${album.id}`" class="flex justify-center items-center hover:opacity-90 transition-opacity">
           <div class="relative w-full" style="aspect-ratio: 3/2;">
             <img :src="`/covers/${album.id}.webp`" :alt="album.title" class="absolute left-0 top-1/2 -translate-y-1/2 h-[90%] aspect-square object-cover z-10 shadow-lg" @error="($event.target as HTMLImageElement).style.display = 'none'" />

@@ -48,13 +48,13 @@ const { isDragging, onPointerDown, onPointerMove, onPointerUp } = useDragScroll(
     <button
       v-if="canPrev"
       @click="prev"
-      class="absolute -left-12 top-1/3 -translate-y-1/2 z-10 cursor-pointer hover:opacity-70 transition-opacity"
+      class="absolute -left-12 top-1/3 -translate-y-1/2 z-10 cursor-pointer hover:opacity-70 transition-opacity hidden md:block"
     >
       <img :src="LeftArrow" alt="Previous" class="w-8 h-8 light" />
     </button>
 
     <div
-      class="grid grid-cols-4 gap-8 transition-opacity duration-200 select-none"
+      class="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8 transition-opacity duration-200 select-none"
       :class="[isTransitioning ? 'opacity-0' : 'opacity-100', isDragging ? 'cursor-grabbing' : 'cursor-grab']"
       @pointerdown="onPointerDown"
       @pointermove="onPointerMove"
@@ -67,7 +67,7 @@ const { isDragging, onPointerDown, onPointerMove, onPointerUp } = useDragScroll(
     <button
       v-if="canNext"
       @click="next"
-      class="absolute -right-12 top-1/3 -translate-y-1/2 z-10 cursor-pointer hover:opacity-70 transition-opacity"
+      class="absolute -right-12 top-1/3 -translate-y-1/2 z-10 cursor-pointer hover:opacity-70 transition-opacity hidden md:block"
     >
       <img :src="RightArrow" alt="Next" class="w-8 h-8 light" />
     </button>

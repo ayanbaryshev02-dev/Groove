@@ -74,13 +74,13 @@ async function placeOrder() {
   cart.clearCart()
   isSubmitting.value = false
   orderComplete.value = true
-  
-  onMounted(() => {
+}
+
+onMounted(() => {
   if (cart.items.length === 0 && !orderComplete.value) {
     router.push('/catalog')
   }
 })
-}
 
 
 </script>
@@ -104,8 +104,8 @@ async function placeOrder() {
     </div>
 
     <div v-else class="max-w-[1200px] mx-auto px-6 py-8">
-      <div class="grid grid-cols-5 gap-16">
-        <div class="col-span-3">
+      <div class="grid grid-cols-1 md:grid-cols-5 gap-8 md:gap-16">
+        <div class="md:col-span-3">
           <div class="flex gap-4 mb-8">
             <button
               v-for="s in [1, 2, 3]"
@@ -293,7 +293,7 @@ async function placeOrder() {
           </div>
         </div>
 
-        <div class="col-span-2">
+        <div class="md:col-span-2 order-first md:order-last">
           <div class="bg-dark/[0.03] p-6 sticky top-8">
             <div v-for="item in cart.items" :key="item.album.id" class="flex gap-4 mb-4">
               <div class="relative w-16 h-16 bg-dark/10 shrink-0 overflow-hidden">

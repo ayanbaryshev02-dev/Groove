@@ -54,7 +54,7 @@ watch(() => route.params.id, loadArtist)
       </div>
     </div>
 
-    <div class="w-full h-[280px] bg-dark/10 overflow-hidden">
+    <div class="w-full h-[160px] md:h-[280px] bg-dark/10 overflow-hidden">
        <img
         :src="`/artists/${artist.id}-banner.webp`"
         :alt="artist.name"
@@ -64,12 +64,12 @@ watch(() => route.params.id, loadArtist)
     </div>
 
     <div class="max-w-[1200px] mx-auto px-6 py-16">
-      <div class="grid grid-cols-2 gap-16 mb-16">
-        <h1 class="text-[64px] font-bold leading-none">{{ artist.name }}</h1>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-16 mb-10 md:mb-16">
+        <h1 class="text-[36px] md:text-[64px] font-bold leading-none">{{ artist.name }}</h1>
         <p class="text-[16px] text-dark/70 leading-relaxed self-center">{{ artist.bio }}</p>
       </div>
 
-      <div class="grid grid-cols-4 gap-x-8 gap-y-12">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-x-4 md:gap-x-8 gap-y-8 md:gap-y-12">
         <AlbumCard v-for="album in artist.albums" :key="album.id" :album="album" />
       </div>
 

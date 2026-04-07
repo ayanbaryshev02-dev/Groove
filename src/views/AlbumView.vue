@@ -122,15 +122,15 @@ watch(() => route.params.id, loadAlbum)
     </div>
 
     <div class="max-w-[1200px] mx-auto px-6 py-8">
-      <div class="grid grid-cols-2 gap-16">
-        <div class="sticky top-8 self-start">
-          <div class="relative max-w-[320px]">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-16">
+        <div class="md:sticky md:top-8 self-start">
+          <div class="relative max-w-[220px] md:max-w-[320px] mx-0 md:mx-0">
             <img :src="vinylImage" alt="Vinyl" class="absolute top-0 left-[50%] w-full h-full object-contain z-0" />
             <img :src="`/covers/${album.id}.webp`" :alt="album.title" class="relative z-10 w-full aspect-square object-cover shadow-lg" @error="($event.target as HTMLImageElement).style.display = 'none'" />
           </div>
 
           <div class="mt-10">
-            <h3 class="text-[36px] font-bold">Description</h3>
+            <h3 class="text-[28px] md:text-[36px] font-bold">Description</h3>
             <p class="text-[16px] text-dark/70 mt-4 leading-relaxed max-w-[440px]">
               {{ album.description }}
             </p>
@@ -140,14 +140,14 @@ watch(() => route.params.id, loadAlbum)
         <div>
           <RouterLink
             :to="`/artist/${album.artistId}`"
-            class="text-[36px] font-bold hover:opacity-70 transition-opacity"
+            class="text-[28px] md:text-[36px] font-bold hover:opacity-70 transition-opacity"
           >
             {{ album.artistName }}
           </RouterLink>
-          <h1 class="text-[36px] mt-1">{{ album.title }}</h1>
+          <h1 class="text-[28px] md:text-[36px] mt-1">{{ album.title }}</h1>
 
           <div class="flex items-center gap-3 mt-4">
-            <span class="text-[48px]">${{ album.price.toFixed(2) }}</span>
+            <span class="text-[36px] md:text-[48px]">${{ album.price.toFixed(2) }}</span>
             <span v-if="album.originalPrice" class="text-[32px] text-accent line-through">
               ${{ album.originalPrice.toFixed(2) }}
             </span>
@@ -262,7 +262,7 @@ watch(() => route.params.id, loadAlbum)
 
     <section v-if="similarAlbums.length" class="border-t border-dark/10">
       <div class="max-w-[1200px] mx-auto px-6 py-16 relative">
-        <h2 class="text-[48px] font-bold leading-none mb-8">WE THINK YOU'LL LIKE</h2>
+        <h2 class="text-[32px] md:text-[48px] font-bold leading-none mb-6 md:mb-8">WE THINK YOU'LL LIKE</h2>
         <div class="relative">
           <button
             v-if="canPrevSimilar"
@@ -271,7 +271,7 @@ watch(() => route.params.id, loadAlbum)
           >
             <img :src="LeftArrow" alt="Previous" class="w-8 h-8" />
           </button>
-          <div class="grid grid-cols-4 gap-8">
+          <div class="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8">
             <AlbumCard v-for="a in visibleSimilar" :key="a.id" :album="a" />
           </div>
           <button

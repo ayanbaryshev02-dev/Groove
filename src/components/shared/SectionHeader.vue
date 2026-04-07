@@ -10,7 +10,7 @@ defineProps<{
 
 <template>
   <div class="flex items-end justify-between mb-8">
-    <h2 class="text-[48px] font-bold leading-none">{{ title }}</h2>
+   <h2 class="text-[32px] md:text-[48px] font-bold leading-none">{{ title }}</h2>
     <RouterLink :to="link" class="text-[16px] font-bold hover:opacity-70 transition-opacity">
       see all
     </RouterLink>

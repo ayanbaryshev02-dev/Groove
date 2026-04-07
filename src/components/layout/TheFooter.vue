@@ -19,7 +19,7 @@ const socials = [
       <div class="flex justify-center mb-12">
         <img :src="LogoIcon" alt="Groove" class="h-8" />
       </div>
-      <div class="border-t border-light/10 pt-8 flex items-center justify-between">
+      <div class="border-t border-light/10 pt-8 flex flex-col md:flex-row items-center justify-between gap-6">
         <button class="flex items-center gap-2 text-sm text-light/60 hover:text-light transition-colors cursor-pointer">
           <span class="text-base">🇬🇧</span>
           <span>English</span>

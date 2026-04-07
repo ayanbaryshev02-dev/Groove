@@ -19,6 +19,7 @@ const searchResults = ref<{ artists: { id: string; name: string }[]; albums: Alb
   genres: []
 })
 const isSearchOpen = ref(false)
+const isMobileMenuOpen = ref(false)
 let debounceTimer: ReturnType<typeof setTimeout>
 
 function onSearchInput() {
@@ -67,18 +68,19 @@ const navLinks = [
 
 watch(route, () => {
   closeSearch()
+  isMobileMenuOpen.value = false
 })
 </script>
 
 <template>
   <header>
     <div class="bg-dark text-light">
-      <div class="max-w-[1200px] mx-auto px-6 py-4 flex items-center justify-between gap-6">
+      <div class="max-w-[1200px] mx-auto px-4 md:px-6 py-3 md:py-4 flex items-center justify-between gap-3 md:gap-6">
         <RouterLink to="/" class="shrink-0">
           <img :src="LogoIcon" alt="Groove" class="h-6" />
         </RouterLink>
 
-        <div class="relative flex-1 max-w-[480px]">
+        <div class="relative flex-1 max-w-[480px] hidden md:block">
           <div class="flex items-center bg-light rounded-sm overflow-hidden">
             <img :src="SearchIcon" alt="" class="w-4 h-4 ml-4 opacity-40" />
             <input
@@ -150,8 +152,17 @@ watch(route, () => {
           </Transition>
         </div>
 
-        <div class="flex items-center gap-5 shrink-0">
-          <button class="cursor-pointer">
+        <div class="flex items-center gap-4 md:gap-5 shrink-0">
+          <button class="md:hidden cursor-pointer" @click="isMobileMenuOpen = !isMobileMenuOpen">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <line v-if="!isMobileMenuOpen" x1="3" y1="6" x2="21" y2="6" />
+              <line v-if="!isMobileMenuOpen" x1="3" y1="12" x2="21" y2="12" />
+              <line v-if="!isMobileMenuOpen" x1="3" y1="18" x2="21" y2="18" />
+              <line v-if="isMobileMenuOpen" x1="6" y1="6" x2="18" y2="18" />
+              <line v-if="isMobileMenuOpen" x1="6" y1="18" x2="18" y2="6" />
+            </svg>
+          </button>
+          <button class="cursor-pointer hidden md:block">
             <img :src="ProfileIcon" alt="Profile" class="w-6 h-6" />
           </button>
           <button @click="cart.isOpen = true" class="relative cursor-pointer">
@@ -167,7 +178,7 @@ watch(route, () => {
       </div>
     </div>
 
-    <nav class="bg-light">
+    <nav class="bg-light hidden md:block">
       <div class="max-w-[1200px] mx-auto px-6 py-3 flex items-center justify-center gap-8">
         <RouterLink
           v-for="link in navLinks"
@@ -180,6 +191,50 @@ watch(route, () => {
         </RouterLink>
       </div>
     </nav>
+    <Transition name="dropdown">
+      <div v-if="isMobileMenuOpen" class="md:hidden bg-dark border-t border-light/10">
+        <div class="px-4 py-4">
+          <div class="flex items-center bg-light rounded-sm overflow-hidden mb-4">
+            <img :src="SearchIcon" alt="" class="w-4 h-4 ml-4 opacity-40" />
+            <input
+              v-model="searchQuery"
+              @input="onSearchInput"
+              type="text"
+              placeholder="search"
+              class="w-full py-2 px-3 text-dark text-base bg-transparent outline-none font-sans placeholder:text-dark/40"
+            />
+          </div>
+          <div v-if="isSearchOpen" class="mb-4">
+            <button
+              v-for="artist in searchResults.artists"
+              :key="artist.id"
+              @click="goToArtist(artist.id)"
+              class="block w-full text-left py-2 text-light/80 text-[14px]"
+            >{{ artist.name }}</button>
+            <button
+              v-for="album in searchResults.albums"
+              :key="album.id"
+              @click="goToAlbum(album.id)"
+              class="flex gap-3 w-full text-left py-2"
+            >
+              <div class="w-10 h-10 bg-white/10 shrink-0 overflow-hidden">
+                <img :src="`/covers/${album.id}.webp`" :alt="album.title" class="w-full h-full object-cover" />
+              </div>
+              <div>
+                <p class="text-[14px] font-bold text-light">{{ album.title }}</p>
+                <p class="text-[12px] text-light/60">{{ album.artistName }}</p>
+              </div>
+            </button>
+          </div>
+          <RouterLink
+            v-for="link in navLinks"
+            :key="link.to"
+            :to="link.to"
+            class="block py-3 text-light/70 text-[16px] font-bold border-b border-light/10 last:border-0"
+          >{{ link.label }}</RouterLink>
+        </div>
+      </div>
+    </Transition>
   </header>
 
   <div
