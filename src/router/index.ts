@@ -33,6 +33,11 @@ const router = createRouter({
       name: 'checkout',
       component: () => import('@/views/CheckoutView.vue')
     },
+    {
+      path: '/:pathMatch(.*)*',
+      name: 'not-found',
+      component: () => import('@/views/NotFoundView.vue')
+    }
   ],
 
 scrollBehavior(_to, _from, savedPosition) {

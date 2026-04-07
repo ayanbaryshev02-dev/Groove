@@ -8,6 +8,7 @@ export const useRecentlyViewedStore = defineStore('recentlyViewed', () => {
   function addAlbum(album: Album) {
     albums.value = [album, ...albums.value.filter(a => a.id !== album.id)].slice(0, 8)
     localStorage.setItem('groove-viewed', JSON.stringify(albums.value))
+    if (!album || !album.id) return
   }
 
   function loadViewed(): Album[] {

@@ -267,7 +267,7 @@ watch(() => route.params.id, loadAlbum)
           <button
             v-if="canPrevSimilar"
             @click="prevSimilar"
-            class="absolute -left-12 top-1/3 -translate-y-1/2 z-10 cursor-pointer hover:opacity-70 transition-opacity"
+            class="absolute -left-12 top-1/3 -translate-y-1/2 z-10 cursor-pointer hover:opacity-70 transition-opacity hidden md:block"
           >
             <img :src="LeftArrow" alt="Previous" class="w-8 h-8" />
           </button>
@@ -277,7 +277,7 @@ watch(() => route.params.id, loadAlbum)
           <button
             v-if="canNextSimilar"
             @click="nextSimilar"
-            class="absolute -right-12 top-1/3 -translate-y-1/2 z-10 cursor-pointer hover:opacity-70 transition-opacity"
+            class="absolute -right-12 top-1/3 -translate-y-1/2 z-10 cursor-pointer hover:opacity-70 transition-opacity hidden md:block"
           >
             <img :src="RightArrow" alt="Next" class="w-8 h-8" />
           </button>
