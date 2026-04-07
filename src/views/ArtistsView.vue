@@ -16,7 +16,7 @@ onMounted(async () => {
 
 <template>
   <div v-if="!isLoading" class="animate-page-in">
-    <div class="max-w-[1200px] mx-auto px-6 pt-4 pb-2">
+    <div class="max-w-[var(--container)] mx-auto px-6 pt-4 pb-2">
       <div class="flex items-center gap-2 text-[14px] text-dark/50">
         <RouterLink to="/" class="hover:text-dark transition-colors">Home</RouterLink>
         <span>›</span>
@@ -24,7 +24,7 @@ onMounted(async () => {
       </div>
     </div>
 
-    <div class="max-w-[1200px] mx-auto px-6 py-12">
+    <div class="max-w-[var(--container)] mx-auto px-6 py-12">
       <div class="grid grid-cols-2 md:grid-cols-4 gap-x-4 md:gap-x-8 gap-y-6 md:gap-y-10">
         <RouterLink
           v-for="artist in [...artists].sort((a, b) => a.name.localeCompare(b.name))"

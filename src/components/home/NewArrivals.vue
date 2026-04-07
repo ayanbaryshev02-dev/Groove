@@ -70,7 +70,7 @@ onUnmounted(() => {
 </script>
 
 <template>
-  <section class="max-w-[1200px] mx-auto px-6 pt-12 pb-16">
+  <section class="max-w-[var(--container)] mx-auto px-6 pt-12 pb-16">
     <h2 class="text-[32px] md:text-[48px] font-bold leading-none mb-6 md:mb-10">NEW ARRIVALS</h2>
 
     <div v-if="albums.length" class="mb-10">

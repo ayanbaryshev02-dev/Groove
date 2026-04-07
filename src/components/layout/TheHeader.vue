@@ -75,7 +75,7 @@ watch(route, () => {
 <template>
   <header>
     <div class="bg-dark text-light">
-      <div class="max-w-[1200px] mx-auto px-4 md:px-6 py-3 md:py-4 flex items-center justify-between gap-3 md:gap-6">
+      <div class="max-w-[var(--container)] mx-auto px-4 md:px-6 py-3 md:py-4 flex items-center justify-between gap-3 md:gap-6">
         <RouterLink to="/" class="shrink-0">
           <img :src="LogoIcon" alt="Groove" class="h-6" />
         </RouterLink>
@@ -179,7 +179,7 @@ watch(route, () => {
     </div>
 
     <nav class="bg-light hidden md:block">
-      <div class="max-w-[1200px] mx-auto px-6 py-3 flex items-center justify-center gap-8">
+      <div class="max-w-[var(--container)] mx-auto px-6 py-3 flex items-center justify-center gap-8">
         <RouterLink
           v-for="link in navLinks"
           :key="link.to"

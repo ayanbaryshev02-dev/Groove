@@ -11,7 +11,7 @@ defineProps<{
 
 <template>
   <section class="bg-dark text-light">
-    <div class="max-w-[1200px] mx-auto px-6 py-16 relative">
+    <div class="max-w-[var(--container)] mx-auto px-6 py-16 relative">
       <SectionHeader title="OUT THIS WEEK" link="/catalog?outThisWeek=true" :light="true" />
       <AlbumCarousel :albums="albums" :light="true" />
     </div>

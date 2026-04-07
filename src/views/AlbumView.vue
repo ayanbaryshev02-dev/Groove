@@ -110,7 +110,7 @@ watch(() => route.params.id, loadAlbum)
 
 <template>
   <div v-if="!isLoading && album" class="animate-page-in">
-    <div class="max-w-[1200px] mx-auto px-6 pt-4 pb-2">
+    <div class="max-w-[var(--container)] mx-auto px-6 pt-4 pb-2">
       <div class="flex items-center gap-2 text-[14px] text-dark/50">
         <button
           @click="router.back()"
@@ -121,7 +121,7 @@ watch(() => route.params.id, loadAlbum)
       </div>
     </div>
 
-    <div class="max-w-[1200px] mx-auto px-6 py-8">
+    <div class="max-w-[var(--container)] mx-auto px-6 py-8">
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-16">
         <div class="md:sticky md:top-8 self-start">
           <div class="relative max-w-[220px] md:max-w-[320px] mx-0 md:mx-0">
@@ -261,7 +261,7 @@ watch(() => route.params.id, loadAlbum)
     </div>
 
     <section v-if="similarAlbums.length" class="border-t border-dark/10">
-      <div class="max-w-[1200px] mx-auto px-6 py-16 relative">
+      <div class="max-w-[var(--container)] mx-auto px-6 py-16 relative">
         <h2 class="text-[32px] md:text-[48px] font-bold leading-none mb-6 md:mb-8">WE THINK YOU'LL LIKE</h2>
         <div class="relative">
           <button

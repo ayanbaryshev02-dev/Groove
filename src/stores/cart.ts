@@ -2,8 +2,26 @@ import { defineStore } from 'pinia'
 import { ref, computed } from 'vue'
 import type { Album, CartItem } from '@/types'
 
+function safeGetItem<T>(key: string, fallback: T): T {
+  try {
+    const data = localStorage.getItem(key)
+    return data ? JSON.parse(data) : fallback
+  } catch {
+    localStorage.removeItem(key)
+    return fallback
+  }
+}
+
+function safeSetItem(key: string, value: unknown) {
+  try {
+    localStorage.setItem(key, JSON.stringify(value))
+  } catch {
+    console.error(`Failed to save ${key}`)
+  }
+}
+
 export const useCartStore = defineStore('cart', () => {
-  const items = ref<CartItem[]>(loadCart())
+  const items = ref<CartItem[]>(safeGetItem('groove-cart', []))
   const isOpen = ref(false)
 
   const totalItems = computed(() =>
@@ -21,13 +39,13 @@ export const useCartStore = defineStore('cart', () => {
     } else {
       items.value.push({ album, quantity: 1 })
     }
-    saveCart()
+    safeSetItem('groove-cart', items.value)
     isOpen.value = true
   }
 
   function removeFromCart(albumId: string) {
     items.value = items.value.filter(item => item.album.id !== albumId)
-    saveCart()
+    safeSetItem('groove-cart', items.value)
   }
 
   function updateQuantity(albumId: string, quantity: number) {
@@ -37,23 +55,14 @@ export const useCartStore = defineStore('cart', () => {
         removeFromCart(albumId)
       } else {
         item.quantity = quantity
-        saveCart()
+        safeSetItem('groove-cart', items.value)
       }
     }
   }
 
   function clearCart() {
     items.value = []
-    saveCart()
-  }
-
-  function saveCart() {
-    localStorage.setItem('groove-cart', JSON.stringify(items.value))
-  }
-
-  function loadCart(): CartItem[] {
-    const data = localStorage.getItem('groove-cart')
-    return data ? JSON.parse(data) : []
+    safeSetItem('groove-cart', items.value)
   }
 
   return { items, isOpen, totalItems, subtotal, addToCart, removeFromCart, updateQuantity, clearCart }

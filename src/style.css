@@ -1,5 +1,13 @@
 @import 'tailwindcss';
 
+@theme {
+  --font-sans: 'Manrope', sans-serif;
+  --color-dark: #1B1C21;
+  --color-light: #FFFFFC;
+  --color-accent: #A62F2F;
+  --container: 1200px;
+}
+
 @font-face {
   font-family: 'Manrope';
   src: url('./assets/fonts/Manrope-Regular.ttf') format('truetype');

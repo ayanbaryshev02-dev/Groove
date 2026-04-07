@@ -2,25 +2,31 @@ import type { Album, Artist } from '@/types'
 
 const BASE = '/api'
 
-export async function getAlbums(params?: Record<string, string>): Promise<Album[]> {
-  const query = params ? '?' + new URLSearchParams(params).toString() : ''
-  const res = await fetch(`${BASE}/albums${query}`)
-  return res.json()
+async function fetchApi<T>(url: string): Promise<T | null> {
+  try {
+    const res = await fetch(url)
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
+    return await res.json()
+  } catch (err) {
+    console.error(`API Error: ${url}`, err)
+    return null
+  }
 }
 
-export async function getAlbum(id: string): Promise<Album> {
-  const res = await fetch(`${BASE}/albums/${id}`)
-  return res.json()
+export async function getAlbums(): Promise<Album[]> {
+  return (await fetchApi<Album[]>(`${BASE}/albums`)) ?? []
+}
+
+export async function getAlbum(id: string): Promise<Album | null> {
+  return fetchApi<Album>(`${BASE}/albums/${id}`)
 }
 
 export async function getArtists(): Promise<Artist[]> {
-  const res = await fetch(`${BASE}/artists`)
-  return res.json()
+  return (await fetchApi<Artist[]>(`${BASE}/artists`)) ?? []
 }
 
-export async function getArtist(id: string): Promise<Artist> {
-  const res = await fetch(`${BASE}/artists/${id}`)
-  return res.json()
+export async function getArtist(id: string): Promise<(Artist & { albums: Album[] }) | null> {
+  return fetchApi<Artist & { albums: Album[] }>(`${BASE}/artists/${id}`)
 }
 
 export async function getFeatured(): Promise<{
@@ -28,13 +34,10 @@ export async function getFeatured(): Promise<{
   outThisWeek: Album[]
   onSale: Album[]
   newArrivals: Album[]
-}> {
-  const res = await fetch(`${BASE}/featured`)
-  return res.json()
+} | null> {
+  return fetchApi(`${BASE}/featured`)
 }
 
 export async function getGenres(): Promise<{ id: string; name: string; color: string }[]> {
-  const res = await fetch(`${BASE}/genres`)
-  return res.json()
+  return (await fetchApi<{ id: string; name: string; color: string }[]>(`${BASE}/genres`)) ?? []
 }
-

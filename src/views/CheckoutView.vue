@@ -87,7 +87,7 @@ onMounted(() => {
 
 <template>
   <div class="animate-page-in">
-    <div class="max-w-[1200px] mx-auto px-6 pt-4 pb-2">
+    <div class="max-w-[var(--container)] mx-auto px-6 pt-4 pb-2">
       <div class="flex items-center gap-2 text-[14px] text-dark/50">
         <RouterLink to="/" class="hover:text-dark transition-colors">Home</RouterLink>
         <span>›</span>
@@ -103,7 +103,7 @@ onMounted(() => {
       </RouterLink>
     </div>
 
-    <div v-else class="max-w-[1200px] mx-auto px-6 py-8">
+    <div v-else class="max-w-[var(--container)] mx-auto px-6 py-8">
       <div class="grid grid-cols-1 md:grid-cols-5 gap-8 md:gap-16">
         <div class="md:col-span-3">
           <div class="flex gap-4 mb-8">

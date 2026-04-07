@@ -9,7 +9,7 @@ defineProps<{
 
 <template>
   <section class="border-t border-dark/10">
-    <div class="max-w-[1200px] mx-auto px-6 py-16">
+    <div class="max-w-[var(--container)] mx-auto px-6 py-16">
       <SectionHeader title="CATALOG" link="/catalog" />
       <div class="grid grid-cols-3 md:grid-cols-5 gap-3 md:gap-4">
         <RouterLink

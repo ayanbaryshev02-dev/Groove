@@ -18,7 +18,7 @@ const vinylImage = computed(() => {
 
 <template>
   <section class="border-t border-dark/10">
-    <div class="max-w-[1200px] mx-auto px-6 py-16">
+    <div class="max-w-[var(--container)] mx-auto px-6 py-16">
       <h2 class="text-[32px] md:text-[48px] font-bold leading-none mb-6 md:mb-10">ALBUM OF THE MONTH: {{ currentMonth }}</h2>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-12 items-center">
         <RouterLink :to="`/album/${album.id}`" class="flex justify-center items-center hover:opacity-90 transition-opacity">

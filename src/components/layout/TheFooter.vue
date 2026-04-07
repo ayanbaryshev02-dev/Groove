@@ -15,7 +15,7 @@ const socials = [
 
 <template>
   <footer class="bg-dark text-light">
-    <div class="max-w-[1200px] mx-auto px-6 pt-16 pb-8">
+    <div class="max-w-[var(--container)] mx-auto px-6 pt-16 pb-8">
       <div class="flex justify-center mb-12">
         <img :src="LogoIcon" alt="Groove" class="h-8" />
       </div>
