@@ -14,10 +14,32 @@ app.use(express.json())
 app.get('/api/albums', (req, res) => {
   let result = albumsData as any[]
 
-  const { genre, search, sale } = req.query
+  const { genre, artist, decade, sale, outThisWeek, sort, page, limit, search } = req.query
 
   if (genre) {
-    result = result.filter(a => a.genre === genre)
+    const genres = (genre as string).split(',')
+    result = result.filter(a => genres.includes(a.genre))
+  }
+
+  if (artist) {
+    const artists = (artist as string).split(',')
+    result = result.filter(a => artists.includes(a.artistId))
+  }
+
+  if (decade) {
+    const decades = (decade as string).split(',')
+    result = result.filter(a => {
+      const d = `${Math.floor(a.originalReleaseYear / 10) * 10}s`
+      return decades.includes(d)
+    })
+  }
+
+  if (sale === 'true') {
+    result = result.filter(a => a.isOnSale)
+  }
+
+  if (outThisWeek === 'true') {
+    result = result.filter(a => a.tags?.includes('out-this-week'))
   }
 
   if (search) {
@@ -28,11 +50,24 @@ app.get('/api/albums', (req, res) => {
     )
   }
 
-  if (sale === 'true') {
-    result = result.filter(a => a.isOnSale)
+  if (sort === 'price-asc') {
+    result.sort((a: any, b: any) => a.price - b.price)
+  } else if (sort === 'price-desc') {
+    result.sort((a: any, b: any) => b.price - a.price)
   }
 
-  res.json(result)
+  const total = result.length
+  const pageNum = parseInt(page as string) || 1
+  const pageSize = parseInt(limit as string) || total
+  const totalPages = Math.ceil(total / pageSize)
+  const paginated = result.slice((pageNum - 1) * pageSize, pageNum * pageSize)
+
+  res.json({
+    data: paginated,
+    page: pageNum,
+    totalPages,
+    total
+  })
 })
 
 // Single album
@@ -40,6 +75,18 @@ app.get('/api/albums/:id', (req, res) => {
   const album = (albumsData as any[]).find(a => a.id === req.params.id)
   if (!album) return res.status(404).json({ error: 'Album not found' })
   res.json(album)
+})
+
+// Similar albums by genre
+app.get('/api/albums/:id/similar', (req, res) => {
+  const album = (albumsData as any[]).find(a => a.id === req.params.id)
+  if (!album) return res.status(404).json({ error: 'Album not found' })
+
+  const similar = (albumsData as any[])
+    .filter(a => a.genre === album.genre && a.id !== album.id)
+    .slice(0, 8)
+
+  res.json(similar)
 })
 
 // All artists
