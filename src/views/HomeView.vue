@@ -25,10 +25,12 @@ onMounted(async () => {
     getGenres()
   ])
 
-  albumOfTheMonth.value = featured.albumOfTheMonth
-  outThisWeek.value = featured.outThisWeek
-  onSale.value = featured.onSale
-  newArrivals.value = featured.newArrivals
+  if (featured) {
+    albumOfTheMonth.value = featured.albumOfTheMonth
+    outThisWeek.value = featured.outThisWeek
+    onSale.value = featured.onSale
+    newArrivals.value = featured.newArrivals
+  }
   genres.value = genresData
   isLoading.value = false
 })
