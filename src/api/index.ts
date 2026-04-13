@@ -1,6 +1,6 @@
 import type { Album, Artist } from '@/types'
 
-const BASE = '/api'
+const BASE = import.meta.env.VITE_API_URL || '/api'
 
 async function fetchApi<T>(url: string): Promise<T> {
   try {

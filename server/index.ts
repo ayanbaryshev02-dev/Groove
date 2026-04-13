@@ -5,12 +5,17 @@ import artistsData from './data/artists.json'
 import featuredData from './data/featured.json'
 
 const app = express()
-const PORT = 3001
+const PORT = process.env.PORT || 3001
 
-app.use(cors())
+app.use(cors({
+  origin: [
+    'http://localhost:5173',
+    'https://groove-vinyl.vercel.app',
+    /\.vercel\.app$/
+  ]
+}))
 app.use(express.json())
 
-// All albums (with optional filters)
 app.get('/api/albums', (req, res) => {
   let result = albumsData as any[]
 
@@ -70,14 +75,14 @@ app.get('/api/albums', (req, res) => {
   })
 })
 
-// Single album
+
 app.get('/api/albums/:id', (req, res) => {
   const album = (albumsData as any[]).find(a => a.id === req.params.id)
   if (!album) return res.status(404).json({ error: 'Album not found' })
   res.json(album)
 })
 
-// Similar albums by genre
+
 app.get('/api/albums/:id/similar', (req, res) => {
   const album = (albumsData as any[]).find(a => a.id === req.params.id)
   if (!album) return res.status(404).json({ error: 'Album not found' })
@@ -89,12 +94,12 @@ app.get('/api/albums/:id/similar', (req, res) => {
   res.json(similar)
 })
 
-// All artists
+
 app.get('/api/artists', (_req, res) => {
   res.json(artistsData)
 })
 
-// Single artist + their albums
+
 app.get('/api/artists/:id', (req, res) => {
   const artist = (artistsData as any[]).find(a => a.id === req.params.id)
   if (!artist) return res.status(404).json({ error: 'Artist not found' })
@@ -103,7 +108,7 @@ app.get('/api/artists/:id', (req, res) => {
   res.json({ ...artist, albums })
 })
 
-// Featured data for home page
+
 app.get('/api/featured', (_req, res) => {
   const f = featuredData as any
 
@@ -115,12 +120,12 @@ app.get('/api/featured', (_req, res) => {
   res.json({ albumOfTheMonth, outThisWeek, onSale, newArrivals })
 })
 
-// Genres
+
 app.get('/api/genres', (_req, res) => {
   res.json((featuredData as any).genres)
 })
 
-// Search (artists + albums + genres)
+
 app.get('/api/search', (req, res) => {
   const q = ((req.query.q as string) || '').toLowerCase()
   if (!q) return res.json({ artists: [], albums: [], genres: [] })
