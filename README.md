@@ -9,7 +9,7 @@
 
 ## 🔗 Live Demo
 
-**[groove-vinyl.vercel.app](https://groove-vinyl.vercel.app)**
+**[groove-vinyl.vercel.app](https://groove-pearl.vercel.app/)**
 
 API hosted on Render: [groove-wfnm.onrender.com](https://groove-wfnm.onrender.com/api/albums)
 
